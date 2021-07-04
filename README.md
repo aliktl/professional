@@ -16,3 +16,6 @@ This is the step by step (one by one) preparation for becoming professional prog
 3) Professional in Python programming language
 4) Professional in Artificial Intelligence
 5) Professional in Databases
+6) Professional in Data Science
+  - https://towardsdatascience.com/data-science-learning-roadmap-for-2021-84f2ba09a44f
+  - https://www.freecodecamp.org/news/data-science-learning-roadmap/
