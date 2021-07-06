@@ -20,6 +20,7 @@ This is the step by step (one by one) preparation for becoming professional prog
 4) Professional in Artificial Intelligence
   - https://www.tutorialspoint.com/natural_language_processing/index.htm
   - https://www.freecodecamp.org/learn/machine-learning-with-python/
+  - https://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_speech_recognition.htm
 6) Professional in Databases
 7) Professional in Data Science
   - https://www.tutorialspoint.com/python_data_science/index.htm
