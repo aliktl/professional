@@ -9,7 +9,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://leetcode.com/wjli/
   - https://leetcode-country-ranking.herokuapp.com/country/KZ
 2) Professional in Data Structures and Algorithms
-  - https://www.tutorialspoint.com/python/index.htm (Python prerequisite for data structures and algorithms on tutorials point)
+  - https://www.tutorialspoint.com/python3/index.htm (Python prerequisite for data structures and algorithms on tutorials point)
   - https://www.tutorialspoint.com/python_data_structure/index.htm (Python data structures and algorithms on tutorials point)
   - https://www.tutorialspoint.com/data_structures_algorithms/index.htm
   - Full Data Structures and Algorithms Course by me from Champions University
