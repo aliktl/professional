@@ -38,3 +38,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://youtu.be/SWYqp7iY_Tc
   - https://youtu.be/MJUJ4wbFm_A
   - https://www.simplilearn.com/tutorials/git-tutorial/git-interview-questions
+
+8) Google Analytics
+  - https://youtu.be/kKPTZNjaKcY?list=PLI5YfMzCfRtZU5Qwzx57HjmZyNE2o5YDN
+  - 
