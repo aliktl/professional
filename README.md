@@ -31,4 +31,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.freecodecamp.org/news/data-science-learning-roadmap/
   - https://www.tutorialspoint.com/docker/index.htm
 7) Git and Github
-  - https://youtu.be/RGOj5yH7evk 
+  - https://youtu.be/RGOj5yH7evk
+  - https://youtu.be/zZBiln_2FhM
+  - https://youtu.be/SWYqp7iY_Tc
+  - https://youtu.be/MJUJ4wbFm_A
