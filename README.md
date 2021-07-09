@@ -42,4 +42,4 @@ This is the step by step (one by one) preparation for becoming professional prog
 
 8) Google Analytics
   - https://youtu.be/kKPTZNjaKcY?list=PLI5YfMzCfRtZU5Qwzx57HjmZyNE2o5YDN
-  - 
+  - https://analytics.google.com/analytics/academy/course/6/unit/1/lesson/1
