@@ -10,6 +10,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://leetcode-country-ranking.herokuapp.com/country/KZ
 
 2) Professional in Python programming language
+  - https://www.kaggle.com/learn/python
   - https://www.tutorialspoint.com/python3/index.htm (Python prerequisite for data structures and algorithms on tutorials point)
 
 3) Professional in Data Structures and Algorithms
