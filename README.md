@@ -13,6 +13,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.kaggle.com/learn/python
   - https://www.tutorialspoint.com/python3/index.htm (Python prerequisite for data structures and algorithms on tutorials point)
   - https://www.geeksforgeeks.org/python-programming-language/ (Python Geeks for Geeks professional advanced level)
+  - https://youtu.be/WGJJIrtnfpk
 
 3) Professional in Data Structures and Algorithms
   - https://www.tutorialspoint.com/python_data_structure/index.htm (Python data structures and algorithms on tutorials point)
