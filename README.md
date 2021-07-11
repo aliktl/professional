@@ -29,6 +29,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_speech_recognition.htm
   - https://www.simplilearn.com/skillup-free-online-courses?utm_campaign=Skillup-AWS&utm_medium=DescriptionFirstFold&utm_source=youtube#AI-&-Machine-Learning
   - https://www.youtube.com/playlist?list=PLqFaTIg4myu9-T-fat2zjC5HmTpSybNfa
+  - https://www.kaggle.com/kanncaa1/deep-learning-tutorial-for-beginners
 
 
 5) Professional in Databases
