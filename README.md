@@ -28,13 +28,20 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.freecodecamp.org/learn/machine-learning-with-python/
   - https://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_speech_recognition.htm
   - https://www.simplilearn.com/skillup-free-online-courses?utm_campaign=Skillup-AWS&utm_medium=DescriptionFirstFold&utm_source=youtube#AI-&-Machine-Learning
+  - https://www.youtube.com/playlist?list=PLqFaTIg4myu9-T-fat2zjC5HmTpSybNfa
+
+
 5) Professional in Databases
-6) Professional in Data Science
+
+
+7) Professional in Data Science
   - https://www.tutorialspoint.com/python_data_science/index.htm
   - https://towardsdatascience.com/data-science-learning-roadmap-for-2021-84f2ba09a44f
   - https://www.freecodecamp.org/news/data-science-learning-roadmap/
   - https://www.tutorialspoint.com/docker/index.htm
-7) Git and Github
+
+
+8) Git and Github
   - https://youtu.be/RGOj5yH7evk
   - https://youtu.be/zZBiln_2FhM
   - https://youtu.be/SWYqp7iY_Tc
