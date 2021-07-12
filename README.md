@@ -2,6 +2,7 @@
 This is the step by step (one by one) preparation for becoming professional programmer
 
 1) Believe in yourself
+  - https://www.levels.fyi/2020/
   - https://www.youtube.com/watch?v=YJZCUhxNCv8 (How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee)
   - https://leetcode.com/goalboy/
   - https://leetcode.com/ars0/
