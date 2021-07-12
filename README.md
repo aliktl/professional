@@ -3,6 +3,7 @@ This is the step by step (one by one) preparation for becoming professional prog
 
 1) Believe in yourself
   - https://www.levels.fyi/2020/
+  - https://www.quora.com/When-the-interviewer-asks-you-Why-Google-or-%E2%80%98why-any-company-%E2%80%99-how-do-you-answer
   - https://www.youtube.com/watch?v=YJZCUhxNCv8 (How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee)
   - https://leetcode.com/goalboy/
   - https://leetcode.com/ars0/
