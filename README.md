@@ -33,6 +33,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/playlist?list=PLqFaTIg4myu9-T-fat2zjC5HmTpSybNfa
   - https://www.kaggle.com/kanncaa1/deep-learning-tutorial-for-beginners
   - https://ai.google/education/
+  - https://developers.google.com/machine-learning/crash-course/
 
 
 5) Professional in Databases
