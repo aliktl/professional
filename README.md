@@ -39,6 +39,7 @@ This is the step by step (one by one) preparation for becoming professional prog
 
 
 5) Professional in Databases
+  - https://www.tutorialspoint.com/sql/index.htm
 
 
 7) Professional in Data Science
