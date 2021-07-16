@@ -96,5 +96,8 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://github.com/ZuzooVn/machine-learning-for-software-engineers
   - https://github.com/dabeaz-course/practical-python
   - https://github.com/charlax/python-education
+  - https://towardsdatascience.com/top-11-github-repositories-to-learn-python-e75e8676757a
+  - https://www.geeksforgeeks.org/top-10-useful-github-repos-that-every-developer-should-follow/
+  - https://medium.com/pythoneers/35-most-valuable-github-repositories-for-developers-45ab9df1af81
   - 
  
