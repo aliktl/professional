@@ -13,6 +13,7 @@ This is the step by step (one by one) preparation for becoming professional prog
 
 2) Professional in Python programming language
   - - [x] https://www.kaggle.com/learn/python
+  - https://www.youtube.com/watch?v=QLTdOEn79Rc&list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2
   - https://www.tutorialspoint.com/python3/index.htm (Python prerequisite for data structures and algorithms on tutorials point)
   - https://www.geeksforgeeks.org/python-programming-language/ (Python Geeks for Geeks professional advanced level)
   - https://youtu.be/WGJJIrtnfpk
@@ -59,3 +60,16 @@ This is the step by step (one by one) preparation for becoming professional prog
 8) Google Analytics
   - https://youtu.be/kKPTZNjaKcY?list=PLI5YfMzCfRtZU5Qwzx57HjmZyNE2o5YDN
   - https://analytics.google.com/analytics/academy/course/6/unit/1/lesson/1
+
+9) Professional resources
+  - https://www.kaggle.com/learn
+  - https://www.geeksforgeeks.org/
+  - https://www.tutorialspoint.com/tutorialslibrary.htm
+  - https://www.coursera.org/
+  - https://www.freecodecamp.org/learn/
+  - https://www.w3schools.com/
+  - https://www.technotification.com/2019/01/youtube-channels-computer-science.html
+  - https://www.youtube.com/user/thenewboston/featured
+  - https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA
+  - https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg
+  - https://www.youtube.com/c/SimplilearnOfficial/playlists
