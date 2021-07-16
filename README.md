@@ -91,4 +91,4 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.freecodecamp.org/news/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13/
   - https://github.com/jwasham/coding-interview-university#computer-science-courses
   - https://github.com/ZuzooVn/machine-learning-for-software-engineers
-  - 
+ 
