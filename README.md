@@ -40,6 +40,8 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://ai.google/education/
   - https://developers.google.com/machine-learning/crash-course/
   - https://www.simplilearn.com/tutorials/machine-learning-tutorial?source=sl_frs_nav_playlist_video_clicked
+  - https://www.javatpoint.com/deep-learning
+  - https://www.javatpoint.com/machine-learning
 
 
 5) Professional in Databases
@@ -65,7 +67,11 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://youtu.be/kKPTZNjaKcY?list=PLI5YfMzCfRtZU5Qwzx57HjmZyNE2o5YDN
   - https://analytics.google.com/analytics/academy/course/6/unit/1/lesson/1
 
-9) Professional resources
+9) Django
+  - https://www.javatpoint.com/django-tutorial
+
+
+10)  Professional resources
   - https://www.kaggle.com/learn
   - https://www.geeksforgeeks.org/
   - https://www.tutorialspoint.com/tutorialslibrary.htm
