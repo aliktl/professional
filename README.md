@@ -23,6 +23,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.geeksforgeeks.org/python-programming-language/ (Python Geeks for Geeks professional advanced level)
   - https://youtu.be/WGJJIrtnfpk
   - https://www.edureka.co/blog/interview-questions/python-interview-questions/
+  - https://docs.python.org/3/tutorial/index.html
 
 3) Professional in Data Structures and Algorithms
   - https://www.tutorialspoint.com/python_data_structure/index.htm (Python data structures and algorithms on tutorials point)
@@ -91,4 +92,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.freecodecamp.org/news/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13/
   - https://github.com/jwasham/coding-interview-university#computer-science-courses
   - https://github.com/ZuzooVn/machine-learning-for-software-engineers
+  - https://github.com/dabeaz-course/practical-python
+  - https://github.com/charlax/python-education
+  - 
  
