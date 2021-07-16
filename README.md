@@ -3,7 +3,9 @@ This is the step by step (one by one) preparation for becoming professional prog
 
 1) Believe in yourself
   - https://www.youtube.com/watch?v=YJZCUhxNCv8 (How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee)
+  - https://www.levels.fyi/2020/
   - https://animeheaven.pro/watch/baby-steps-dO3-episode-1/
+  - https://www.quora.com/What-are-steps-to-be-a-professional-programmer
   - https://www.levels.fyi/2020/
   - https://www.quora.com/When-the-interviewer-asks-you-Why-Google-or-%E2%80%98why-any-company-%E2%80%99-how-do-you-answer
   - https://leetcode.com/goalboy/
@@ -11,6 +13,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://leetcode.com/awice/
   - https://leetcode.com/wjli/
   - https://leetcode-country-ranking.herokuapp.com/country/KZ
+  - https://www.quora.com/How-do-I-become-an-expert-Python-programmer
 
 2) Professional in Python programming language
   - - [x] https://www.kaggle.com/learn/python
@@ -83,3 +86,9 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA
   - https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg
   - https://www.youtube.com/c/SimplilearnOfficial/playlists
+  - https://github.com/charlax/professional-programming
+  - https://github.com/jwasham/coding-interview-university
+  - https://www.freecodecamp.org/news/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13/
+  - https://github.com/jwasham/coding-interview-university#computer-science-courses
+  - https://github.com/ZuzooVn/machine-learning-for-software-engineers
+  - 
