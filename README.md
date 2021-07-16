@@ -49,6 +49,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.javatpoint.com/deep-learning
   - https://www.javatpoint.com/machine-learning
   - https://developers.google.com/machine-learning/crash-course
+  - https://www.youtube.com/watch?v=TEEAz-Sn15c&list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL
 
 
 5) Professional in Databases
@@ -102,5 +103,5 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://medium.com/pythoneers/35-most-valuable-github-repositories-for-developers-45ab9df1af81
   - https://www.tensorflow.org/tutorials
   - https://github.com/amanjeetsahu/Natural-Language-Processing-Specialization
-  - 
+  - https://github.com/amitness/learning
  
