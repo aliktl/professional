@@ -14,6 +14,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://leetcode.com/wjli/
   - https://leetcode-country-ranking.herokuapp.com/country/KZ
   - https://www.quora.com/How-do-I-become-an-expert-Python-programmer
+  - https://www.quora.com/What-is-the-best-worst-case-scenario-in-your-life
 
 2) Professional in Python programming language
   - - [x] https://www.kaggle.com/learn/python
