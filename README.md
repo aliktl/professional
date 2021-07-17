@@ -18,8 +18,8 @@ This is the step by step (one by one) preparation for becoming professional prog
 
 2) Professional in Python programming language
   - - [x] https://www.kaggle.com/learn/python
-  - https://www.javatpoint.com/python-tutorial
   - https://www.youtube.com/watch?v=QLTdOEn79Rc&list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2
+  - https://www.javatpoint.com/python-tutorial
   - https://www.tutorialspoint.com/python3/index.htm (Python prerequisite for data structures and algorithms on tutorials point)
   - https://www.geeksforgeeks.org/python-programming-language/ (Python Geeks for Geeks professional advanced level)
   - https://youtu.be/WGJJIrtnfpk
