@@ -6,7 +6,6 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.levels.fyi/2020/
   - https://animeheaven.pro/watch/baby-steps-dO3-episode-1/
   - https://www.quora.com/What-are-steps-to-be-a-professional-programmer
-  - https://www.levels.fyi/2020/
   - https://www.quora.com/When-the-interviewer-asks-you-Why-Google-or-%E2%80%98why-any-company-%E2%80%99-how-do-you-answer
   - https://leetcode.com/goalboy/
   - https://leetcode.com/ars0/
