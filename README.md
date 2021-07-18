@@ -27,6 +27,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://docs.python.org/3/tutorial/index.html
   - https://runestone.academy/runestone/books/published/pythonds/index.html
   - https://github.com/s16h/py-must-watch
+  - https://www.w3schools.com/python/default.asp
 
 3) Professional in Data Structures and Algorithms
   - https://www.tutorialspoint.com/python_data_structure/index.htm (Python data structures and algorithms on tutorials point)
