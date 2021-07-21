@@ -2,18 +2,23 @@
 This is the step by step (one by one) preparation for becoming professional programmer
 
 1) Believe in yourself
+  - https://www.quora.com/I-cant-even-solve-easy-problems-on-LeetCode-What-should-I-do
   - https://www.youtube.com/watch?v=YJZCUhxNCv8 (How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee)
   - https://www.levels.fyi/2020/
-  - https://animeheaven.pro/watch/baby-steps-dO3-episode-1/
-  - https://www.quora.com/What-are-steps-to-be-a-professional-programmer
-  - https://www.quora.com/When-the-interviewer-asks-you-Why-Google-or-%E2%80%98why-any-company-%E2%80%99-how-do-you-answer
+  - https://youtu.be/VpoIrS6G_Ek
   - https://leetcode.com/goalboy/
   - https://leetcode.com/ars0/
   - https://leetcode.com/awice/
   - https://leetcode.com/wjli/
+  - https://animeheaven.pro/watch/baby-steps-dO3-episode-1/
+  - https://www.quora.com/What-are-steps-to-be-a-professional-programmer
+  - https://www.quora.com/When-the-interviewer-asks-you-Why-Google-or-%E2%80%98why-any-company-%E2%80%99-how-do-you-answer
   - https://leetcode-country-ranking.herokuapp.com/country/KZ
   - https://www.quora.com/How-do-I-become-an-expert-Python-programmer
   - https://www.quora.com/What-is-the-best-worst-case-scenario-in-your-life
+  - https://www.youtube.com/watch?v=ImEnWAVRLU0
+  - https://youtu.be/oz1AoX5um9c
+  - https://www.youtube.com/watch?v=CGXgINZpvME
 
 2) Professional in Python programming language
   - https://www.kaggle.com/learn/python
