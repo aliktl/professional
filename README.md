@@ -2,6 +2,7 @@
 This is the step by step (one by one) preparation for becoming professional programmer
 
 1) Believe in yourself
+  - https://www.youtube.com/watch?v=NBSHaKDfSOk
   - https://youtu.be/VpoIrS6G_Ek
   - https://www.quora.com/I-cant-even-solve-easy-problems-on-LeetCode-What-should-I-do
   - https://www.youtube.com/watch?v=YJZCUhxNCv8 (How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee)
