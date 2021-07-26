@@ -88,10 +88,15 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://analytics.google.com/analytics/academy/course/6/unit/1/lesson/1
 
 9) Django
-  - https://www.javatpoint.com/django-tutorial
+  - https://www.javatpoint.com/django-tutorial 
 
 
-10)  Professional resources
+10) Behavioral Interview
+  - https://www.pathrise.com/guides/45-behavioral-interview-questions/
+  
+
+
+12)    Professional resources
   - https://www.kaggle.com/learn
   - https://www.geeksforgeeks.org/
   - https://www.tutorialspoint.com/tutorialslibrary.htm
