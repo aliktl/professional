@@ -93,6 +93,9 @@ This is the step by step (one by one) preparation for becoming professional prog
 
 10) Behavioral Interview
   - https://www.pathrise.com/guides/45-behavioral-interview-questions/
+  - https://www.springboard.com/blog/software-engineering/21-software-engineering-interview-questions/
+  - https://careerkarma.com/blog/behavioral-interview-questions/
+  - 
   
 
 
