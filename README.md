@@ -2,11 +2,14 @@
 This is the step by step (one by one) preparation for becoming professional programmer
 
 1) Believe in yourself
-  - https://www.youtube.com/watch?v=h0XLK2Slayc&t (Сын ухаживает за мамой инвалидом)
+  - https://www.youtube.com/watch?v=yX39J_YyKbs (I am a champion - the greatest speech ever)
+  - https://www.youtube.com/watch?v=pZ_eNPAvZG4 (Будь настоящим Чемпионом (Тренер Картер))
+  - https://www.youtube.com/watch?v=Q-7z2QZQgZk ("Господи молю тебя, дай спасти ещё одного" По соображениям совести)
   - https://www.youtube.com/watch?v=NBSHaKDfSOk (Эмоциональный разговор с тренером о драке с Райаном. Никогда не сдавайся)
   - https://youtu.be/VpoIrS6G_Ek (Мне 24 и Я просрал Свою Жизнь (Что Делать?))
   - https://www.quora.com/I-cant-even-solve-easy-problems-on-LeetCode-What-should-I-do
   - https://www.youtube.com/watch?v=YJZCUhxNCv8 (How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee)
+  - момент председатель коров поднимает монтировать и загрузить на гугл драйв
   - https://www.levels.fyi/2020/
   - https://leetcode.com/goalboy/
   - https://leetcode.com/ars0/
@@ -19,6 +22,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://leetcode-country-ranking.herokuapp.com/country/KZ
   - https://www.quora.com/How-do-I-become-an-expert-Python-programmer
   - https://www.quora.com/What-is-the-best-worst-case-scenario-in-your-life
+  - https://www.youtube.com/watch?v=h0XLK2Slayc&t (Сын ухаживает за мамой инвалидом)
   - https://www.youtube.com/watch?v=ImEnWAVRLU0 (Mike Ross' Interview with Harvey Specter | Suits)
   - https://youtu.be/oz1AoX5um9c (Louis Demands Respect From Harvey And Robert! - Suits)
   - https://youtu.be/CGXgINZpvME?t=38 (🇺🇸 Don Frye vs 🇯🇵 Yoshihiro Takayama - CRAZY MMA FIGHT)
