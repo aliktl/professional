@@ -74,16 +74,17 @@ https://www.youtube.com/watch?v=sfWyugl4JWA
 
 ### Leetcode Easy
 
-771. Jewels and Stones
+https://leetcode.com/problems/jewels-and-stones/
 
-* Problem: https://leetcode.com/problems/jewels-and-stones/
 * Solution Java 1: https://www.youtube.com/watch?v=tKh0-qNFU8s
+
 * Solution Java 2: https://www.youtube.com/watch?v=9Reqqk60Nv4
+
 * Solution Python 1: https://www.youtube.com/watch?v=CyRiwifkg4g
+
 * Solution Python 2: https://www.youtube.com/watch?v=0IHUHuJavco
 
 
-<img width="839" alt="image" src="https://user-images.githubusercontent.com/41929207/127313173-1c5fe8da-0023-467c-b945-872dfd2f6412.png">
 
 
 
