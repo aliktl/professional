@@ -35,14 +35,14 @@ https://www.youtube.com/watch?v=gDqQf4Ekr2A
 ### Leetcode Easy
 
 https://leetcode.com/problems/two-sum/
-1480. Running Sum of 1d Array
-   https://leetcode.com/problems/running-sum-of-1d-array/
-1470. Shuffle the Array
-   https://leetcode.com/problems/shuffle-the-array/
-169. Majority Element
-   https://leetcode.com/problems/majority-element/
-283. Move Zeros
-   https://leetcode.com/problems/move-zeroes/
+
+https://leetcode.com/problems/running-sum-of-1d-array/
+
+https://leetcode.com/problems/shuffle-the-array/
+
+https://leetcode.com/problems/majority-element/
+
+https://leetcode.com/problems/move-zeroes/
 
 
 # 3. Hash Tables
