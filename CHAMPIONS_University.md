@@ -382,29 +382,146 @@ https://leetcode.com/problems/squares-of-a-sorted-array/
 
 # 11. Divide and Conquer
 
-## Theory 
+## Theory
+
+https://www.youtube.com/watch?v=2Rr2tW9zvRg
+
+https://www.khanacademy.org/computing/computer-science/algorithms/merge-sort/a/divide-and-conquer-algorithms
+
+https://www.tutorialspoint.com/data_structures_algorithms/divide_and_conquer.htm
+
+https://www.geeksforgeeks.org/divide-and-conquer-algorithm-introduction/
+
+https://www.programiz.com/dsa/divide-and-conquer
+
+
+https://www.youtube.com/watch?v=11V7Ik0IBHU
+
+https://www.youtube.com/watch?v=x78uQu730b0
+
+https://www.youtube.com/watch?v=Pu2KeAy8BGY
+
+https://www.youtube.com/watch?v=EzeYI7p9MjU
+
+https://www.youtube.com/watch?v=f_VwpXp5q_8
+
+
 
 ## Practice
 
 ### Leetcode Easy
+
+https://leetcode.com/problems/majority-element/
+
+https://leetcode.com/problems/maximum-subarray/
 
 
 # 12. Recursion
 
 ## Theory 
 
+https://dev.to/christinamcmahon/recursion-explained-with-examples-4k1m
+
+https://www.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/a/recursion
+
+https://www.tutorialspoint.com/data_structures_algorithms/recursion_basics.htm
+
+https://www.geeksforgeeks.org/recursion/
+
+https://www.programiz.com/python-programming/recursion
+
+
+https://youtu.be/eGE-tFalwpA
+
+https://youtu.be/ngCos392W4w
+
+https://youtu.be/KEEKn7Me-ms
+
+https://youtu.be/WPSeyjX1-4s
+
+https://www.youtube.com/watch?v=rf60MejMz3E
+
+https://www.youtube.com/watch?v=vPEJSJMg4jY
+
+
+
 ## Practice
 
 ### Leetcode Easy
+
+https://leetcode.com/problems/merge-two-sorted-lists/
+
+https://leetcode.com/problems/remove-linked-list-elements/
+
+https://leetcode.com/problems/reverse-string/
 
 
 # 13. Trees
 
-## Theory 
+## Theory
+
+https://en.wikipedia.org/wiki/Tree_(data_structure)
+
+https://www.freecodecamp.org/news/all-you-need-to-know-about-tree-data-structures-bceacb85490c/
+
+https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm
+
+https://www.geeksforgeeks.org/binary-tree-data-structure/
+
+https://www.cs.cmu.edu/~clo/www/CMU/DataStructures/Lessons/lesson4_1.htm
+
+
+
+https://www.youtube.com/watch?v=qH6yxkw0u78
+
+https://www.youtube.com/watch?v=1-l_UOFi1Xw
+
+https://www.youtube.com/watch?v=IpyCqRmaKW4&list=PLqM7alHXFySHCXD7r1J0ky9Zg_GBB1dbk
+
+https://www.youtube.com/watch?v=qH6yxkw0u78&list=PL-pUjcDnciX3Z5AEE8HHRrcfj-987Ia94
+
+https://www.youtube.com/watch?v=oSWTXtMglKE
+
+https://www.youtube.com/watch?v=H5JubkIy_p8
+
+https://www.youtube.com/watch?v=BHB0B1jFKQc
+
+https://www.youtube.com/watch?v=4r_XR9fUPhQ
+
+https://www.youtube.com/watch?v=YAdLFsTG70w
+
+
+
+
+
+
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/41929207/127317546-46d4fe34-d3ef-4993-a351-c3a71eccc845.png">
+
+
+
 
 ## Practice
 
 ### Leetcode Easy
+
+https://leetcode.com/problems/diameter-of-binary-tree/
+
+https://leetcode.com/problems/invert-binary-tree/
+
+https://leetcode.com/problems/subtree-of-another-tree/
+
+https://leetcode.com/problems/range-sum-of-bst/
+
+https://leetcode.com/problems/closest-binary-search-tree-value/
+
+https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+
+https://leetcode.com/problems/merge-two-binary-trees/
+
+https://leetcode.com/problems/maximum-depth-of-binary-tree/
+
+https://leetcode.com/problems/binary-tree-paths/
 
 
 # 14. Backtracking
