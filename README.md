@@ -22,6 +22,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/watch?v=ImEnWAVRLU0
   - https://youtu.be/oz1AoX5um9c
   - https://www.youtube.com/watch?v=CGXgINZpvME
+  - https://www.youtube.com/watch?v=M5QY2_8704o (Music to work)
 
 2) Professional in Python programming language
   - https://www.kaggle.com/learn/python (Kaggle Python Tutorial)
