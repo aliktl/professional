@@ -496,10 +496,6 @@ https://www.youtube.com/watch?v=YAdLFsTG70w
 
 
 
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/41929207/127317546-46d4fe34-d3ef-4993-a351-c3a71eccc845.png">
-
-
-
 
 ## Practice
 
