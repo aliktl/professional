@@ -336,11 +336,48 @@ https://leetcode.com/problems/diet-plan-performance/
 
 # 10. Two Pointers
 
-## Theory 
+## Theory
+
+https://www.geeksforgeeks.org/two-pointers-technique/
+
+https://leetcode.com/articles/two-pointer-technique/
+
+https://algodaily.com/lessons/using-the-two-pointer-technique
+
+https://medium.com/swlh/two-pointer-technique-solving-array-problems-at-light-speed-56a77ee83d16
+
+
+https://afteracademy.com/blog/what-is-the-two-pointer-technique
+
+https://www.interviewbit.com/courses/programming/topics/two-pointers/
+
+https://towardsdatascience.com/two-pointer-approach-python-code-f3986b602640
+
+
+
+https://www.youtube.com/watch?v=2wVjt3yhGwg
+
+https://www.youtube.com/watch?v=0l2nePjDFuA
+
+https://www.youtube.com/watch?v=BK2uHZhMQRc&list=PLrCgpbIKf37Q1HMMYY6YvXjcsip9kNIS5
+
+https://www.youtube.com/watch?v=QwN-weNSrAg
+
+https://www.youtube.com/watch?v=ubSqGpj3o_s
+
+
+
+
 
 ## Practice
 
 ### Leetcode Easy
+
+https://leetcode.com/problems/reverse-vowels-of-a-string/
+
+https://leetcode.com/problems/reverse-string/
+
+https://leetcode.com/problems/squares-of-a-sorted-array/
 
 
 # 11. Divide and Conquer
