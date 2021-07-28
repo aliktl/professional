@@ -1,9 +1,6 @@
 # 1. Time Complexity Space Complexity Analysis
 
 ## Theory
-**Big O notation** is a mathematical notation that describes the limiting behavior of a function when the argument tends towards a particular value or infinity.
-
-In computer science, big O notation is used to classify algorithms according to how their **run time** or **space** requirements grow as the input size grows
 
 https://www.youtube.com/watch?v=v4cd1O4zkGw
 
@@ -24,7 +21,6 @@ https://www.youtube.com/watch?v=CB8JPjg_3cM
 https://www.youtube.com/watch?v=-Eiw_-v__Vo
 
 
-
 ## Practice
 
 
@@ -35,6 +31,18 @@ https://www.youtube.com/watch?v=-Eiw_-v__Vo
 https://www.youtube.com/watch?v=gDqQf4Ekr2A
 
 ## Practice
+
+### Leetcode Easy
+
+https://leetcode.com/problems/two-sum/
+1480. Running Sum of 1d Array
+   https://leetcode.com/problems/running-sum-of-1d-array/
+1470. Shuffle the Array
+   https://leetcode.com/problems/shuffle-the-array/
+169. Majority Element
+   https://leetcode.com/problems/majority-element/
+283. Move Zeros
+   https://leetcode.com/problems/move-zeroes/
 
 
 # 3. Hash Tables
