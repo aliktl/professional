@@ -76,15 +76,19 @@ https://www.youtube.com/watch?v=sfWyugl4JWA
 
 https://leetcode.com/problems/jewels-and-stones/
 
-* Solution Java 1: https://www.youtube.com/watch?v=tKh0-qNFU8s
+https://leetcode.com/problems/design-hashmap/
 
-* Solution Java 2: https://www.youtube.com/watch?v=9Reqqk60Nv4
+https://leetcode.com/problems/valid-anagram/
 
-* Solution Python 1: https://www.youtube.com/watch?v=CyRiwifkg4g
+https://leetcode.com/problems/first-unique-character-in-a-string/
 
-* Solution Python 2: https://www.youtube.com/watch?v=0IHUHuJavco
+https://leetcode.com/problems/happy-number/
 
+https://leetcode.com/problems/design-hashset/
 
+https://leetcode.com/problems/palindrome-permutation/
+
+https://leetcode.com/problems/longest-palindrome/
 
 
 
@@ -92,9 +96,56 @@ https://leetcode.com/problems/jewels-and-stones/
 
 ## Theory 
 
+https://en.wikipedia.org/wiki/Linked_list#:~:text=In%20computer%20science%2C%20a%20linked,which%20together%20represent%20a%20sequence
+
+https://www.geeksforgeeks.org/data-structures/linked-list/
+
+https://www.tutorialspoint.com/data_structures_algorithms/linked_list_algorithms.htm
+
+https://www.programiz.com/dsa/linked-list
+
+https://www.interviewbit.com/courses/programming/topics/linked-lists/
+
+
+https://www.youtube.com/watch?v=R9PTBwOzceo
+ 
+https://www.youtube.com/watch?v=WwfhLC16bis
+
+https://www.youtube.com/watch?v=njTh_OwMljA
+
+https://www.youtube.com/watch?v=YQQio9BGWgs
+
+https://www.youtube.com/watch?v=dmb1i4oN5oE
+
+https://www.youtube.com/watch?v=qp8u-frRAnU
+
+
 ## Practice
 
 ### Leetcode Easy
+
+https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
+
+https://leetcode.com/problems/middle-of-the-linked-list/
+
+https://leetcode.com/problems/delete-node-in-a-linked-list/
+
+
+https://leetcode.com/problems/reverse-linked-list/
+
+https://leetcode.com/problems/merge-two-sorted-lists/
+
+https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+
+https://leetcode.com/problems/intersection-of-two-linked-lists/
+
+https://leetcode.com/problems/linked-list-cycle/
+
+https://leetcode.com/problems/palindrome-linked-list/
+
+https://leetcode.com/problems/remove-linked-list-elements/
+
+
 
 
 # 5. Stacks
