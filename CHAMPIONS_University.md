@@ -1,4 +1,4 @@
-# {1. Time Complexity _ Space Complexity Analysis}
+# 1. Time Complexity Space Complexity Analysis
 
 ## {2. Arrays}
 
