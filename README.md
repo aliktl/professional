@@ -2,9 +2,9 @@
 This is the step by step (one by one) preparation for becoming professional programmer
 
 1) Believe in yourself
-  - https://www.youtube.com/watch?v=h0XLK2Slayc&t=355s
-  - https://www.youtube.com/watch?v=NBSHaKDfSOk
-  - https://youtu.be/VpoIrS6G_Ek
+  - https://www.youtube.com/watch?v=h0XLK2Slayc&t (Сын ухаживает за мамой инвалидом)
+  - https://www.youtube.com/watch?v=NBSHaKDfSOk (Эмоциональный разговор с тренером о драке с Райаном. Никогда не сдавайся)
+  - https://youtu.be/VpoIrS6G_Ek (Мне 24 и Я просрал Свою Жизнь (Что Делать?))
   - https://www.quora.com/I-cant-even-solve-easy-problems-on-LeetCode-What-should-I-do
   - https://www.youtube.com/watch?v=YJZCUhxNCv8 (How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee)
   - https://www.levels.fyi/2020/
@@ -19,9 +19,9 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://leetcode-country-ranking.herokuapp.com/country/KZ
   - https://www.quora.com/How-do-I-become-an-expert-Python-programmer
   - https://www.quora.com/What-is-the-best-worst-case-scenario-in-your-life
-  - https://www.youtube.com/watch?v=ImEnWAVRLU0
-  - https://youtu.be/oz1AoX5um9c
-  - https://www.youtube.com/watch?v=CGXgINZpvME
+  - https://www.youtube.com/watch?v=ImEnWAVRLU0 (Mike Ross' Interview with Harvey Specter | Suits)
+  - https://youtu.be/oz1AoX5um9c (Louis Demands Respect From Harvey And Robert! - Suits)
+  - https://youtu.be/CGXgINZpvME?t=38 (🇺🇸 Don Frye vs 🇯🇵 Yoshihiro Takayama - CRAZY MMA FIGHT)
   - https://www.youtube.com/watch?v=M5QY2_8704o (Music to work)
 
 2) Professional in Python programming language
