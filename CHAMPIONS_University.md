@@ -522,20 +522,89 @@ https://leetcode.com/problems/binary-tree-paths/
 
 # 14. Backtracking
 
-## Theory 
+## Theory
+
+https://www.geeksforgeeks.org/backtracking-algorithms/
+
+https://www.hackerearth.com/practice/basic-programming/recursion/recursion-and-backtracking/tutorial/
+
+https://www.interviewbit.com/courses/programming/topics/backtracking/
+
+https://www.cis.upenn.edu/~matuszek/cit594-2012/Pages/backtracking.html
+
+https://www.javatpoint.com/backtracking-introduction
+
+https://www.programiz.com/dsa/backtracking-algorithm
+
+https://www.tutorialspoint.com/introduction-to-backtracking
+
+https://www.cs.cmu.edu/afs/cs/project/jair/pub/volume4/vanbeek96a-html/node6.html
+
+
+https://www.youtube.com/watch?v=DKCbsiDBN6c
+
+https://www.youtube.com/watch?v=gBC_Fd8EE8A
+
+https://www.youtube.com/watch?v=Zq4upTEaQyM
+
+https://www.youtube.com/watch?v=CQ3nDMcchdA
+
+https://www.youtube.com/watch?v=PC0lSbDN2gY
+
+https://www.youtube.com/watch?v=S3rnLLHl0PM
+
+https://www.youtube.com/watch?v=-47nFq_9_zk
+
+
+
 
 ## Practice
 
 ### Leetcode Easy
+
+https://leetcode.com/problems/binary-watch/
+
+https://leetcode.com/problems/sum-of-all-subset-xor-totals/
 
 
 # 15. Graphs
 
-## Theory 
+## Theory
+
+https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
+
+https://www.tutorialspoint.com/data_structures_algorithms/graph_data_structure.htm
+
+https://www.programiz.com/dsa/graph
+
+https://www.educative.io/edpresso/what-is-a-graph-data-structure
+
+https://www.javatpoint.com/ds-graph
+
+https://www.upgrad.com/blog/graphs-in-data-structure/
+
+https://medium.com/@singhamritpal49/graph-data-structure-49427c81b3b3
+
+
+https://www.youtube.com/watch?v=gXgEDyodOJU
+
+https://www.youtube.com/watch?v=1n5XPFcvxds&list=PLqM7alHXFySEaZgcg7uRYJFBnYMLti-nh
+
+https://www.youtube.com/watch?v=5hPfm_uqXmw&list=PLm77mruelczpPDzLgp4UefbQRT4-cyJsW
+
+https://www.youtube.com/watch?v=caAVlibiTkY&list=PLEJXowNB4kPzByLnnFYNSCoqtFz0VKLk5
+
+https://www.youtube.com/watch?v=j0IYCyBdzfA
+
+
 
 ## Practice
 
 ### Leetcode Easy
+
+https://leetcode.com/problems/find-center-of-star-graph/
+
+https://leetcode.com/problems/find-the-town-judge/
 
 
 # 16. Dynamic Programming
