@@ -92,7 +92,8 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://analytics.google.com/analytics/academy/course/6/unit/1/lesson/1
 
 9) Django
-  - https://www.javatpoint.com/django-tutorial 
+  - https://www.javatpoint.com/django-tutorial
+  - https://data-flair.training/blogs/django-project-ideas/
 
 
 10) Behavioral Interview
