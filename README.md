@@ -47,6 +47,8 @@ This is the step by step (one by one) preparation for becoming professional prog
   - Youtube english course of Data Structures and Algorithms [link to freecodecamp](https://youtu.be/8hly31xKli0)
   - Youtube russian professor Data Structures and Algorithms  [link to МФТИ](https://youtu.be/KdZ4HF1SrFs?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0)
   - https://www.javatpoint.com/data-structure-tutorial
+  - https://www.geeksforgeeks.org/data-structures/?ref=lbp
+  - https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=lbp
 
 4) Professional in Artificial Intelligence
   - https://www.tutorialspoint.com/natural_language_processing/index.htm
