@@ -43,7 +43,7 @@ This is the step by step (one by one) preparation for becoming professional prog
 3) Professional in Data Structures and Algorithms
   - https://www.tutorialspoint.com/python_data_structure/index.htm (Python data structures and algorithms on tutorials point)
   - https://www.tutorialspoint.com/data_structures_algorithms/index.htm
-  - Full Data Structures and Algorithms Course by me from Champions University
+  - https://github.com/aliktl/professional/blob/main/CHAMPIONS_University.md (Full Data Structures and Algorithms Course by me from Champions University)
   - https://www.w3schools.in/data-structures-tutorial/intro/
   - Youtube english course of Data Structures and Algorithms [link to freecodecamp](https://youtu.be/8hly31xKli0)
   - Youtube russian professor Data Structures and Algorithms  [link to МФТИ](https://youtu.be/KdZ4HF1SrFs?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0)
