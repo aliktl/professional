@@ -609,18 +609,119 @@ https://leetcode.com/problems/find-the-town-judge/
 
 # 16. Dynamic Programming
 
-## Theory 
+## Theory
+
+
+https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews/m2G1pAq0OO0
+
+https://www.tutorialspoint.com/data_structures_algorithms/dynamic_programming.htm
+
+https://www.geeksforgeeks.org/dynamic-programming/
+
+https://www.programiz.com/dsa/dynamic-programming
+
+https://www.freecodecamp.org/news/demystifying-dynamic-programming-3efafb8d4296/
+
+
+
+https://www.topcoder.com/thrive/articles/Dynamic%20Programming:%20From%20Novice%20to%20Advanced
+https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/
+https://www.youtube.com/watch?v=oBt53YbR9Kk
+https://www.youtube.com/watch?v=FmXZG7D8nS4
+Useful video 3: https://www.youtube.com/watch?v=vYquumk4nWw
+Useful video 4: https://www.youtube.com/watch?v=P8Xa2BitN3I
+Useful video 5: https://www.youtube.com/watch?v=aPQY__2H3tE
+Useful video 6: https://www.youtube.com/watch?v=OQ5jsbhAv_M
+Useful video 7: https://www.youtube.com/watch?v=lVR2u9lsxl8&list=PLdo5W4Nhv31aBrJE1WS4MR9LRfbmZrAQu
+Useful video 8: https://www.youtube.com/watch?v=YBSt1jYwVfU
+
+
+
+
+
+<img width="1098" alt="image" src="https://user-images.githubusercontent.com/41929207/127321008-05ba7520-3b3f-4546-bc57-d396c8e5be75.png">
+
+
+
+
 
 ## Practice
 
 ### Leetcode Easy
+
+https://leetcode.com/problems/maximum-subarray/
+<img width="636" alt="image" src="https://user-images.githubusercontent.com/41929207/127321034-19611ba5-c947-4570-bae0-405f6736340f.png">
+
+https://leetcode.com/problems/climbing-stairs/
+<img width="580" alt="image" src="https://user-images.githubusercontent.com/41929207/127321060-fb81c379-f936-4f1c-8929-7fcce2bef188.png">
+
+
+https://leetcode.com/problems/is-subsequence/
+<img width="591" alt="image" src="https://user-images.githubusercontent.com/41929207/127321066-fcc93564-0051-4133-87d6-0f80679ccac5.png">
+
+
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+<img width="773" alt="image" src="https://user-images.githubusercontent.com/41929207/127321079-b9478205-f5d8-470b-be6c-a61ab826dd3e.png">
+
+
+https://leetcode.com/problems/divisor-game/
+<img width="562" alt="image" src="https://user-images.githubusercontent.com/41929207/127321092-44fe9361-090c-4a60-a4f7-a1a939369611.png">
+
 
 
 # 17. Greedy
 
-## Theory 
+## Theory
+
+An algorithm is designed to achieve optimum solution for a given problem. In greedy algorithm approach, decisions are made from the given solution domain. As being greedy, the closest solution that seems to provide an optimum solution is chosen.
+
+Useful link 1: https://www.tutorialspoint.com/data_structures_algorithms/greedy_algorithms.htm
+Useful link 2: https://brilliant.org/wiki/greedy-algorithm/
+Useful link 3: https://en.wikipedia.org/wiki/Greedy_algorithm
+Useful link 4: https://www.geeksforgeeks.org/greedy-algorithms/
+Useful link 5: https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/
+
+
+
+Useful video 1: https://www.youtube.com/watch?v=HzeK7g8cD0Y
+Useful video 2: https://www.youtube.com/watch?v=ARvQcqJ_-NY
+Useful video 3: https://www.youtube.com/watch?v=3XaqEng_K5s
+Useful video 4: https://www.youtube.com/watch?v=QvSIAB27Vdk
+Useful video 5: https://www.youtube.com/watch?v=hDDrIw_DSto
+Useful video 6: https://www.youtube.com/watch?v=-QcPo_DWJk4
+Useful video 7: https://www.youtube.com/watch?v=tKwnms5iRBU
+
+
+
+
+
+
+
+<img width="565" alt="image" src="https://user-images.githubusercontent.com/41929207/127321151-d8f5ddc7-45cb-4c8b-bfcd-f259fbefeada.png">
+
+
+
+<img width="2049" alt="image" src="https://user-images.githubusercontent.com/41929207/127321145-d759bbb0-5796-4558-991b-babb104713d2.png">
+
+
+
 
 ## Practice
 
 ### Leetcode Easy
+
+https://leetcode.com/problems/valid-palindrome-ii/<img width="647" alt="image" src="https://user-images.githubusercontent.com/41929207/127321177-1c91aa8c-cc3a-40b7-974f-145e9362cd35.png">
+
+https://leetcode.com/problems/can-place-flowers/
+<img width="616" alt="image" src="https://user-images.githubusercontent.com/41929207/127321194-d9d29e58-4667-4252-886d-35faeea13ba9.png">
+
+
+https://leetcode.com/problems/longest-palindrome/
+<img width="637" alt="image" src="https://user-images.githubusercontent.com/41929207/127321217-ce8ada9d-369e-4e19-85e8-d493e40019f6.png">
+
+
+https://leetcode.com/problems/maximum-units-on-a-truck/
+<img width="722" alt="image" src="https://user-images.githubusercontent.com/41929207/127321233-2c12c263-a8a2-4d68-8173-cf64125a45ff.png">
+
+
 
