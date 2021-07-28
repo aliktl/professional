@@ -51,7 +51,7 @@ https://leetcode.com/problems/move-zeroes/
 
 https://www.tutorialspoint.com/data_structures_algorithms/hash_data_structure.htm
 
-https://en.wikipedia.org/wiki/Hash_table#:~:text=In%20computing%2C%20a%20hash%20table,desired%20value%20can%20be%20found.
+https://en.wikipedia.org/wiki/Hash_table#:~:text=In%20computing%2C%20a%20hash%20table,desired%20value%20can%20be%20found
 
 https://yourbasic.org/algorithms/hash-tables-explained/
 
