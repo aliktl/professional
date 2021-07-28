@@ -5,23 +5,23 @@
 
 In computer science, big O notation is used to classify algorithms according to how their **run time** or **space** requirements grow as the input size grows
 
-Useful video (Gayle McDowell): https://www.youtube.com/watch?v=v4cd1O4zkGw
+https://www.youtube.com/watch?v=v4cd1O4zkGw
 
-Useful link: https://interviews.school/timecomplexity
+https://interviews.school/timecomplexity
 
-Useful video 2 (CS Dojo): https://www.youtube.com/watch?v=D6xkbGLQesk
+https://www.youtube.com/watch?v=D6xkbGLQesk
 
-Useful video 3: https://www.youtube.com/watch?v=IR_S8BC8KI0
+https://www.youtube.com/watch?v=IR_S8BC8KI0
 
-Useful video 4: https://www.youtube.com/watch?v=__vX2sjlpXU
+https://www.youtube.com/watch?v=__vX2sjlpXU
 
-Useful video 5: https://www.youtube.com/watch?v=zUUkiEllHG0
+https://www.youtube.com/watch?v=zUUkiEllHG0
 
-Useful video 6: https://www.youtube.com/watch?v=gHzZZYJENpo
+https://www.youtube.com/watch?v=gHzZZYJENpo
 
-Useful video 7: https://www.youtube.com/watch?v=CB8JPjg_3cM
+https://www.youtube.com/watch?v=CB8JPjg_3cM
 
-Useful video 8: https://www.youtube.com/watch?v=-Eiw_-v__Vo
+https://www.youtube.com/watch?v=-Eiw_-v__Vo
 
 
 
