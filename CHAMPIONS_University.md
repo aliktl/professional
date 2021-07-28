@@ -30,32 +30,99 @@ https://www.youtube.com/watch?v=-Eiw_-v__Vo
 
 # 2. Arrays
 
+## Theory 
+
+https://www.youtube.com/watch?v=gDqQf4Ekr2A
+
+## Practice
+
+
 # 3. Hash Tables
+
+## Theory 
+
+## Practice
 
 # 4. Linked Lists
 
+## Theory 
+
+## Practice
+
 # 5. Stacks
+
+## Theory 
+
+## Practice
 
 # 6. Queues
 
+## Theory 
+
+## Practice
+
 # 7. Sorting Algorithms
+
+## Theory 
+
+## Practice
 
 # 8. Binary Search
 
+## Theory 
+
+## Practice
+
 # 9. Sliding Window
+
+## Theory 
+
+## Practice
 
 # 10. Two Pointers
 
+## Theory 
+
+## Practice
+
 # 11. Divide and Conquer
+
+## Theory 
+
+## Practice
 
 # 12. Recursion
 
+## Theory 
+
+## Practice
+
 # 13. Trees
+
+## Theory 
+
+## Practice
 
 # 14. Backtracking
 
+## Theory 
+
+## Practice
+
 # 15. Graphs
+
+## Theory 
+
+## Practice
 
 # 16. Dynamic Programming
 
+## Theory 
+
+## Practice
+
 # 17. Greedy
+
+## Theory 
+
+## Practice
