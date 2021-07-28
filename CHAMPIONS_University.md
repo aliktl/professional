@@ -1,5 +1,11 @@
 # 1. Time Complexity Space Complexity Analysis
 
+## Theory
+
+
+## Practice
+
+
 # 2. Arrays
 
 # 3. Hash Tables
