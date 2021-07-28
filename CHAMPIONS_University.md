@@ -237,9 +237,13 @@ https://www.tutorialspoint.com/data_structures_algorithms/sorting_algorithms.htm
 
 
 https://www.youtube.com/watch?v=MtQL_ll5KhQ&list=PLqM7alHXFySHrGIxeBOo4-mKO4H8j2knW
+
 https://www.youtube.com/watch?v=pkkFqlG0Hds&list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U
+
 https://www.youtube.com/watch?v=OlyYEW7mTUM&list=PLzgPDYo_3xunyLTJlmoH8IAUvet4-Ka0y
+
 https://www.youtube.com/watch?v=8BI2MNnwrKI
+
 https://www.youtube.com/watch?v=JU767SDMDvA&list=PL9xmBV_5YoZOZSbGAXAPIq1BeUf4j20pl
 
 
