@@ -152,27 +152,116 @@ https://leetcode.com/problems/remove-linked-list-elements/
 
 ## Theory 
 
+https://www.studytonight.com/data-structures/stack-data-structure
+
+https://www.geeksforgeeks.org/stack-data-structure/
+
+https://www.tutorialspoint.com/data_structures_algorithms/stack_algorithm.htm
+
+https://www.programiz.com/dsa/stack
+
+
+https://www.youtube.com/watch?v=R9PTBwOzceo
+ 
+https://www.youtube.com/watch?v=WwfhLC16bis
+
+https://www.youtube.com/watch?v=njTh_OwMljA
+
+https://www.youtube.com/watch?v=YQQio9BGWgs
+
+https://www.youtube.com/watch?v=dmb1i4oN5oE
+
+https://www.youtube.com/watch?v=qp8u-frRAnU
+
+
 ## Practice
 
 ### Leetcode Easy
+
+https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
+
+https://leetcode.com/problems/binary-tree-postorder-traversal/
+
+https://leetcode.com/problems/binary-tree-preorder-traversal/
+
+https://leetcode.com/problems/backspace-string-compare/
+
+https://leetcode.com/problems/valid-parentheses/
+
 
 
 # 6. Queues
 
 ## Theory 
 
+https://www.geeksforgeeks.org/queue-data-structure/
+
+https://www.tutorialspoint.com/data_structures_algorithms/dsa_queue.htm
+
+https://www.programiz.com/dsa/queue
+
+
+https://www.youtube.com/watch?v=XuCbpw6Bj1U
+ 
+https://www.youtube.com/watch?v=zp6pBNbUB2U
+
+https://www.youtube.com/watch?v=wjI1WNcIntg
+
+https://www.youtube.com/watch?v=A3ZUpyrnCbM
+
+https://www.youtube.com/watch?v=rUUrmGKYwHw
+
+
 ## Practice
 
 ### Leetcode Easy
+
+https://leetcode.com/problems/implement-queue-using-stacks/
+
+https://leetcode.com/problems/moving-average-from-data-stream/
+
+https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/
 
 
 # 7. Sorting Algorithms
 
 ## Theory 
 
+https://www.geeksforgeeks.org/sorting-algorithms/#algo
+
+https://www.freecodecamp.org/news/sorting-algorithms-explained-with-examples-in-python-java-and-c/
+
+https://medium.com/jl-codes/understanding-sorting-algorithms-af6222995c8
+
+https://www.tutorialspoint.com/data_structures_algorithms/sorting_algorithms.htm
+
+
+https://www.youtube.com/watch?v=MtQL_ll5KhQ&list=PLqM7alHXFySHrGIxeBOo4-mKO4H8j2knW
+https://www.youtube.com/watch?v=pkkFqlG0Hds&list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U
+https://www.youtube.com/watch?v=OlyYEW7mTUM&list=PLzgPDYo_3xunyLTJlmoH8IAUvet4-Ka0y
+https://www.youtube.com/watch?v=8BI2MNnwrKI
+https://www.youtube.com/watch?v=JU767SDMDvA&list=PL9xmBV_5YoZOZSbGAXAPIq1BeUf4j20pl
+
+
+
 ## Practice
 
 ### Leetcode Easy
+
+https://leetcode.com/problems/check-array-formation-through-concatenation/
+
+https://leetcode.com/problems/largest-perimeter-triangle/
+
+https://leetcode.com/problems/two-sum-less-than-k/
+
+https://leetcode.com/problems/sort-array-by-increasing-frequency/
+
+https://leetcode.com/problems/relative-sort-array/
+
+https://leetcode.com/problems/sort-array-by-parity-ii/
+
+https://leetcode.com/problems/sorting-the-sentence/
+
 
 
 # 8. Binary Search
