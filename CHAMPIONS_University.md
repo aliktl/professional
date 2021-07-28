@@ -272,18 +272,66 @@ https://leetcode.com/problems/sorting-the-sentence/
 
 ## Theory 
 
+https://www.tutorialspoint.com/data_structures_algorithms/binary_search_algorithm.htm
+
+https://www.youtube.com/watch?v=P3YID7liBug
+
+https://www.youtube.com/watch?v=6ysjqCUv3K4
+
+https://www.youtube.com/watch?v=V_T5NuccwRA
+
+https://www.youtube.com/watch?v=GnZ9ppr_zaI
+
+
+
 ## Practice
 
 ### Leetcode Easy
+
+https://leetcode.com/problems/binary-search/
+
+https://leetcode.com/problems/search-insert-position/
+
+https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
+
+https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
+
+https://leetcode.com/problems/first-bad-version/solution/
 
 
 # 9. Sliding Window
 
-## Theory 
+## Theory
+
+https://levelup.gitconnected.com/an-introduction-to-sliding-window-algorithms-5533c4fe1cc7
+
+https://www.geeksforgeeks.org/window-sliding-technique/
+
+https://stackoverflow.com/questions/8269916/what-is-sliding-window-algorithm-examples
+
+https://www.baeldung.com/cs/sliding-window-algorithm
+
+
+https://www.youtube.com/watch?v=MK-NZ4hN7rs
+
+https://www.youtube.com/watch?v=jM2dhDPYMQM
+
+https://www.youtube.com/watch?v=VM1kmLrrN4Y
+
+https://www.youtube.com/watch?v=7Q1uylXOatU
+
+https://www.youtube.com/watch?v=__guhvzO540
+
+https://www.youtube.com/watch?v=EHCGAZBbB88&list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj
+
+
+
 
 ## Practice
 
 ### Leetcode Easy
+
+https://leetcode.com/problems/diet-plan-performance/
 
 
 # 10. Two Pointers
