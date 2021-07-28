@@ -103,7 +103,19 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.themuse.com/advice/30-behavioral-interview-questions-you-should-be-ready-to-answer
   - 
   
-
+11) Front end
+  - https://www.geeksforgeeks.org/top-10-projects-for-beginners-to-practice-html-and-css-skills/
+  - https://www.w3schools.com/html/
+  - https://www.tutorialspoint.com/html/index.htm
+  - https://www.w3schools.com/css/
+  - https://www.youtube.com/watch?v=1Rs2ND1ryYc
+  - https://www.youtube.com/watch?v=QMnv3QrjZoU
+  - https://www.youtube.com/watch?v=3_9znKVNe5g
+  - https://www.tutorialspoint.com/css/index.htm
+  - https://www.w3schools.com/bootstrap4/
+  - https://www.youtube.com/watch?v=gqOEoUR5RHg
+  - https://github.com/bradtraversy/50projects50days
+  - 
 
 12)    Professional resources
   - https://www.kaggle.com/learn
