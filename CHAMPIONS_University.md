@@ -49,7 +49,31 @@ https://leetcode.com/problems/move-zeroes/
 
 ## Theory 
 
+https://www.tutorialspoint.com/data_structures_algorithms/hash_data_structure.htm
+
+https://en.wikipedia.org/wiki/Hash_table#:~:text=In%20computing%2C%20a%20hash%20table,desired%20value%20can%20be%20found.
+
+https://yourbasic.org/algorithms/hash-tables-explained/
+
+https://www.geeksforgeeks.org/hashing-data-structure/
+
+https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/
+
+https://www.youtube.com/watch?v=shs0KM3wKv8
+ 
+https://www.youtube.com/watch?v=KyUTuwz_b7Q
+
+https://www.youtube.com/watch?v=ea8BRGxGmlA
+
+https://www.youtube.com/watch?v=sfWyugl4JWA
+
+
+
+
 ## Practice
+
+
+
 
 # 4. Linked Lists
 
@@ -57,11 +81,17 @@ https://leetcode.com/problems/move-zeroes/
 
 ## Practice
 
+### Leetcode Easy
+
+
 # 5. Stacks
 
 ## Theory 
 
 ## Practice
+
+### Leetcode Easy
+
 
 # 6. Queues
 
@@ -69,11 +99,17 @@ https://leetcode.com/problems/move-zeroes/
 
 ## Practice
 
+### Leetcode Easy
+
+
 # 7. Sorting Algorithms
 
 ## Theory 
 
 ## Practice
+
+### Leetcode Easy
+
 
 # 8. Binary Search
 
@@ -81,11 +117,17 @@ https://leetcode.com/problems/move-zeroes/
 
 ## Practice
 
+### Leetcode Easy
+
+
 # 9. Sliding Window
 
 ## Theory 
 
 ## Practice
+
+### Leetcode Easy
+
 
 # 10. Two Pointers
 
@@ -93,11 +135,17 @@ https://leetcode.com/problems/move-zeroes/
 
 ## Practice
 
+### Leetcode Easy
+
+
 # 11. Divide and Conquer
 
 ## Theory 
 
 ## Practice
+
+### Leetcode Easy
+
 
 # 12. Recursion
 
@@ -105,11 +153,17 @@ https://leetcode.com/problems/move-zeroes/
 
 ## Practice
 
+### Leetcode Easy
+
+
 # 13. Trees
 
 ## Theory 
 
 ## Practice
+
+### Leetcode Easy
+
 
 # 14. Backtracking
 
@@ -117,11 +171,17 @@ https://leetcode.com/problems/move-zeroes/
 
 ## Practice
 
+### Leetcode Easy
+
+
 # 15. Graphs
 
 ## Theory 
 
 ## Practice
+
+### Leetcode Easy
+
 
 # 16. Dynamic Programming
 
@@ -129,8 +189,14 @@ https://leetcode.com/problems/move-zeroes/
 
 ## Practice
 
+### Leetcode Easy
+
+
 # 17. Greedy
 
 ## Theory 
 
 ## Practice
+
+### Leetcode Easy
+
