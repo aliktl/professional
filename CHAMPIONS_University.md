@@ -1,8 +1,8 @@
-* {1. Time Complexity _ Space Complexity Analysis}
+#{1. Time Complexity _ Space Complexity Analysis}
 
-* {2. Arrays}
+## {2. Arrays}
 
-* {3. Hash Tables}
+###{3. Hash Tables}
 
 * {4. Linked Lists}
 
