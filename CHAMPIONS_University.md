@@ -14,7 +14,7 @@
 
 # 8. Binary Search
 
-# 9. Sliding WIndow
+# 9. Sliding Window
 
 # 10. Two Pointers
 
