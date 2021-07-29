@@ -45,6 +45,11 @@ https://leetcode.com/problems/majority-element/
 https://leetcode.com/problems/move-zeroes/
 
 
+### Leetcode Medium
+
+### Leetcode Hard
+
+
 # 3. Hash Tables
 
 ## Theory 
@@ -89,6 +94,11 @@ https://leetcode.com/problems/design-hashset/
 https://leetcode.com/problems/palindrome-permutation/
 
 https://leetcode.com/problems/longest-palindrome/
+
+### Leetcode Medium
+
+### Leetcode Hard
+
 
 
 
@@ -147,6 +157,11 @@ https://leetcode.com/problems/remove-linked-list-elements/
 
 
 
+### Leetcode Medium
+
+### Leetcode Hard
+
+
 
 # 5. Stacks
 
@@ -189,6 +204,11 @@ https://leetcode.com/problems/backspace-string-compare/
 https://leetcode.com/problems/valid-parentheses/
 
 
+### Leetcode Medium
+
+### Leetcode Hard
+
+
 
 # 6. Queues
 
@@ -221,6 +241,11 @@ https://leetcode.com/problems/implement-queue-using-stacks/
 https://leetcode.com/problems/moving-average-from-data-stream/
 
 https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/
+
+### Leetcode Medium
+
+### Leetcode Hard
+
 
 
 # 7. Sorting Algorithms
@@ -269,6 +294,11 @@ https://leetcode.com/problems/sort-array-by-parity-ii/
 https://leetcode.com/problems/sorting-the-sentence/
 
 
+### Leetcode Medium
+
+### Leetcode Hard
+
+
 
 # 8. Binary Search
 
@@ -299,6 +329,11 @@ https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
 https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
 
 https://leetcode.com/problems/first-bad-version/solution/
+
+
+### Leetcode Medium
+
+### Leetcode Hard
 
 
 # 9. Sliding Window
@@ -334,6 +369,11 @@ https://www.youtube.com/watch?v=EHCGAZBbB88&list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyx
 ### Leetcode Easy
 
 https://leetcode.com/problems/diet-plan-performance/
+
+
+### Leetcode Medium
+
+### Leetcode Hard
 
 
 # 10. Two Pointers
@@ -382,6 +422,11 @@ https://leetcode.com/problems/reverse-string/
 https://leetcode.com/problems/squares-of-a-sorted-array/
 
 
+### Leetcode Medium
+
+### Leetcode Hard
+
+
 # 11. Divide and Conquer
 
 ## Theory
@@ -416,6 +461,11 @@ https://www.youtube.com/watch?v=f_VwpXp5q_8
 https://leetcode.com/problems/majority-element/
 
 https://leetcode.com/problems/maximum-subarray/
+
+
+### Leetcode Medium
+
+### Leetcode Hard
 
 
 # 12. Recursion
@@ -525,6 +575,11 @@ https://leetcode.com/problems/maximum-depth-of-binary-tree/
 https://leetcode.com/problems/binary-tree-paths/
 
 
+### Leetcode Medium
+
+### Leetcode Hard
+
+
 # 14. Backtracking
 
 ## Theory
@@ -571,6 +626,11 @@ https://leetcode.com/problems/binary-watch/
 
 https://leetcode.com/problems/sum-of-all-subset-xor-totals/
 
+### Leetcode Medium
+
+### Leetcode Hard
+
+
 
 # 15. Graphs
 
@@ -610,6 +670,11 @@ https://www.youtube.com/watch?v=j0IYCyBdzfA
 https://leetcode.com/problems/find-center-of-star-graph/
 
 https://leetcode.com/problems/find-the-town-judge/
+
+### Leetcode Medium
+
+### Leetcode Hard
+
 
 
 # 16. Dynamic Programming
@@ -671,6 +736,11 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 https://leetcode.com/problems/divisor-game/
 
 
+### Leetcode Medium
+
+### Leetcode Hard
+
+
 # 17. Greedy
 
 ## Theory
@@ -716,6 +786,11 @@ https://leetcode.com/problems/longest-palindrome/
 
 https://leetcode.com/problems/maximum-units-on-a-truck/
 
+
+
+### Leetcode Medium
+
+### Leetcode Hard
 
 
 # Others (DFS BFS)
