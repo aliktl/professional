@@ -613,7 +613,12 @@ https://leetcode.com/problems/find-the-town-judge/
 
 ## Theory
 
+
 https://leetcode.com/discuss/study-guide/662866/DP-for-Beginners-Problems-or-Patterns-or-Sample-Solutions
+
+https://leetcode.com/discuss/study-guide/1050391/Must-do-Dynamic-programming-Problems-Category-wise
+
+https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns
 
 https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews/m2G1pAq0OO0
 
@@ -709,4 +714,8 @@ https://leetcode.com/problems/longest-palindrome/
 https://leetcode.com/problems/maximum-units-on-a-truck/
 
 
+# Others (DFS BFS)
 
+## Theory
+
+https://www.youtube.com/watch?v=uWL6FJhq5fM
