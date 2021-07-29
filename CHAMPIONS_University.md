@@ -460,6 +460,8 @@ https://leetcode.com/problems/reverse-string/
 
 ## Theory
 
+https://leetcode.com/discuss/study-guide/1212004/Binary-Trees-study-guide
+
 https://en.wikipedia.org/wiki/Tree_(data_structure)
 
 https://www.freecodecamp.org/news/all-you-need-to-know-about-tree-data-structures-bceacb85490c/
