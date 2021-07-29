@@ -227,6 +227,8 @@ https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/
 
 ## Theory 
 
+https://leetcode.com/discuss/study-guide/1091763/Must-do-all-required-Sorting-Algorithms%3A-Complete-Guide
+
 https://www.geeksforgeeks.org/sorting-algorithms/#algo
 
 https://www.freecodecamp.org/news/sorting-algorithms-explained-with-examples-in-python-java-and-c/
@@ -459,6 +461,7 @@ https://leetcode.com/problems/reverse-string/
 # 13. Trees
 
 ## Theory
+
 
 https://leetcode.com/discuss/study-guide/1212004/Binary-Trees-study-guide
 
@@ -714,8 +717,16 @@ https://leetcode.com/problems/longest-palindrome/
 https://leetcode.com/problems/maximum-units-on-a-truck/
 
 
+
 # Others (DFS BFS)
 
 ## Theory
 
 https://www.youtube.com/watch?v=uWL6FJhq5fM
+
+
+# Others (String)
+
+## Practice
+
+https://leetcode.com/discuss/study-guide/1333049/Collections-of-string-questions-pattern-for-upcoming-placement-2021
