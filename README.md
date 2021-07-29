@@ -6,6 +6,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/watch?v=Q-7z2QZQgZk ("Господи молю тебя, дай спасти ещё одного" По соображениям совести)
   - https://www.youtube.com/watch?v=NBSHaKDfSOk (Эмоциональный разговор с тренером о драке с Райаном. Никогда не сдавайся)
   - https://youtu.be/VpoIrS6G_Ek (Мне 24 и Я просрал Свою Жизнь (Что Делать?))
+  - https://www.youtube.com/watch?v=v16oLGrD-Ak (Harvey Spectre Fires and Rehires Mike Ross ! Suits - Scenes)
   - https://www.youtube.com/watch?v=m0hN3ZaLrUg (Harvey Accuses Mike Of Being Disloyal | Suits)
   - https://www.youtube.com/watch?v=_C3ktfiRxIY (Harvey Specter - It's my goddamn fault (Suits))
   - https://www.quora.com/I-cant-even-solve-easy-problems-on-LeetCode-What-should-I-do
