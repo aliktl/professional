@@ -44,6 +44,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://digitaldefynd.com/best-python-tutorial-class-certification-course-training-online/
   - https://medium.com/analytics-vidhya/python-roadmap-to-follow-in-2021-1f49715468ca
   - https://www.youtube.com/watch?v=tdn9_MZ0lN4
+  - https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
 
 3) Professional in Data Structures and Algorithms
   - https://www.tutorialspoint.com/python_data_structure/index.htm (Python data structures and algorithms on tutorials point)
