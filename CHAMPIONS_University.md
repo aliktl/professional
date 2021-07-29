@@ -613,6 +613,7 @@ https://leetcode.com/problems/find-the-town-judge/
 
 ## Theory
 
+https://leetcode.com/discuss/study-guide/662866/DP-for-Beginners-Problems-or-Patterns-or-Sample-Solutions
 
 https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews/m2G1pAq0OO0
 
