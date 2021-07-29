@@ -50,6 +50,11 @@ This is the step by step (one by one) preparation for becoming professional prog
 3) Professional in Data Structures and Algorithms
   - https://leetcode.com/discuss/study-guide/1098600/TOPICS-WHICH-YOU-CAN'T-SKIP-INTERVIEW-PREPARATION-or-STUDY-PLAN-USING-LEETCODE
   - https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+  - https://leetcode.com/discuss/study-guide/1177039/%22Practice-More-Learn-More%22-greater-Study-Guide-and-Interview-Preparation-Using-LEETCODE
+  - https://leetcode.com/explore/interview/card/top-interview-questions-easy/
+  - https://leetcode.com/explore/interview/card/top-interview-questions-medium/
+  - https://leetcode.com/explore/interview/card/top-interview-questions-hard/
+  - https://leetcode.com/explore/learn/
   - https://seanprashad.com/leetcode-patterns/
   - https://leetcode.com/discuss/study-guide/623011/A-guide-for-dummies-(like-me)
   - https://github.com/jwasham/coding-interview-university
