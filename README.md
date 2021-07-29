@@ -48,6 +48,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
 
 3) Professional in Data Structures and Algorithms
+  - https://leetcode.com/discuss/study-guide/1367727/Links-to-Some-Great-post-in-Study-Guide
   - https://www.tutorialspoint.com/python_data_structure/index.htm (Python data structures and algorithms on tutorials point)
   - https://www.tutorialspoint.com/data_structures_algorithms/index.htm
   - https://github.com/aliktl/professional/blob/main/CHAMPIONS_University.md (Full Data Structures and Algorithms Course by me from Champions University)
