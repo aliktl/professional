@@ -49,7 +49,6 @@ This is the step by step (one by one) preparation for becoming professional prog
 
 3) Professional in Data Structures and Algorithms
   - https://leetcode.com/discuss/study-guide/1098600/TOPICS-WHICH-YOU-CAN'T-SKIP-INTERVIEW-PREPARATION-or-STUDY-PLAN-USING-LEETCODE
-  - https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
   - https://leetcode.com/discuss/study-guide/1177039/%22Practice-More-Learn-More%22-greater-Study-Guide-and-Interview-Preparation-Using-LEETCODE
   - https://leetcode.com/explore/interview/card/top-interview-questions-easy/
   - https://leetcode.com/explore/interview/card/top-interview-questions-medium/
@@ -61,6 +60,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.crackingthecodinginterview.com/contents.html
   - https://leetcode.com/discuss/study-guide/1367727/Links-to-Some-Great-post-in-Study-Guide
   - https://leetcode.com/discuss/study-guide/494279/Comprehensive-Data-Structure-and-Algorithm-Study-Guide
+  - https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
   - https://www.tutorialspoint.com/python_data_structure/index.htm (Python data structures and algorithms on tutorials point)
   - https://www.tutorialspoint.com/data_structures_algorithms/index.htm
   - https://github.com/aliktl/professional/blob/main/CHAMPIONS_University.md (Full Data Structures and Algorithms Course by me from Champions University)
