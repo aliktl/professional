@@ -48,6 +48,12 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
 
 3) Professional in Data Structures and Algorithms
+  - https://leetcode.com/discuss/study-guide/1098600/TOPICS-WHICH-YOU-CAN'T-SKIP-INTERVIEW-PREPARATION-or-STUDY-PLAN-USING-LEETCODE
+  - https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+  - https://seanprashad.com/leetcode-patterns/
+  - https://leetcode.com/discuss/study-guide/623011/A-guide-for-dummies-(like-me)
+  - https://github.com/jwasham/coding-interview-university
+  - https://www.crackingthecodinginterview.com/contents.html
   - https://leetcode.com/discuss/study-guide/1367727/Links-to-Some-Great-post-in-Study-Guide
   - https://leetcode.com/discuss/study-guide/494279/Comprehensive-Data-Structure-and-Algorithm-Study-Guide
   - https://www.tutorialspoint.com/python_data_structure/index.htm (Python data structures and algorithms on tutorials point)
