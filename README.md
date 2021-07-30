@@ -126,7 +126,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.springboard.com/blog/software-engineering/21-software-engineering-interview-questions/
   - https://careerkarma.com/blog/behavioral-interview-questions/
   - https://www.themuse.com/advice/30-behavioral-interview-questions-you-should-be-ready-to-answer
-  - 
+  
   
 11) Front end
   - https://www.geeksforgeeks.org/top-10-projects-for-beginners-to-practice-html-and-css-skills/
@@ -140,9 +140,15 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.w3schools.com/bootstrap4/
   - https://www.youtube.com/watch?v=gqOEoUR5RHg
   - https://github.com/bradtraversy/50projects50days
-  - 
+   
 
-12)    Professional resources
+
+12) Amazon Web Services
+  - https://www.youtube.com/watch?v=ulprqHHWlng
+  
+
+
+14)        Professional resources
   - https://www.kaggle.com/learn
   - https://www.geeksforgeeks.org/
   - https://www.tutorialspoint.com/tutorialslibrary.htm
