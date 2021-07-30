@@ -146,9 +146,10 @@ This is the step by step (one by one) preparation for becoming professional prog
 12) Amazon Web Services
   - https://www.youtube.com/watch?v=ulprqHHWlng
   
+13) Back end
+  - https://www.youtube.com/watch?v=1ndlRiaYiWQ
 
-
-14)        Professional resources
+14) Professional resources
   - https://www.kaggle.com/learn
   - https://www.geeksforgeeks.org/
   - https://www.tutorialspoint.com/tutorialslibrary.htm
