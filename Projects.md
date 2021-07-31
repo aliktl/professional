@@ -6,3 +6,7 @@ Project related to google services, for example google calendar api
 
 Create django calendar project
 
+Learn PHP
+
+ - Laravel
+ - Symfony
