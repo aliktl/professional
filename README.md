@@ -3,6 +3,7 @@ This is the step by step (one by one) preparation for becoming professional prog
 
 1) Believe in yourself
   - https://www.youtube.com/watch?v=yX39J_YyKbs (I am a champion - the greatest speech ever)
+  - https://www.quora.com/What-can-I-do-to-solve-hard-questions-on-LeetCode
   - https://www.youtube.com/watch?v=Q-7z2QZQgZk ("Господи молю тебя, дай спасти ещё одного" По соображениям совести)
   - https://www.youtube.com/watch?v=NBSHaKDfSOk (Эмоциональный разговор с тренером о драке с Райаном. Никогда не сдавайся)
   - https://youtu.be/VpoIrS6G_Ek (Мне 24 и Я просрал Свою Жизнь (Что Делать?))
