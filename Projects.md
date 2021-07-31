@@ -9,3 +9,6 @@ Create django calendar project
 Learn PHP
  - Laravel
  - Symfony
+
+Learn about - imacros setup to extract phone number and name data into csv/excel from multiple pages
+
