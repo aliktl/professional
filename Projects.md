@@ -195,6 +195,40 @@ API to use for nutrition data is https://www.nutritionix.com/business/api
 
 
 
+### Fix python script ( bot )
+
+fix a python script for a bot that auto purchases from a website
+
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjetuH28IzyAhWT4mEKHRHWDfEQwqsBegQICRAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSPTfmiYiuok&usg=AOvVaw0DFZ2XdeXF6qMtA1NC8M3s
+
+$50
+Fixed-price
+
+### Data Analytics Dashboard on Sales Data
+
+We have sales data of a mall which has branches in multiple cities with different formats of data such as  csv, pdf, excel format. We want to build a dashboard that can be a part of web application.
+
+$50
+Fixed-price
+kills and Expertise
+
+Data Analytics Tools
+Microsoft Power BI
+Data Analytics Skills
+Data Visualization
+Data Analytics Languages
+SQLDAXPython
+Other
+Tableau Data Mining R D3.js Python Pandas
+
+$50
+Fixed-price
+
+### Learning Path to Top Paying IT Certification
+
+Machine LearningData ScienceData CleansingTime Series AnalysisDeep LearningDeep Neural NetworksComputer VisionData AnalyticsGoogle AutoMLGoogle Data StudioDockerCloud ComputingOpenCVDeep Learning ModelPyCharm
+
 
 
 
