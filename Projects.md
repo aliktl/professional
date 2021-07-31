@@ -12,5 +12,15 @@ Learn PHP
 
 Learn about - imacros setup to extract phone number and name data into csv/excel from multiple pages
 
-https://www.designmycodes.com/examples/solid-principles-python-django.html (Django solid principles)
+
+### $500 Django developer
+- https://www.designmycodes.com/examples/solid-principles-python-django.html (Django solid principles)
+
+- Unit testing for django/python
+
+- Redis
+
+- Celery
+
+- Docker
 
