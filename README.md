@@ -149,7 +149,15 @@ This is the step by step (one by one) preparation for becoming professional prog
 13) Back end
   - https://www.youtube.com/watch?v=1ndlRiaYiWQ
 
-14) Professional resources
+
+14) Professional in Golang
+  - https://betterprogramming.pub/build-a-simple-todolist-app-in-golang-82297ec25c7d
+  - 
+
+15) Professional in Docker
+  - 
+
+16) Professional resources
   - https://www.kaggle.com/learn
   - https://www.geeksforgeeks.org/
   - https://www.tutorialspoint.com/tutorialslibrary.htm
