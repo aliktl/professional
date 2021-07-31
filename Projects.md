@@ -12,6 +12,7 @@ Learn PHP
 
 Learn about - imacros setup to extract phone number and name data into csv/excel from multiple pages
 
+### Django developer
 
 https://www.designmycodes.com/examples/solid-principles-python-django.html (Django solid principles)
 
@@ -22,4 +23,18 @@ Redis
 Celery
 
 Docker
+
+
+### Scraping, parsing and data engineering
+
+Looking for a dev with knowledge in:
+
+- Python
+- Scraping tools/API (ScrapingBee/ScrapeStack)
+- Databases (SQL, Mongo...)
+
+Experience building end-to-end data pipelines is a +
+
+Project is an aggregator of listings coming from several marketplaces. 
+
 
