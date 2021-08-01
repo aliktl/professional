@@ -124,6 +124,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.upgrad.com/blog/django-project-ideas-topics-beginners/
   - https://www.upgrad.com/blog/django-projects-on-github/
   - https://dev.to/shivamrohilla/top-youtube-channels-to-learn-django-for-everyone-358l
+  - https://github.com/aliktl/Django-Projects
 
 
 10) Behavioral Interview
