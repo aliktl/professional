@@ -89,6 +89,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.javatpoint.com/machine-learning
   - https://developers.google.com/machine-learning/crash-course
   - https://www.youtube.com/watch?v=TEEAz-Sn15c&list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL
+  - https://youtu.be/tPYj3fFJGjk
 
 
 5) Professional in Databases
@@ -120,6 +121,9 @@ This is the step by step (one by one) preparation for becoming professional prog
 9) Django
   - https://www.javatpoint.com/django-tutorial
   - https://data-flair.training/blogs/django-project-ideas/
+  - https://www.upgrad.com/blog/django-project-ideas-topics-beginners/
+  - https://www.upgrad.com/blog/django-projects-on-github/
+  - https://dev.to/shivamrohilla/top-youtube-channels-to-learn-django-for-everyone-358l
 
 
 10) Behavioral Interview
@@ -156,7 +160,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - 
 
 15) Professional in Docker
-  - 
+  - https://youtu.be/fqMOX6JJhGo
 
 16) Professional resources
   - https://www.kaggle.com/learn
