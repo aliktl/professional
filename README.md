@@ -155,6 +155,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   
 13) Back end
   - https://www.youtube.com/watch?v=1ndlRiaYiWQ
+  - https://www.javatpoint.com/linux-interview-questions
 
 
 14) Professional in Golang
