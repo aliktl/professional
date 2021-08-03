@@ -148,6 +148,8 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.w3schools.com/bootstrap4/
   - https://www.youtube.com/watch?v=gqOEoUR5RHg
   - https://github.com/bradtraversy/50projects50days
+  - https://www.youtube.com/watch?v=27JtRAI3QO8
+  - https://github.com/bedimcode
    
 
 
