@@ -2,6 +2,8 @@
 This is the step by step (one by one) preparation for becoming professional programmer
 
 1) Believe in yourself
+  - https://www.youtube.com/watch?v=YJZCUhxNCv8 (How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee)
+  - https://www.levels.fyi/2020/
   - https://github.com/aliktl/professional/blob/main/believe%20in%20yourself.md (continue)
   - https://leetcode.com/1015634/ (Number one in contest 252 solved all with python)
   - https://www.youtube.com/watch?v=yX39J_YyKbs (I am a champion - the greatest speech ever)
@@ -9,8 +11,6 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://youtu.be/VpoIrS6G_Ek (Мне 24 и Я просрал Свою Жизнь (Что Делать?))
   - https://www.youtube.com/watch?v=v16oLGrD-Ak (Harvey Spectre Fires and Rehires Mike Ross ! Suits - Scenes)
   - https://www.youtube.com/watch?v=_C3ktfiRxIY (Harvey Specter - It's my goddamn fault (Suits))
-  - https://www.youtube.com/watch?v=YJZCUhxNCv8 (How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee)
-  - https://www.levels.fyi/2020/
   - момент председатель коров поднимает монтировать и загрузить на гугл драйв
   - https://www.quora.com/I-cant-even-solve-easy-problems-on-LeetCode-What-should-I-do
   - https://leetcode.com/awice/
