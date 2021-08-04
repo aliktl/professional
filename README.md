@@ -5,35 +5,22 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://github.com/aliktl/professional/blob/main/believe%20in%20yourself.md (continue)
   - https://leetcode.com/1015634/ (Number one in contest 252 solved all with python)
   - https://www.youtube.com/watch?v=yX39J_YyKbs (I am a champion - the greatest speech ever)
-  - https://www.quora.com/What-can-I-do-to-solve-hard-questions-on-LeetCode
-  - https://www.youtube.com/watch?v=Q-7z2QZQgZk ("Господи молю тебя, дай спасти ещё одного" По соображениям совести)
   - https://www.youtube.com/watch?v=NBSHaKDfSOk (Эмоциональный разговор с тренером о драке с Райаном. Никогда не сдавайся)
   - https://youtu.be/VpoIrS6G_Ek (Мне 24 и Я просрал Свою Жизнь (Что Делать?))
   - https://www.youtube.com/watch?v=v16oLGrD-Ak (Harvey Spectre Fires and Rehires Mike Ross ! Suits - Scenes)
-  - https://www.youtube.com/watch?v=m0hN3ZaLrUg (Harvey Accuses Mike Of Being Disloyal | Suits)
   - https://www.youtube.com/watch?v=_C3ktfiRxIY (Harvey Specter - It's my goddamn fault (Suits))
-  - https://www.quora.com/I-cant-even-solve-easy-problems-on-LeetCode-What-should-I-do
   - https://www.youtube.com/watch?v=YJZCUhxNCv8 (How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee)
-  - https://www.youtube.com/watch?v=pZ_eNPAvZG4 (Будь настоящим Чемпионом (Тренер Картер))
-  - момент председатель коров поднимает монтировать и загрузить на гугл драйв
   - https://www.levels.fyi/2020/
-  - https://leetcode.com/goalboy/
-  - https://leetcode.com/ars0/
+  - момент председатель коров поднимает монтировать и загрузить на гугл драйв
+  - https://www.quora.com/I-cant-even-solve-easy-problems-on-LeetCode-What-should-I-do
   - https://leetcode.com/awice/
-  - https://leetcode.com/wjli/
-  - https://leetcode.com/superluminal/
-  - https://animeheaven.pro/watch/baby-steps-dO3-episode-1/
-  - https://www.quora.com/What-are-steps-to-be-a-professional-programmer
-  - https://www.quora.com/When-the-interviewer-asks-you-Why-Google-or-%E2%80%98why-any-company-%E2%80%99-how-do-you-answer
   - https://leetcode-country-ranking.herokuapp.com/country/KZ
+
+
   - https://www.quora.com/How-do-I-become-an-expert-Python-programmer
   - https://www.quora.com/What-is-the-best-worst-case-scenario-in-your-life
   - https://www.youtube.com/watch?v=h0XLK2Slayc&t (Сын ухаживает за мамой инвалидом)
-  - https://www.youtube.com/watch?v=ImEnWAVRLU0 (Mike Ross' Interview with Harvey Specter | Suits)
   - https://youtu.be/oz1AoX5um9c (Louis Demands Respect From Harvey And Robert! - Suits)
-  - https://youtu.be/CGXgINZpvME?t=38 (🇺🇸 Don Frye vs 🇯🇵 Yoshihiro Takayama - CRAZY MMA FIGHT)
-  - https://www.youtube.com/watch?v=M5QY2_8704o (Music to work)
-  - https://www.youtube.com/watch?v=rrXIHEeUk4Q
 
 2) Professional in Python programming language
   - https://www.kaggle.com/learn/python (Kaggle Python Tutorial)
