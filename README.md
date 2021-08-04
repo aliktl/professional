@@ -32,6 +32,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://youtu.be/oz1AoX5um9c (Louis Demands Respect From Harvey And Robert! - Suits)
   - https://youtu.be/CGXgINZpvME?t=38 (🇺🇸 Don Frye vs 🇯🇵 Yoshihiro Takayama - CRAZY MMA FIGHT)
   - https://www.youtube.com/watch?v=M5QY2_8704o (Music to work)
+  - https://www.youtube.com/watch?v=rrXIHEeUk4Q
 
 2) Professional in Python programming language
   - https://www.kaggle.com/learn/python (Kaggle Python Tutorial)
