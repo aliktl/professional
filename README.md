@@ -2,6 +2,7 @@
 This is the step by step (one by one) preparation for becoming professional programmer
 
 1) Believe in yourself
+  - https://github.com/aliktl/professional/blob/main/believe%20in%20yourself.md (continue)
   - https://leetcode.com/1015634/ (Number one in contest 252 solved all with python)
   - https://www.youtube.com/watch?v=yX39J_YyKbs (I am a champion - the greatest speech ever)
   - https://www.quora.com/What-can-I-do-to-solve-hard-questions-on-LeetCode
