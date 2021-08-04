@@ -41,6 +41,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/watch?v=tdn9_MZ0lN4
   - https://www.youtube.com/watch?v=Qu3dThVy6KQ&t
   - https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
+  - https://realpython.com/python-bitwise-operators/
 
 3) Professional in Data Structures and Algorithms
   - https://www.cseacademy.in/best-youtube-channels-for-data-structures-and-algorithms/
