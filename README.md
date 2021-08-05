@@ -43,6 +43,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
   - https://realpython.com/python-bitwise-operators/
   - https://note.nkmk.me/en/python-bit-operation/
+  - https://medium.com/fintechexplained/advanced-python-itertools-library-the-gem-of-python-language-99da37dfcca2
 
 3) Professional in Data Structures and Algorithms
   - https://www.cseacademy.in/best-youtube-channels-for-data-structures-and-algorithms/
