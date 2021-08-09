@@ -124,6 +124,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/watch?v=t7DrJqcUviA
 
 
+
 10) Behavioral Interview
   - https://www.pathrise.com/guides/45-behavioral-interview-questions/
   - https://www.springboard.com/blog/software-engineering/21-software-engineering-interview-questions/
