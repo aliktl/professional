@@ -70,6 +70,8 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.javatpoint.com/data-structure-tutorial
   - https://www.geeksforgeeks.org/data-structures/?ref=lbp
   - https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=lbp
+  - https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O
+  - 
 
 4) Professional in Artificial Intelligence
   - https://www.tutorialspoint.com/natural_language_processing/index.htm
