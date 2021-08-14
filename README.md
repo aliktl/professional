@@ -9,7 +9,10 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://youtu.be/VpoIrS6G_Ek (Мне 24 и Я просрал Свою Жизнь (Что Делать?))
   - https://www.quora.com/I-cant-even-solve-easy-problems-on-LeetCode-What-should-I-do
   - https://leetcode.com/awice/
-  - 
+  - https://leetcode.com/goalboy/
+  - https://leetcode.com/ars0/
+  - https://leetcode.com/wjli/
+  - https://leetcode.com/superluminal/
   - https://leetcode-country-ranking.herokuapp.com/country/KZ
   - https://www.quora.com/How-do-I-become-an-expert-Python-programmer
   - https://www.quora.com/What-is-the-best-worst-case-scenario-in-your-life
