@@ -7,6 +7,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/watch?v=yX39J_YyKbs (I am a champion - the greatest speech ever)
   - https://www.youtube.com/watch?v=NBSHaKDfSOk (Эмоциональный разговор с тренером о драке с Райаном. Никогда не сдавайся)
   - https://youtu.be/VpoIrS6G_Ek (Мне 24 и Я просрал Свою Жизнь (Что Делать?))
+  - https://youtu.be/iWVx3GzRddY (10 000 часов)
   - https://www.quora.com/I-cant-even-solve-easy-problems-on-LeetCode-What-should-I-do
   - https://leetcode.com/awice/
   - https://leetcode.com/goalboy/
@@ -112,6 +113,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://analytics.google.com/analytics/academy/course/6/unit/1/lesson/1
 
 9) Django
+  - https://data-flair.training/blogs/django-interview-questions/
   - https://www.javatpoint.com/django-tutorial
   - https://data-flair.training/blogs/django-project-ideas/
   - https://www.upgrad.com/blog/django-project-ideas-topics-beginners/
@@ -148,6 +150,7 @@ This is the step by step (one by one) preparation for becoming professional prog
 
 12) Amazon Web Services
   - https://www.youtube.com/watch?v=ulprqHHWlng
+  - https://youtu.be/Ia-UEYYR44s
   
 13) Back end
   - https://www.youtube.com/watch?v=1ndlRiaYiWQ
