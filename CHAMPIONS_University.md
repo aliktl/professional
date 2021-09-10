@@ -695,6 +695,8 @@ https://leetcode.com/problems/find-the-town-judge/
 
 ## Theory
 
+https://www.youtube.com/watch?v=oBt53YbR9Kk
+
 https://www.geeksforgeeks.org/top-50-dynamic-programming-coding-problems-for-interviews/
 
 https://leetcode.com/discuss/study-guide/662866/DP-for-Beginners-Problems-or-Patterns-or-Sample-Solutions
