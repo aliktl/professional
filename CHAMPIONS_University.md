@@ -28,6 +28,8 @@ https://www.youtube.com/watch?v=-Eiw_-v__Vo
 
 ## Theory 
 
+https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/
+
 https://www.youtube.com/watch?v=gDqQf4Ekr2A
 
 ## Practice
@@ -812,6 +814,10 @@ https://www.youtube.com/watch?v=uWL6FJhq5fM
 
 
 # Others (String)
+
+## Theory
+
+https://www.geeksforgeeks.org/top-50-string-coding-problems-for-interviews/
 
 ## Practice
 
