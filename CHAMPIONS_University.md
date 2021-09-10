@@ -525,6 +525,7 @@ https://leetcode.com/problems/reverse-string/
 
 ## Theory
 
+https://www.geeksforgeeks.org/top-50-tree-coding-problems-for-interviews/
 
 https://leetcode.com/discuss/study-guide/1212004/Binary-Trees-study-guide
 
@@ -694,6 +695,7 @@ https://leetcode.com/problems/find-the-town-judge/
 
 ## Theory
 
+https://www.geeksforgeeks.org/top-50-dynamic-programming-coding-problems-for-interviews/
 
 https://leetcode.com/discuss/study-guide/662866/DP-for-Beginners-Problems-or-Patterns-or-Sample-Solutions
 
