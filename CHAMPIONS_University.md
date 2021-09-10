@@ -49,6 +49,17 @@ https://leetcode.com/problems/move-zeroes/
 
 ### Leetcode Hard
 
+https://leetcode.com/problems/trapping-rain-water
+
+https://leetcode.com/problems/median-of-two-sorted-arrays
+
+https://leetcode.com/problems/text-justification
+
+https://leetcode.com/problems/employee-free-time
+
+https://leetcode.com/problems/first-missing-positive
+
+
 
 # 3. Hash Tables
 
