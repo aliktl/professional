@@ -85,6 +85,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://developers.google.com/machine-learning/crash-course
   - https://www.youtube.com/watch?v=TEEAz-Sn15c&list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL
   - https://youtu.be/tPYj3fFJGjk
+  - https://www.youtube.com/watch?v=1lwddP0KUEg
 
 
 5) Professional in Databases
