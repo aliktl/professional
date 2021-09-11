@@ -195,4 +195,5 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://github.com/amitness/learning
   - https://docs.google.com/document/d/e/2PACX-1vR67-ib7REKsniFY9ukfqIo-9t914vinRwsqcKcf3D16QKoCBrwl30DNIi_QFGJ9qR10vYVZhxfIGZI/pub
   - https://www.youtube.com/c/veryacademy/playlists
+  - https://www.youtube.com/c/BackToBackSWE/playlists
  
