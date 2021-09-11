@@ -69,6 +69,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.geeksforgeeks.org/data-structures/?ref=lbp
   - https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=lbp
   - https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O
+  - https://www.youtube.com/watch?v=XGClOyyliPs&list=PL7yh-TELLS1HgoWUfxGzoaa7PEJ2Q-RfC
   - 
 
 4) Professional in Artificial Intelligence
