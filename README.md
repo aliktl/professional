@@ -137,6 +137,11 @@ This is the step by step (one by one) preparation for becoming professional prog
   
   
 11) Front end
+  Vue JS
+  - https://www.youtube.com/watch?v=XzLuMtDelGk&t
+  - https://www.youtube.com/watch?v=p059z-0JTFg
+  - https://www.youtube.com/watch?v=b6Ac0jcqJIg
+
   - https://www.geeksforgeeks.org/top-10-projects-for-beginners-to-practice-html-and-css-skills/
   - https://www.w3schools.com/html/
   - https://www.tutorialspoint.com/html/index.htm
