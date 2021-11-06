@@ -128,15 +128,18 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/watch?v=t7DrJqcUviA
 
 
+10) Flask 
+  - https://www.youtube.com/watch?v=zdgYw-3tzfI
 
-10) Behavioral Interview
+
+11) Behavioral Interview
   - https://www.pathrise.com/guides/45-behavioral-interview-questions/
   - https://www.springboard.com/blog/software-engineering/21-software-engineering-interview-questions/
   - https://careerkarma.com/blog/behavioral-interview-questions/
   - https://www.themuse.com/advice/30-behavioral-interview-questions-you-should-be-ready-to-answer
   
   
-11) Front end
+12) Front end
   Vue JS
   - https://www.youtube.com/watch?v=XzLuMtDelGk&t
   - https://www.youtube.com/watch?v=p059z-0JTFg
@@ -158,23 +161,23 @@ This is the step by step (one by one) preparation for becoming professional prog
    
 
 
-12) Amazon Web Services
+13) Amazon Web Services
   - https://www.youtube.com/watch?v=ulprqHHWlng
   - https://youtu.be/Ia-UEYYR44s
   
-13) Back end
+14) Back end
   - https://www.youtube.com/watch?v=1ndlRiaYiWQ
   - https://www.javatpoint.com/linux-interview-questions
 
 
-14) Professional in Golang
+15) Professional in Golang
   - https://betterprogramming.pub/build-a-simple-todolist-app-in-golang-82297ec25c7d
   - 
 
-15) Professional in Docker
+16) Professional in Docker
   - https://youtu.be/fqMOX6JJhGo
 
-16) Professional resources
+17) Professional resources
   - https://www.kaggle.com/learn
   - https://www.geeksforgeeks.org/
   - https://www.tutorialspoint.com/tutorialslibrary.htm
