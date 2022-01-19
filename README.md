@@ -75,6 +75,11 @@ This is the step by step (one by one) preparation for becoming professional prog
   - 
 
 4) Professional in Artificial Intelligence
+  - https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ
+  - https://www.youtube.com/watch?v=01sAkU_NvOY
+  - https://www.youtube.com/watch?v=tPYj3fFJGjk&t=18809s
+  - https://www.youtube.com/watch?v=cPmjQ9V6Hbk
+  - https://www.youtube.com/watch?v=P4Z8_qe2Cu0
   - https://www.tutorialspoint.com/natural_language_processing/index.htm
   - https://www.freecodecamp.org/learn/machine-learning-with-python/
   - https://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_speech_recognition.htm
