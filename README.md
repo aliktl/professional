@@ -21,6 +21,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.quora.com/What-is-the-best-worst-case-scenario-in-your-life
 
 2) Professional in Python programming language
+  - https://everyday.codes/python/10-advanced-python-interview-questions/
   - https://www.programiz.com/python-programming (Python Basics from Programiz)
   - https://www.kaggle.com/learn/python (Kaggle Python Tutorial)
   - https://www.youtube.com/watch?v=QLTdOEn79Rc&list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2 (Python Engineer Advanced Python Tutorial)
