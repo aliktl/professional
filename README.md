@@ -47,6 +47,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/watch?v=KSiRzuSx120&list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc
 
 3) Professional in Data Structures and Algorithms
+  - https://www.programiz.com/dsa (DSA basics from Programiz)
   - https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
   - https://www.cseacademy.in/best-youtube-channels-for-data-structures-and-algorithms/
   - https://leetcode.com/discuss/study-guide/1098600/TOPICS-WHICH-YOU-CAN'T-SKIP-INTERVIEW-PREPARATION-or-STUDY-PLAN-USING-LEETCODE
