@@ -46,6 +46,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://medium.com/fintechexplained/advanced-python-itertools-library-the-gem-of-python-language-99da37dfcca2
   - https://www.jcchouinard.com/python-for-seo/
   - https://www.youtube.com/watch?v=KSiRzuSx120&list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc
+  - https://docs.python.org/3/library/asyncio.html (Async programming)
 
 3) Professional in Data Structures and Algorithms
   - https://www.programiz.com/dsa (DSA basics from Programiz)
