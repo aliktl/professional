@@ -93,6 +93,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - 
 
 4) Professional in Artificial Intelligence
+  - https://www.geeksforgeeks.org/machine-learning/?ref=shm
   - https://www.youtube.com/watch?v=OS0Ddkle0o4&list=PLzMcBGfZo4-lak7tiFDec5_ZMItiIIfmj
   - https://www.youtube.com/watch?v=ujTCoH21GlA&list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr
   - https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ
