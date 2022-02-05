@@ -2,6 +2,7 @@
 This is the step by step (one by one) preparation for becoming professional programmer
 
 1) Believe in yourself
+  - https://habr.com/ru/post/372801/
   - https://www.youtube.com/watch?v=YJZCUhxNCv8 (How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee)
   - https://www.youtube.com/watch?v=Ym6ze7O_Vxc (Когда все пойдет не так)
   - https://www.youtube.com/watch?v=3aXkU4_EbVU (Когда все надоело просто забей)  
@@ -10,6 +11,9 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/watch?v=NBSHaKDfSOk (Эмоциональный разговор с тренером о драке с Райаном. Никогда не сдавайся)
   - https://youtu.be/VpoIrS6G_Ek (Мне 24 и Я просрал Свою Жизнь (Что Делать?))
   - https://youtu.be/iWVx3GzRddY (10 000 часов)
+  - https://www.artofmanliness.com/character/behavior/increase-your-manly-confidence-overnight/
+  - http://themaneffect.com/thejourney/15-ways-you-can-become-more-confident-as-a-man
+  - https://www.mensjournal.com/health-fitness/17-ways-feel-more-confident/
   - https://www.quora.com/I-cant-even-solve-easy-problems-on-LeetCode-What-should-I-do
   - https://leetcode.com/awice/
   - https://leetcode.com/goalboy/
@@ -19,11 +23,16 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://leetcode-country-ranking.herokuapp.com/country/KZ
   - https://www.quora.com/How-do-I-become-an-expert-Python-programmer
   - https://www.quora.com/What-is-the-best-worst-case-scenario-in-your-life
+  - https://www.linkedin.com/pulse/how-i-cleared-google-interview-from-0-200-leetcode-questions/
 
 2) Professional in Python programming language
+  - https://www.programiz.com/python-programming
+  - https://www.geeksforgeeks.org/top-40-python-interview-questions-answers/?ref=lbp
   - https://everyday.codes/python/10-advanced-python-interview-questions/
   - https://www.programiz.com/python-programming (Python Basics from Programiz)
   - https://www.kaggle.com/learn/python (Kaggle Python Tutorial)
+  - https://www.youtube.com/watch?v=0VdzZQdaZ28&list=PLzMcBGfZo4-nhWva-6OVh1yKWHBs4o_tv
+  - https://everyday.codes/python/10-advanced-python-interview-questions/
   - https://www.youtube.com/watch?v=QLTdOEn79Rc&list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2 (Python Engineer Advanced Python Tutorial)
   - https://www.guru99.com/python-interview-questions-answers.html
   - https://www.tutorialspoint.com/python3/index.htm (Python prerequisite for data structures and algorithms on tutorials point)
@@ -49,6 +58,11 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://docs.python.org/3/library/asyncio.html (Async programming)
 
 3) Professional in Data Structures and Algorithms
+  - https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns
+  - https://leetcode.com/list/xlern30i/
+  - https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O
+  - https://www.youtube.com/playlist?list=PLEJXowNB4kPxBwaXtRO1qFLpCzF75DYrS
+  - https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
   - https://www.programiz.com/dsa (DSA basics from Programiz)
   - https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
   - https://www.cseacademy.in/best-youtube-channels-for-data-structures-and-algorithms/
@@ -79,6 +93,8 @@ This is the step by step (one by one) preparation for becoming professional prog
   - 
 
 4) Professional in Artificial Intelligence
+  - https://www.youtube.com/watch?v=OS0Ddkle0o4&list=PLzMcBGfZo4-lak7tiFDec5_ZMItiIIfmj
+  - https://www.youtube.com/watch?v=ujTCoH21GlA&list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr
   - https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ
   - https://www.youtube.com/watch?v=01sAkU_NvOY
   - https://www.youtube.com/watch?v=tPYj3fFJGjk&t=18809s
@@ -137,6 +153,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://dev.to/shivamrohilla/top-youtube-channels-to-learn-django-for-everyone-358l
   - https://github.com/aliktl/Django-Projects
   - https://www.youtube.com/watch?v=t7DrJqcUviA
+  - https://www.youtube.com/watch?v=T0Xi8gWDrQ0&list=PLlWXhlUMyooaDkd39pknA1-Olj54HtpjX
 
 
 10) Flask 
@@ -188,7 +205,50 @@ This is the step by step (one by one) preparation for becoming professional prog
 16) Professional in Docker
   - https://youtu.be/fqMOX6JJhGo
 
-17) Professional resources
+17) Async programming
+  - https://www.youtube.com/watch?v=ZGfv_yRLBiY&list=PLlWXhlUMyooawilqK4lPXRvxtbYiw34S8
+  - https://www.youtube.com/watch?v=mclfteWlT2Q&list=PLzMcBGfZo4-kwmIcMDdXSuy_wSqtU-xDP
+  - https://www.youtube.com/watch?v=UohnrnZZ0w0&list=PLvItDmb0sZw-j1dHo76Yhhb5aD48DmUZu
+  - https://www.youtube.com/watch?v=T0Xi8gWDrQ0&list=PLlWXhlUMyooaDkd39pknA1-Olj54HtpjX
+  - https://www.youtube.com/watch?v=JIp14T9bvvc
+  - https://www.youtube.com/watch?v=VFHs3Ir0Hvs
+  - https://www.youtube.com/watch?v=Ad5fHlFHbOg
+  - https://habr.com/ru/company/ruvds/blog/475246/
+  - https://realpython.com/async-io-python/
+  - https://www.velotio.com/engineering-blog/async-features-in-python
+  - https://towardsdatascience.com/introduction-to-asynchronous-programming-in-python-3cd190748cd5
+  - https://www.youtube.com/watch?v=6RbJYN7SoRs
+  - https://habr.com/ru/post/337420/
+  - https://www.youtube.com/watch?v=t5Bo1Je9EmE
+  - https://www.youtube.com/watch?v=IEEhzQoKtQU
+  - https://www.youtube.com/watch?v=7LU1npoPmcg
+  - https://www.youtube.com/watch?v=GFfMuyNUnDs&list=PLzMcBGfZo4-mL_4mo5LbOIdPV8jQ-n4ib
+  - https://realpython.com/async-io-python/#a-full-program-asynchronous-requests
+  - https://realpython.com/python-concurrency/
+  - https://realpython.com/python-gil/
+  - https://realpython.com/intro-to-python-threading/
+  - 
+
+18) Resources to find job or internship
+  - https://dev.to/fredmaiaarantes/top-websites-to-find-a-remote-programming-job-in-2020-4b54
+  - https://www.indeed.com/
+  - Linkedin
+  - Ziprecruiter
+  - glassdoor
+  - monster.com
+  - https://www.cv-library.co.uk/
+  - https://www.careerbuilder.com/
+  - https://www.jobstreet.com/
+  - https://www.simplyhired.com/
+  - https://www.jobbank.gc.ca/home
+  - upwork
+  - https://www.hackerearth.com/
+  - rocketpunch
+  - craigslist
+  - https://stackoverflow.com/jobs?id=545532&r=true
+
+
+18) Professional resources
   - https://www.kaggle.com/learn
   - https://www.geeksforgeeks.org/
   - https://www.tutorialspoint.com/tutorialslibrary.htm
