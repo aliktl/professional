@@ -15,6 +15,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - http://themaneffect.com/thejourney/15-ways-you-can-become-more-confident-as-a-man
   - https://www.mensjournal.com/health-fitness/17-ways-feel-more-confident/
   - https://www.quora.com/I-cant-even-solve-easy-problems-on-LeetCode-What-should-I-do
+  - https://leetcode.com/DBabichev/
   - https://leetcode.com/awice/
   - https://leetcode.com/goalboy/
   - https://leetcode.com/ars0/
