@@ -207,7 +207,8 @@ This is the step by step (one by one) preparation for becoming professional prog
 16) Professional in Docker
   - https://youtu.be/fqMOX6JJhGo
 
-17) Async programming
+17) Async programming (Threading, MultiThreading, Multiprocessing, GIL)
+  - https://www.youtube.com/watch?v=nR8WhdcRJwM
   - https://www.youtube.com/watch?v=ZGfv_yRLBiY&list=PLlWXhlUMyooawilqK4lPXRvxtbYiw34S8
   - https://www.youtube.com/watch?v=mclfteWlT2Q&list=PLzMcBGfZo4-kwmIcMDdXSuy_wSqtU-xDP
   - https://www.youtube.com/watch?v=UohnrnZZ0w0&list=PLvItDmb0sZw-j1dHo76Yhhb5aD48DmUZu
