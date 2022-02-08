@@ -230,7 +230,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://realpython.com/python-concurrency/
   - https://realpython.com/python-gil/
   - https://realpython.com/intro-to-python-threading/
-  - 
+  - interview questions, https://github.com/aliktl/professional/blob/main/async
 
 18) Resources to find job or internship
   - https://dev.to/fredmaiaarantes/top-websites-to-find-a-remote-programming-job-in-2020-4b54
