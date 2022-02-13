@@ -69,6 +69,10 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/watch?v=-eaFKumWT1k&list=PL7yh-TELLS1E6dNCzfQl-NG-KJP3C-4mc
   - https://www.youtube.com/watch?v=3UOyky9sEQY&list=PL7yh-TELLS1FwBSNR_tH7qVbNpYHL4IQs
   - https://www.youtube.com/playlist?list=PL7yh-TELLS1HJzPsb6Xjdse2zbyQ-ocDH
+  - https://www.geeksforgeeks.org/what-is-the-python-global-interpreter-lock-gil/
+  - https://www.youtube.com/watch?v=Yrtm7d3TJbs
+  - https://www.youtube.com/watch?v=7v_TVJHodiI&t=26814s
+  - https://www.youtube.com/watch?v=HGOBQPFzWKo&t=13761s
 
 3) Professional in Data Structures and Algorithms
   - https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns
