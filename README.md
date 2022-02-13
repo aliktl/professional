@@ -28,10 +28,12 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.quora.com/How-do-I-become-an-expert-Python-programmer
   - https://www.quora.com/What-is-the-best-worst-case-scenario-in-your-life
   - https://www.linkedin.com/pulse/how-i-cleared-google-interview-from-0-200-leetcode-questions/
+  - https://www.mygreatlearning.com/blog/top-highest-paying-jobs-in-the-world/#SeniorSoftwareEngineer
   - https://ru.wikihow.com/%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D1%82%D0%B0%D1%82%D1%8C-%D0%B1%D1%8B%D1%82%D1%8C-%D0%B7%D0%B0%D0%BC%D0%BA%D0%BD%D1%83%D1%82%D1%8B%D0%BC
 
 2) Professional in Python programming language
   - https://www.programiz.com/python-programming
+  - https://www.mygreatlearning.com/blog/python-interview-questions/
   - https://www.youtube.com/watch?v=5V7XG1mGiHc&list=PLlb7e2G7aSpTTNp7HBYzCBByaE1h54ruW
   - https://www.geeksforgeeks.org/top-40-python-interview-questions-answers/?ref=lbp
   - https://everyday.codes/python/10-advanced-python-interview-questions/
@@ -122,6 +124,8 @@ This is the step by step (one by one) preparation for becoming professional prog
 
 4) Professional in Artificial Intelligence
   - https://www.geeksforgeeks.org/machine-learning/?ref=shm
+  - https://www.mygreatlearning.com/blog/nlp-interview-questions/
+  - https://www.mygreatlearning.com/blog/machine-learning-interview-questions/
   - https://www.youtube.com/watch?v=pkI64ocefFU&list=PLlb7e2G7aSpSWVExpq74FnwFnWgLby56L
   - https://www.youtube.com/watch?v=ynS7XvkAdLU&list=PLlb7e2G7aSpTd91sd82VxWNdtTZ8QnFne
   - https://www.youtube.com/watch?v=6xIVlduljl4&list=PL7yh-TELLS1FDEQmmfzwSKOqFMEPLtz6_
@@ -155,6 +159,7 @@ This is the step by step (one by one) preparation for becoming professional prog
 
 5) Professional in Databases
   - https://www.tutorialspoint.com/sql/index.htm
+  - https://www.mygreatlearning.com/blog/sql-interview-questions/
   - https://www.youtube.com/watch?v=-WEpWH1NHGU
   - https://www.youtube.com/watch?v=_vFiyFaQCPA&list=PLwyVx3OgslBUFSxcMbX7mGCTrDliUdypV&index=6
   - https://www.youtube.com/watch?v=M-55BmjOuXY
@@ -191,6 +196,8 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://github.com/aliktl/Django-Projects
   - https://www.youtube.com/watch?v=t7DrJqcUviA
   - https://www.youtube.com/watch?v=T0Xi8gWDrQ0&list=PLlWXhlUMyooaDkd39pknA1-Olj54HtpjX
+  - https://www.youtube.com/watch?v=fBfzE0yk97k&list=PLOLrQ9Pn6caz-6WpcBYxV84g9gwptoN20&index=1
+  - https://django.fun/docs/celery/ru/5.1/userguide/tasks/
 
 
 10) Flask 
@@ -229,6 +236,8 @@ This is the step by step (one by one) preparation for becoming professional prog
 13) Amazon Web Services
   - https://www.youtube.com/watch?v=ulprqHHWlng
   - https://youtu.be/Ia-UEYYR44s
+  - https://www.mygreatlearning.com/blog/aws-interview-questions/
+  - https://www.mygreatlearning.com/blog/cloud-computing-interview-questions/
   
 14) Back end
   - https://www.youtube.com/watch?v=1ndlRiaYiWQ
@@ -291,6 +300,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - craigslist
   - https://stackoverflow.com/jobs?id=545532&r=true
   - https://tproger.ru/jobs/?utm_source=tproger_ru_main_menu
+  - 
 
 
 18) Professional resources
