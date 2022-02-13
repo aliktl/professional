@@ -288,6 +288,9 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://docs.python.org/3/library/asyncio-future.html#asyncio.Future
 
 18) Resources to find job or internship
+  - https://www.g2.com/products/indeed-hiring-platform/competitors/alternatives
+  - https://www.g2.com/products/triplebyte/competitors/alternatives
+  - https://rigorousthemes.com/blog/best-indeed-alternatives/
   - https://dev.to/fredmaiaarantes/top-websites-to-find-a-remote-programming-job-in-2020-4b54
   - https://www.indeed.com/
   - Linkedin
@@ -306,6 +309,9 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://stackoverflow.com/jobs?id=545532&r=true
   - https://tproger.ru/jobs/?utm_source=tproger_ru_main_menu
   - https://dev.to/thenomadevel/top-10-websites-to-find-remote-jobs-f7i
+  - https://www.flexjobs.com/blog/post/remote-software-developer-jobs/
+  - 
+  - https://triplebyte.com/jobs?communication_and_decisions%5B%5D=support&on_call_demands%5B%5D=never&qa_team%5B%5D=yes&size%5B%5D=251-500&size%5B%5D=501-plus&size%5B%5D=51-100&size%5B%5D=101-250&size%5B%5D=11-25&size%5B%5D=26-50&size%5B%5D=0-10&testing_practice%5B%5D=maximize_reliability&work_pace%5B%5D=slow_pace
 
 
 18) Professional resources
