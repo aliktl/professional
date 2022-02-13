@@ -33,6 +33,7 @@ This is the step by step (one by one) preparation for becoming professional prog
 
 2) Professional in Python programming language
   - https://www.programiz.com/python-programming
+  - https://www.youtube.com/watch?v=VP2wRhwlg6c&list=PLJOzdkh8T5kpIBTG9mM2wVBjh-5OpdwBl
   - https://www.mygreatlearning.com/blog/python-interview-questions/
   - https://www.youtube.com/watch?v=5V7XG1mGiHc&list=PLlb7e2G7aSpTTNp7HBYzCBByaE1h54ruW
   - https://www.geeksforgeeks.org/top-40-python-interview-questions-answers/?ref=lbp
@@ -129,6 +130,7 @@ This is the step by step (one by one) preparation for becoming professional prog
 
 4) Professional in Artificial Intelligence
   - https://www.geeksforgeeks.org/machine-learning/?ref=shm
+  - https://www.youtube.com/watch?v=qLBkB4sMztk&list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
   - https://www.mygreatlearning.com/blog/nlp-interview-questions/
   - https://www.mygreatlearning.com/blog/machine-learning-interview-questions/
   - https://www.youtube.com/watch?v=pkI64ocefFU&list=PLlb7e2G7aSpSWVExpq74FnwFnWgLby56L
@@ -178,6 +180,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.tutorialspoint.com/docker/index.htm
   - https://github.com/ossu/data-science/blob/master/README.md#about
   - https://www.youtube.com/watch?v=hVcEv7rEN24&list=PL7yh-TELLS1FfO5Q8KHK31VgsrcnWcTAk
+  - https://www.youtube.com/watch?v=gE2UqbtZPAc&list=PLJOzdkh8T5ko3zzRRwhowooIqnp58jq1b
 
 
 8) Git and Github
