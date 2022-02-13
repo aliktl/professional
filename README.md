@@ -4,6 +4,7 @@ This is the step by step (one by one) preparation for becoming professional prog
 1) Believe in yourself
   - https://habr.com/ru/post/372801/ (Увеличение мышечной силы коррелирует с повышением умственных способностей)
   - https://www.youtube.com/watch?v=YJZCUhxNCv8 (How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee)
+  - https://www.instagram.com/p/CZRcEiolEUV/?hl=ru
   - https://www.youtube.com/watch?v=Ym6ze7O_Vxc (Когда все пойдет не так)
   - https://www.youtube.com/watch?v=3aXkU4_EbVU (Когда все надоело просто забей)  
   - https://www.levels.fyi/2020/
@@ -64,6 +65,10 @@ This is the step by step (one by one) preparation for becoming professional prog
 3) Professional in Data Structures and Algorithms
   - https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns
   - https://leetcode.com/list/xlern30i/
+  - https://www.youtube.com/watch?v=1QQwZ5ff78I&list=PLlb7e2G7aSpSvqoUtSFrhZ-wAyfrQ9lMd
+  - https://www.youtube.com/watch?v=k850DNwR9xw&list=PLlb7e2G7aSpTZN_zRrbpVJUvB-pTuM_VL
+  - https://www.youtube.com/watch?v=iyFxzc7AB80&list=PLlb7e2G7aSpRMDLGXOYutKAsDc6rrIrbl
+  - https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
   - https://www.geeksforgeeks.org/system-design-tutorial/?ref=ghm
   - https://www.geeksforgeeks.org/dynamic-programming/?ref=ghm
   - https://www.youtube.com/user/tusharroy2525/playlists?view=1&sort=dd&shelf_id=0
@@ -101,6 +106,8 @@ This is the step by step (one by one) preparation for becoming professional prog
 
 4) Professional in Artificial Intelligence
   - https://www.geeksforgeeks.org/machine-learning/?ref=shm
+  - https://www.youtube.com/watch?v=1lICvMHJ8RE&list=PLlb7e2G7aSpRTcBciP6VBJJPvdH_DXRXQ
+  - https://www.youtube.com/watch?v=5l0e_Q0gpnc&list=PLlb7e2G7aSpT1ntsozWmWJ4kGUsUs141Y
   - https://www.youtube.com/watch?v=OS0Ddkle0o4&list=PLzMcBGfZo4-lak7tiFDec5_ZMItiIIfmj
   - https://www.youtube.com/watch?v=ujTCoH21GlA&list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr
   - https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ
@@ -237,6 +244,8 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://realpython.com/python-gil/
   - https://realpython.com/intro-to-python-threading/
   - interview questions, https://github.com/aliktl/professional/blob/main/async
+  - https://www.youtube.com/watch?v=x6JZmBK2I8Y
+  - https://webdevblog.ru/vvedenie-v-potoki-v-python/
 
 18) Resources to find job or internship
   - https://dev.to/fredmaiaarantes/top-websites-to-find-a-remote-programming-job-in-2020-4b54
@@ -255,6 +264,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - rocketpunch
   - craigslist
   - https://stackoverflow.com/jobs?id=545532&r=true
+  - https://tproger.ru/jobs/?utm_source=tproger_ru_main_menu
 
 
 18) Professional resources
@@ -285,4 +295,5 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://docs.google.com/document/d/e/2PACX-1vR67-ib7REKsniFY9ukfqIo-9t914vinRwsqcKcf3D16QKoCBrwl30DNIi_QFGJ9qR10vYVZhxfIGZI/pub
   - https://www.youtube.com/c/veryacademy/playlists
   - https://www.youtube.com/c/BackToBackSWE/playlists
+  - https://www.youtube.com/c/CompscicenterRu/playlists
  
