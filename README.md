@@ -32,6 +32,7 @@ This is the step by step (one by one) preparation for becoming professional prog
 
 2) Professional in Python programming language
   - https://www.programiz.com/python-programming
+  - https://www.youtube.com/watch?v=5V7XG1mGiHc&list=PLlb7e2G7aSpTTNp7HBYzCBByaE1h54ruW
   - https://www.geeksforgeeks.org/top-40-python-interview-questions-answers/?ref=lbp
   - https://everyday.codes/python/10-advanced-python-interview-questions/
   - https://www.programiz.com/python-programming (Python Basics from Programiz)
@@ -106,6 +107,9 @@ This is the step by step (one by one) preparation for becoming professional prog
 
 4) Professional in Artificial Intelligence
   - https://www.geeksforgeeks.org/machine-learning/?ref=shm
+  - https://www.youtube.com/watch?v=pkI64ocefFU&list=PLlb7e2G7aSpSWVExpq74FnwFnWgLby56L
+  - https://www.youtube.com/watch?v=ynS7XvkAdLU&list=PLlb7e2G7aSpTd91sd82VxWNdtTZ8QnFne
+  - 
   - https://www.youtube.com/watch?v=1lICvMHJ8RE&list=PLlb7e2G7aSpRTcBciP6VBJJPvdH_DXRXQ
   - https://www.youtube.com/watch?v=5l0e_Q0gpnc&list=PLlb7e2G7aSpT1ntsozWmWJ4kGUsUs141Y
   - https://www.youtube.com/watch?v=OS0Ddkle0o4&list=PLzMcBGfZo4-lak7tiFDec5_ZMItiIIfmj
