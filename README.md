@@ -305,7 +305,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - craigslist
   - https://stackoverflow.com/jobs?id=545532&r=true
   - https://tproger.ru/jobs/?utm_source=tproger_ru_main_menu
-  - 
+  - https://dev.to/thenomadevel/top-10-websites-to-find-remote-jobs-f7i
 
 
 18) Professional resources
