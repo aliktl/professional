@@ -11,6 +11,8 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/watch?v=NBSHaKDfSOk (Эмоциональный разговор с тренером о драке с Райаном. Никогда не сдавайся)
   - https://youtu.be/VpoIrS6G_Ek (Мне 24 и Я просрал Свою Жизнь (Что Делать?))
   - https://youtu.be/iWVx3GzRddY (10 000 часов)
+  - https://www.youtube.com/watch?v=2zALCV_neLs
+  - https://www.youtube.com/watch?v=WZo60yJLltI
   - https://www.artofmanliness.com/character/behavior/increase-your-manly-confidence-overnight/
   - http://themaneffect.com/thejourney/15-ways-you-can-become-more-confident-as-a-man
   - https://www.mensjournal.com/health-fitness/17-ways-feel-more-confident/
@@ -62,6 +64,7 @@ This is the step by step (one by one) preparation for becoming professional prog
 3) Professional in Data Structures and Algorithms
   - https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns
   - https://leetcode.com/list/xlern30i/
+  - https://www.youtube.com/user/tusharroy2525/playlists?view=1&sort=dd&shelf_id=0
   - https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O
   - https://www.youtube.com/playlist?list=PLEJXowNB4kPxBwaXtRO1qFLpCzF75DYrS
   - https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
