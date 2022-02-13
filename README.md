@@ -64,6 +64,8 @@ This is the step by step (one by one) preparation for becoming professional prog
 3) Professional in Data Structures and Algorithms
   - https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns
   - https://leetcode.com/list/xlern30i/
+  - https://www.geeksforgeeks.org/system-design-tutorial/?ref=ghm
+  - https://www.geeksforgeeks.org/dynamic-programming/?ref=ghm
   - https://www.youtube.com/user/tusharroy2525/playlists?view=1&sort=dd&shelf_id=0
   - https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O
   - https://www.youtube.com/playlist?list=PLEJXowNB4kPxBwaXtRO1qFLpCzF75DYrS
