@@ -80,6 +80,10 @@ This is the step by step (one by one) preparation for becoming professional prog
 3) Professional in Data Structures and Algorithms
   - https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns
   - https://leetcode.com/list/xlern30i/
+  - https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns
+  - https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions
+  - https://leetcode.com/tag/dynamic-programming/discuss/1000929/Solved-all-dynamic-programming-(dp)-problems-in-7-months.
+  - https://leetcode.com/discuss/general-discussion/662866/DP-for-Beginners-Problems-or-Patterns-or-Sample-Solutions
   - https://www.youtube.com/watch?v=q6IEA26hvXc&list=PLot-Xpze53letfIu9dMzIIO7na_sqvl0w
   - https://www.youtube.com/watch?v=OsMuAspJAkc&list=PLdrw9_aIADIP0sYoOt2mql4Hb06Y1D0z2
   - https://www.youtube.com/playlist?list=PLP446CXRka0WK9Zo0jRDqsIpNPEVu1DrF
