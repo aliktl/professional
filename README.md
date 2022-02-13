@@ -77,6 +77,9 @@ This is the step by step (one by one) preparation for becoming professional prog
 3) Professional in Data Structures and Algorithms
   - https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns
   - https://leetcode.com/list/xlern30i/
+  - https://www.youtube.com/watch?v=q6IEA26hvXc&list=PLot-Xpze53letfIu9dMzIIO7na_sqvl0w
+  - https://www.youtube.com/watch?v=OsMuAspJAkc&list=PLdrw9_aIADIP0sYoOt2mql4Hb06Y1D0z2
+  - https://www.youtube.com/playlist?list=PLP446CXRka0WK9Zo0jRDqsIpNPEVu1DrF
   - https://www.youtube.com/watch?v=1QQwZ5ff78I&list=PLlb7e2G7aSpSvqoUtSFrhZ-wAyfrQ9lMd
   - https://www.youtube.com/watch?v=k850DNwR9xw&list=PLlb7e2G7aSpTZN_zRrbpVJUvB-pTuM_VL
   - https://www.youtube.com/watch?v=iyFxzc7AB80&list=PLlb7e2G7aSpRMDLGXOYutKAsDc6rrIrbl
