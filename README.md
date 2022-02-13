@@ -62,6 +62,13 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.jcchouinard.com/python-for-seo/
   - https://www.youtube.com/watch?v=KSiRzuSx120&list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc
   - https://docs.python.org/3/library/asyncio.html (Async programming)
+  - https://www.youtube.com/watch?v=KSiRzuSx120&list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc
+  - https://www.youtube.com/watch?v=5x6iAKdJB6U&list=PL7yh-TELLS1EgOLIPo1sVuf_rDPEp33S8
+  - https://www.youtube.com/watch?v=Wz5oLT55_jY&list=PL7yh-TELLS1GNyuvPsFEqb7JVMEUTtuau
+  - https://www.youtube.com/watch?v=2S7Xxz9PhaU&list=PL7yh-TELLS1F3KytMVZRFO-xIo_S2_Jg1
+  - https://www.youtube.com/watch?v=-eaFKumWT1k&list=PL7yh-TELLS1E6dNCzfQl-NG-KJP3C-4mc
+  - https://www.youtube.com/watch?v=3UOyky9sEQY&list=PL7yh-TELLS1FwBSNR_tH7qVbNpYHL4IQs
+  - https://www.youtube.com/playlist?list=PL7yh-TELLS1HJzPsb6Xjdse2zbyQ-ocDH
 
 3) Professional in Data Structures and Algorithms
   - https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns
@@ -103,13 +110,14 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=lbp
   - https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O
   - https://www.youtube.com/watch?v=XGClOyyliPs&list=PL7yh-TELLS1HgoWUfxGzoaa7PEJ2Q-RfC
+  - https://www.youtube.com/watch?v=XGClOyyliPs&list=PL7yh-TELLS1HgoWUfxGzoaa7PEJ2Q-RfC
   - 
 
 4) Professional in Artificial Intelligence
   - https://www.geeksforgeeks.org/machine-learning/?ref=shm
   - https://www.youtube.com/watch?v=pkI64ocefFU&list=PLlb7e2G7aSpSWVExpq74FnwFnWgLby56L
   - https://www.youtube.com/watch?v=ynS7XvkAdLU&list=PLlb7e2G7aSpTd91sd82VxWNdtTZ8QnFne
-  - 
+  - https://www.youtube.com/watch?v=6xIVlduljl4&list=PL7yh-TELLS1FDEQmmfzwSKOqFMEPLtz6_
   - https://www.youtube.com/watch?v=1lICvMHJ8RE&list=PLlb7e2G7aSpRTcBciP6VBJJPvdH_DXRXQ
   - https://www.youtube.com/watch?v=5l0e_Q0gpnc&list=PLlb7e2G7aSpT1ntsozWmWJ4kGUsUs141Y
   - https://www.youtube.com/watch?v=OS0Ddkle0o4&list=PLzMcBGfZo4-lak7tiFDec5_ZMItiIIfmj
@@ -134,6 +142,8 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/watch?v=TEEAz-Sn15c&list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL
   - https://youtu.be/tPYj3fFJGjk
   - https://www.youtube.com/watch?v=1lwddP0KUEg
+  - https://www.youtube.com/watch?v=QM5XDc4NQJo&list=PL7yh-TELLS1G9mmnBN3ZSY8hYgJ5kBOg-
+  - https://www.youtube.com/watch?v=jg5paDArl3E&list=PL7yh-TELLS1EZGz1-VDltwdwZvPV-jliQ
 
 
 5) Professional in Databases
@@ -150,6 +160,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.freecodecamp.org/news/data-science-learning-roadmap/
   - https://www.tutorialspoint.com/docker/index.htm
   - https://github.com/ossu/data-science/blob/master/README.md#about
+  - https://www.youtube.com/watch?v=hVcEv7rEN24&list=PL7yh-TELLS1FfO5Q8KHK31VgsrcnWcTAk
 
 
 8) Git and Github
@@ -231,6 +242,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/watch?v=UohnrnZZ0w0&list=PLvItDmb0sZw-j1dHo76Yhhb5aD48DmUZu
   - https://www.youtube.com/watch?v=T0Xi8gWDrQ0&list=PLlWXhlUMyooaDkd39pknA1-Olj54HtpjX
   - https://www.youtube.com/watch?v=JIp14T9bvvc
+  - https://www.youtube.com/watch?v=GT10PnUFLlE
   - https://www.youtube.com/watch?v=VFHs3Ir0Hvs
   - https://www.youtube.com/watch?v=Ad5fHlFHbOg
   - https://habr.com/ru/company/ruvds/blog/475246/
@@ -250,6 +262,9 @@ This is the step by step (one by one) preparation for becoming professional prog
   - interview questions, https://github.com/aliktl/professional/blob/main/async
   - https://www.youtube.com/watch?v=x6JZmBK2I8Y
   - https://webdevblog.ru/vvedenie-v-potoki-v-python/
+  - https://www.youtube.com/watch?v=Bpu3VxfBrqY
+  - https://docs.python.org/3/library/asyncio-task.html
+  - https://docs.python.org/3/library/asyncio-future.html#asyncio.Future
 
 18) Resources to find job or internship
   - https://dev.to/fredmaiaarantes/top-websites-to-find-a-remote-programming-job-in-2020-4b54
@@ -300,4 +315,5 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/c/veryacademy/playlists
   - https://www.youtube.com/c/BackToBackSWE/playlists
   - https://www.youtube.com/c/CompscicenterRu/playlists
+  - https://www.youtube.com/c/NeuralNine/playlists
  
