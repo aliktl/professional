@@ -20,6 +20,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.quora.com/I-cant-even-solve-easy-problems-on-LeetCode-What-should-I-do
   - https://leetcode.com/DBabichev/
   - https://leetcode.com/brthyyjp/
+  - https://leetcode.com/yan_wei_zhe/
   - https://leetcode.com/tonghuikang/
   - https://leetcode.com/awice/
   - https://leetcode.com/goalboy/
