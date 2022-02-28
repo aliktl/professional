@@ -319,7 +319,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://tproger.ru/jobs/?utm_source=tproger_ru_main_menu
   - https://dev.to/thenomadevel/top-10-websites-to-find-remote-jobs-f7i
   - https://www.flexjobs.com/blog/post/remote-software-developer-jobs/
-  - 
+  - https://www.failory.com/startups/south-korea#toc-21-yanolja
   - https://triplebyte.com/jobs?communication_and_decisions%5B%5D=support&on_call_demands%5B%5D=never&qa_team%5B%5D=yes&size%5B%5D=251-500&size%5B%5D=501-plus&size%5B%5D=51-100&size%5B%5D=101-250&size%5B%5D=11-25&size%5B%5D=26-50&size%5B%5D=0-10&testing_practice%5B%5D=maximize_reliability&work_pace%5B%5D=slow_pace
 
 
