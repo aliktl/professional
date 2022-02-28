@@ -86,6 +86,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.pythoncheatsheet.org/#__main__-Top-level-script-environment
   - https://www.javatpoint.com/python-pandas-interview-questions
   - https://thecodingbot.com/time-complexity-of-built-in-len-function-in-python/
+  - https://www.tutorialspoint.com/pytest/index.htm
 
 3) Professional in Data Structures and Algorithms
   - https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns
