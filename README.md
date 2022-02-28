@@ -81,6 +81,8 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/watch?v=7v_TVJHodiI&t=26814s
   - https://www.youtube.com/watch?v=HGOBQPFzWKo&t=13761s
   - https://www.youtube.com/watch?v=HLwtZ-dQHhY&list=PLlb7e2G7aSpQmGnhrxlqI4iMXNv4R7khy
+  - https://www.pythoncheatsheet.org/#__main__-Top-level-script-environment
+  - 
 
 3) Professional in Data Structures and Algorithms
   - https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns
