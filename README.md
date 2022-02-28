@@ -32,6 +32,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.quora.com/What-is-the-best-worst-case-scenario-in-your-life
   - https://www.linkedin.com/pulse/how-i-cleared-google-interview-from-0-200-leetcode-questions/
   - https://www.mygreatlearning.com/blog/top-highest-paying-jobs-in-the-world/#SeniorSoftwareEngineer
+  - https://medium.com/@siddhism/how-i-prepared-for-google-0-leetcode-questions-to-200-questions-e37690ebce85#:~:text=If%20you%20are%20starting%20from,the%20number%20for%20that%20topic.
   - https://ru.wikihow.com/%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D1%82%D0%B0%D1%82%D1%8C-%D0%B1%D1%8B%D1%82%D1%8C-%D0%B7%D0%B0%D0%BC%D0%BA%D0%BD%D1%83%D1%82%D1%8B%D0%BC
 
 2) Professional in Python programming language
