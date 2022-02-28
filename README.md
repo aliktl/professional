@@ -329,8 +329,16 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.failory.com/startups/south-korea#toc-21-yanolja
   - https://triplebyte.com/jobs?communication_and_decisions%5B%5D=support&on_call_demands%5B%5D=never&qa_team%5B%5D=yes&size%5B%5D=251-500&size%5B%5D=501-plus&size%5B%5D=51-100&size%5B%5D=101-250&size%5B%5D=11-25&size%5B%5D=26-50&size%5B%5D=0-10&testing_practice%5B%5D=maximize_reliability&work_pace%5B%5D=slow_pace
 
+19) Business 101
+  - https://businesstory.ru/10-glavnyh-strahov-predprinimatelej/
+  - https://www.openbusiness.ru/html_sovet/jump.htm
+  - https://dasreda.ru/learn/blog/article/769
+  - https://dasreda.ru/learn/blog/article/769#7
+  - https://dasreda.ru/learn/blog/article/769#5
+  - https://www.insales.ru/blogs/university/10-glavnyh-strahov-predprinimatelya
+  - 
 
-18) Professional resources
+20) Professional resources
   - https://www.youtube.com/c/%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%B0/playlists?view=50&sort=dd&shelf_id=3
   - https://www.kaggle.com/learn
   - https://www.geeksforgeeks.org/
