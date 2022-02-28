@@ -85,6 +85,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/watch?v=HLwtZ-dQHhY&list=PLlb7e2G7aSpQmGnhrxlqI4iMXNv4R7khy
   - https://www.pythoncheatsheet.org/#__main__-Top-level-script-environment
   - https://www.javatpoint.com/python-pandas-interview-questions
+  - https://thecodingbot.com/time-complexity-of-built-in-len-function-in-python/
 
 3) Professional in Data Structures and Algorithms
   - https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns
@@ -308,6 +309,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - Linkedin
   - Ziprecruiter
   - glassdoor
+  - https://rating.hh.ru/history/rating2021/summary/?tab=small&sphere=IT%20%D0%B8%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82&col=public-name&sort=1
   - monster.com
   - https://www.cv-library.co.uk/
   - https://www.careerbuilder.com/
