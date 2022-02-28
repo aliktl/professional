@@ -255,9 +255,10 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.mygreatlearning.com/blog/aws-interview-questions/
   - https://www.mygreatlearning.com/blog/cloud-computing-interview-questions/
   
-14) Back end
+14) Back end + Object Oriented Programming
   - https://www.youtube.com/watch?v=1ndlRiaYiWQ
   - https://www.javatpoint.com/linux-interview-questions
+  - https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
 
 
 15) Professional in Golang
