@@ -370,3 +370,5 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/c/CompscicenterRu/playlists
   - https://www.youtube.com/c/NeuralNine/playlists
  
+
+I am going to become very professional businessman
