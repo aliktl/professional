@@ -2,6 +2,7 @@
 This is the step by step (one by one) preparation for becoming professional programmer
 
 1) Believe in yourself
+  - https://youtu.be/5pj5c8x8w6k 
   - https://habr.com/ru/post/372801/ (Увеличение мышечной силы коррелирует с повышением умственных способностей)
   - https://www.youtube.com/watch?v=YJZCUhxNCv8 (How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee)
   - https://www.instagram.com/p/CZRcEiolEUV/?hl=ru
