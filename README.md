@@ -39,6 +39,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://ru.wikihow.com/%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D1%82%D0%B0%D1%82%D1%8C-%D0%B1%D1%8B%D1%82%D1%8C-%D0%B7%D0%B0%D0%BC%D0%BA%D0%BD%D1%83%D1%82%D1%8B%D0%BC
 
 2) Professional in Python programming language
+  - https://www.simplilearn.com/tutorials/python-tutorial/how-to-become-python-developer
   - https://www.programiz.com/python-programming
   - https://www.youtube.com/watch?v=VP2wRhwlg6c&list=PLJOzdkh8T5kpIBTG9mM2wVBjh-5OpdwBl
   - https://www.mygreatlearning.com/blog/python-interview-questions/
@@ -370,6 +371,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/c/BackToBackSWE/playlists
   - https://www.youtube.com/c/CompscicenterRu/playlists
   - https://www.youtube.com/c/NeuralNine/playlists
+  - https://medium.com/@hnasr/how-to-become-a-good-backend-engineer-fundamentals-4dcc4a16ce55
  
 
 I am going to become very professional businessman
