@@ -10,7 +10,8 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/watch?v=3aXkU4_EbVU (Когда все надоело просто забей)  
   - https://www.levels.fyi/2020/
   - https://www.youtube.com/watch?v=yX39J_YyKbs (I am a champion - the greatest speech ever)
-  - https://www.youtube.com/watch?v=NBSHaKDfSOk (Эмоциональный разговор с тренером о драке с Райаном. Никогда не сдавайся)
+  - https://www.youtube.com/watch?v=NBSHaKDfSOk (Эмоциональный разговор с тренером о драке с Райаном. Никогда не сдавайся.)
+  - https://www.youtube.com/watch?v=m6rBFcf9W7E (Продолжение. Никогда не сдавайся.)
   - https://youtu.be/VpoIrS6G_Ek (Мне 24 и Я просрал Свою Жизнь (Что Делать?))
   - https://youtu.be/iWVx3GzRddY (10 000 часов)
   - https://www.youtube.com/watch?v=2zALCV_neLs
