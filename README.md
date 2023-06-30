@@ -304,6 +304,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://docs.python.org/3/library/asyncio-future.html#asyncio.Future
 
 18) Resources to find job or internship
+  - https://github.com/danabeknar/kazakhstan-it-internships
   - https://www.g2.com/products/indeed-hiring-platform/competitors/alternatives
   - https://www.g2.com/products/triplebyte/competitors/alternatives
   - https://rigorousthemes.com/blog/best-indeed-alternatives/
