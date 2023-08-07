@@ -3,12 +3,13 @@ This is the step by step (one by one) preparation for becoming professional prog
 
 1) Believe in yourself
   - https://www.youtube.com/watch?v=Ym6ze7O_Vxc (Когда все пойдет не так)
-  - https://youtu.be/5pj5c8x8w6k 
-  - https://habr.com/ru/post/372801/ (Увеличение мышечной силы коррелирует с повышением умственных способностей)
+  - https://www.youtube.com/watch?v=3aXkU4_EbVU (Когда все надоело просто забей)  
+  - https://www.youtube.com/watch?v=ImEnWAVRLU0 (Mike Ross' Interview with Harvey Specter | Suits)
+  - https://youtu.be/5pj5c8x8w6k (Suits 7x01 Harvey asks Dr. Paula out)
   - https://www.youtube.com/watch?v=YJZCUhxNCv8 (How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee)
   - https://www.instagram.com/p/CZRcEiolEUV/?hl=ru
-  - https://www.youtube.com/watch?v=3aXkU4_EbVU (Когда все надоело просто забей)  
   - https://www.youtube.com/watch?v=XubJThYWdVc (why job is a scam)
+  - https://habr.com/ru/post/372801/ (Увеличение мышечной силы коррелирует с повышением умственных способностей)
   - https://www.levels.fyi/2020/
   - https://www.youtube.com/watch?v=yX39J_YyKbs (I am a champion - the greatest speech ever)
   - https://www.youtube.com/watch?v=NBSHaKDfSOk (Эмоциональный разговор с тренером о драке с Райаном. Никогда не сдавайся.)
