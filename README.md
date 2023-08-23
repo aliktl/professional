@@ -382,6 +382,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/c/CompscicenterRu/playlists
   - https://www.youtube.com/c/NeuralNine/playlists
   - https://medium.com/@hnasr/how-to-become-a-good-backend-engineer-fundamentals-4dcc4a16ce55
+  - https://interviewing.io/guides/hiring-process
  
 
 I am going to become very professional businessman
