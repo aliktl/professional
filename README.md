@@ -9,6 +9,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/watch?v=YJZCUhxNCv8 (How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee)
   - https://www.instagram.com/p/CZRcEiolEUV/?hl=ru
   - https://www.youtube.com/watch?v=XubJThYWdVc (why job is a scam)
+  - https://www.youtube.com/watch?v=Hd_ptbiPoXM (Steve Jobs' 2005 Stanford Commencement Address (with intro by President John Hennessy))
   - https://habr.com/ru/post/372801/ (Увеличение мышечной силы коррелирует с повышением умственных способностей)
   - https://www.levels.fyi/2020/
   - https://www.youtube.com/watch?v=yX39J_YyKbs (I am a champion - the greatest speech ever)
