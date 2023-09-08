@@ -315,6 +315,7 @@ This is the step by step (one by one) preparation for becoming professional prog
 
 18) Resources to find job or internship
   - https://ocitizens.com/
+  - https://docs.google.com/spreadsheets/d/1LHvMb8USHrwSKG6t5A4XIhkL_W3g7s-W83cwEtopCsc/edit#gid=0
   - https://github.com/danabeknar/kazakhstan-it-internships
   - https://www.g2.com/products/indeed-hiring-platform/competitors/alternatives
   - https://www.g2.com/products/triplebyte/competitors/alternatives
