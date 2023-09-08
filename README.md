@@ -349,9 +349,11 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://dasreda.ru/learn/blog/article/769#7
   - https://dasreda.ru/learn/blog/article/769#5
   - https://www.insales.ru/blogs/university/10-glavnyh-strahov-predprinimatelya
-  - 
 
-20) Professional resources
+20) Professional in Project Management 
+  - https://www.youtube.com/watch?v=uWPIsaYpY7U
+    
+21) Professional resources
   - https://www.youtube.com/c/%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%B0/playlists?view=50&sort=dd&shelf_id=3
   - https://www.kaggle.com/learn
   - https://www.geeksforgeeks.org/
