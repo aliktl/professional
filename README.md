@@ -47,6 +47,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.levels.fyi/internships/
   - https://clist.by/resource/leetcode.com/
   - https://leetcode-country-ranking.onrender.com/
+  - https://roadmap.sh/
 
 2) Professional in Python programming language
   - https://www.simplilearn.com/tutorials/python-tutorial/how-to-become-python-developer
