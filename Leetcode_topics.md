@@ -46,4 +46,4 @@ Hash Function
 Shortest path
 Merge Sort
 Doubly Linked List
-Bucket Sort![image](https://github.com/aliktl/professional/assets/41929207/178e5e9d-4c2b-45f7-8b35-56dcecf414a5)
+Bucket Sort
