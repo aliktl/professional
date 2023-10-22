@@ -1,49 +1,49 @@
-Leetcode topics
-Array
-String
-Hash Table
-Dynamic Programming
-Math
-Sorting
-Greedy
-Depth First Search
-Binary Search
-Database
-Breadth First Search
-Tree
-Matrix
-Two Pointers
-Bit Manipulation
-Binary Tree
-Heap (Priority Queue)
-Stack
-Prefix Sum
-Graph
-Simulation
-Design
-Counting
-Backtracking
-Sliding Window
-Union Find
-Linked List
-Ordered Set
-Enumeration
-Monotonic Stack
-Trie
-Recursion
-Divide and Conquer
-Number Theory
-Bitmask
-Queue
-Binary Search Tree
-Memoization
-Segment Tree
-Geometry
-Topological Sort
-Binary Indexed Tree
-Game Theory
-Hash Function
-Shortest path
-Merge Sort
-Doubly Linked List
-Bucket Sort
+# Leetcode Topics
+- Array
+- String
+- Hash Table
+- Dynamic Programming
+- Math
+- Sorting
+- Greedy
+- Depth First Search
+- Binary Search
+- Database
+- Breadth First Search
+- Tree
+- Matrix
+- Two Pointers
+- Bit Manipulation
+- Binary Tree
+- Heap (Priority Queue)
+- Stack
+- Prefix Sum
+- Graph
+- Simulation
+- Design
+- Counting
+- Backtracking
+- Sliding Window
+- Union Find
+- Linked List
+- Ordered Set
+- Enumeration
+- Monotonic Stack
+- Trie
+- Recursion
+- Divide and Conquer
+- Number Theory
+- Bitmask
+- Queue
+- Binary Search Tree
+- Memoization
+- Segment Tree
+- Geometry
+- Topological Sort
+- Binary Indexed Tree
+- Game Theory
+- Hash Function
+- Shortest Path
+- Merge Sort
+- Doubly Linked List
+- Bucket Sort
