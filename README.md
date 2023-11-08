@@ -3,6 +3,7 @@ This is the step by step (one by one) preparation for becoming professional prog
 
 1) Believe in yourself
   - https://www.youtube.com/watch?v=Ym6ze7O_Vxc (Когда все пойдет не так)
+  - https://github.com/aliktl/professional/blob/main/typingconfidence.md (learn to type confidently)
   - https://www.youtube.com/watch?v=3aXkU4_EbVU (Когда все надоело просто забей)  
   - https://www.youtube.com/watch?v=ImEnWAVRLU0 (Mike Ross' Interview with Harvey Specter | Suits)
   - https://youtu.be/5pj5c8x8w6k (Suits 7x01 Harvey asks Dr. Paula out)
