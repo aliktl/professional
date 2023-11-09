@@ -99,7 +99,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://leetcode-country-ranking.onrender.com/
   - https://roadmap.sh/
 
-2) Professional in Python programming language
+### 2) Professional in Python programming language
   - https://www.simplilearn.com/tutorials/python-tutorial/how-to-become-python-developer
   - https://www.programiz.com/python-programming
   - https://www.youtube.com/watch?v=VP2wRhwlg6c&list=PLJOzdkh8T5kpIBTG9mM2wVBjh-5OpdwBl
@@ -151,7 +151,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://thecodingbot.com/time-complexity-of-built-in-len-function-in-python/
   - https://www.tutorialspoint.com/pytest/index.htm
 
-3) Professional in Data Structures and Algorithms
+### 3) Professional in Data Structures and Algorithms
   - https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns
   - https://leetcode.com/list/xlern30i/
   - https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns
@@ -201,7 +201,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/watch?v=XGClOyyliPs&list=PL7yh-TELLS1HgoWUfxGzoaa7PEJ2Q-RfC
   - 
 
-4) Professional in Artificial Intelligence
+### 4) Professional in Artificial Intelligence
   - https://www.geeksforgeeks.org/machine-learning/?ref=shm
   - https://www.youtube.com/watch?v=qLBkB4sMztk&list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
   - https://www.mygreatlearning.com/blog/nlp-interview-questions/
@@ -237,7 +237,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/watch?v=jg5paDArl3E&list=PL7yh-TELLS1EZGz1-VDltwdwZvPV-jliQ
 
 
-5) Professional in Databases
+### 5) Professional in Databases
   - https://www.tutorialspoint.com/sql/index.htm
   - https://www.mygreatlearning.com/blog/sql-interview-questions/
   - https://www.youtube.com/watch?v=-WEpWH1NHGU
@@ -245,7 +245,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/watch?v=M-55BmjOuXY
 
 
-7) Professional in Data Science
+### 6) Professional in Data Science
   - https://www.youtube.com/watch?v=Uj3PpTH-dyg
   - https://www.tutorialspoint.com/python_data_science/index.htm
   - https://towardsdatascience.com/data-science-learning-roadmap-for-2021-84f2ba09a44f
@@ -256,18 +256,18 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/watch?v=gE2UqbtZPAc&list=PLJOzdkh8T5ko3zzRRwhowooIqnp58jq1b
 
 
-8) Git and Github
+### 7) Git and Github
   - https://youtu.be/RGOj5yH7evk
   - https://youtu.be/zZBiln_2FhM
   - https://youtu.be/SWYqp7iY_Tc
   - https://youtu.be/MJUJ4wbFm_A
   - https://www.simplilearn.com/tutorials/git-tutorial/git-interview-questions
 
-8) Google Analytics
+### 8) Google Analytics
   - https://youtu.be/kKPTZNjaKcY?list=PLI5YfMzCfRtZU5Qwzx57HjmZyNE2o5YDN
   - https://analytics.google.com/analytics/academy/course/6/unit/1/lesson/1
 
-9) Django
+### 9) Django
   - https://data-flair.training/blogs/django-interview-questions/
   - https://www.javatpoint.com/django-tutorial
   - https://data-flair.training/blogs/django-project-ideas/
@@ -281,18 +281,18 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://django.fun/docs/celery/ru/5.1/userguide/tasks/
 
 
-10) Flask 
+### 10) Flask 
   - https://www.youtube.com/watch?v=zdgYw-3tzfI
 
 
-11) Behavioral Interview
+### 11) Behavioral Interview
   - https://www.pathrise.com/guides/45-behavioral-interview-questions/
   - https://www.springboard.com/blog/software-engineering/21-software-engineering-interview-questions/
   - https://careerkarma.com/blog/behavioral-interview-questions/
   - https://www.themuse.com/advice/30-behavioral-interview-questions-you-should-be-ready-to-answer
   
   
-12) Front end
+### 12) Front end
   Vue JS
   - https://www.youtube.com/watch?v=XzLuMtDelGk&t
   - https://www.youtube.com/watch?v=p059z-0JTFg
@@ -314,26 +314,26 @@ This is the step by step (one by one) preparation for becoming professional prog
    
 
 
-13) Amazon Web Services
+### 13) Amazon Web Services
   - https://www.youtube.com/watch?v=ulprqHHWlng
   - https://youtu.be/Ia-UEYYR44s
   - https://www.mygreatlearning.com/blog/aws-interview-questions/
   - https://www.mygreatlearning.com/blog/cloud-computing-interview-questions/
   
-14) Back end + Object Oriented Programming
+### 14) Back end + Object Oriented Programming
   - https://www.youtube.com/watch?v=1ndlRiaYiWQ
   - https://www.javatpoint.com/linux-interview-questions
   - https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
 
 
-15) Professional in Golang
+### 15) Professional in Golang
   - https://betterprogramming.pub/build-a-simple-todolist-app-in-golang-82297ec25c7d
   - 
 
-16) Professional in Docker
+### 16) Professional in Docker
   - https://youtu.be/fqMOX6JJhGo
 
-17) Async programming (Threading, MultiThreading, Multiprocessing, GIL)
+### 17) Async programming (Threading, MultiThreading, Multiprocessing, GIL)
   - https://www.youtube.com/watch?v=nR8WhdcRJwM
   - https://www.youtube.com/watch?v=ZGfv_yRLBiY&list=PLlWXhlUMyooawilqK4lPXRvxtbYiw34S8
   - https://www.youtube.com/watch?v=mclfteWlT2Q&list=PLzMcBGfZo4-kwmIcMDdXSuy_wSqtU-xDP
@@ -364,7 +364,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://docs.python.org/3/library/asyncio-task.html
   - https://docs.python.org/3/library/asyncio-future.html#asyncio.Future
 
-18) Resources to find job or internship
+### 18) Resources to find job or internship
   - https://ocitizens.com/
   - https://docs.google.com/spreadsheets/d/1LHvMb8USHrwSKG6t5A4XIhkL_W3g7s-W83cwEtopCsc/edit#gid=0
   - https://github.com/danabeknar/kazakhstan-it-internships
@@ -395,7 +395,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.failory.com/startups/south-korea#toc-21-yanolja
   - https://triplebyte.com/jobs?communication_and_decisions%5B%5D=support&on_call_demands%5B%5D=never&qa_team%5B%5D=yes&size%5B%5D=251-500&size%5B%5D=501-plus&size%5B%5D=51-100&size%5B%5D=101-250&size%5B%5D=11-25&size%5B%5D=26-50&size%5B%5D=0-10&testing_practice%5B%5D=maximize_reliability&work_pace%5B%5D=slow_pace
 
-19) Business 101
+### 19) Business 101
   - https://businesstory.ru/10-glavnyh-strahov-predprinimatelej/
   - https://www.openbusiness.ru/html_sovet/jump.htm
   - https://dasreda.ru/learn/blog/article/769
@@ -403,10 +403,10 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://dasreda.ru/learn/blog/article/769#5
   - https://www.insales.ru/blogs/university/10-glavnyh-strahov-predprinimatelya
 
-20) Professional in Project Management 
+### 20) Professional in Project Management 
   - https://www.youtube.com/watch?v=uWPIsaYpY7U
     
-21) Professional resources
+### 21) Professional resources
   - https://www.youtube.com/c/%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%B0/playlists?view=50&sort=dd&shelf_id=3
   - https://www.kaggle.com/learn
   - https://www.geeksforgeeks.org/
