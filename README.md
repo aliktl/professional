@@ -258,6 +258,7 @@ This is the step by step (one by one) preparation for becoming professional prog
 
 
 ### 7) Git and Github
+  - [Traversy Media: Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo)
   - https://youtu.be/RGOj5yH7evk
   - https://youtu.be/zZBiln_2FhM
   - https://youtu.be/SWYqp7iY_Tc
