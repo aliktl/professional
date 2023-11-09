@@ -1,16 +1,32 @@
 # Professional
 This is the step by step (one by one) preparation for becoming professional programmer
 
-## Table of Contents:
-- [Link to Section 1](#section-1)
-- [Link to Subsection A](#subsection-a)
-- 
-## Section 1
-Your content here...
+## Table of Contents
 
-### Subsection A
-Your content here...
+- [Believe in yourself](#believe-in-yourself)
+- [Professional in Python programming language](#professional-in-python-programming-language)
+- [Professional in Data Structures and Algorithms](#professional-in-data-structures-and-algorithms)
+- [Professional in Artificial Intelligence](#professional-in-artificial-intelligence)
+- [Professional in Databases](#professional-in-databases)
+- [Professional in Data Science](#professional-in-data-science)
+- [Git and Github](#git-and-github)
+- [Google Analytics](#google-analytics)
+- [Django](#django)
+- [Flask](#flask)
+- [Behavioral Interview](#behavioral-interview)
+- [Front end](#front-end)
+- [Amazon Web Services](#amazon-web-services)
+- [Back end + Object Oriented Programming](#back-end--object-oriented-programming)
+- [Professional in Golang](#professional-in-golang)
+- [Professional in Docker](#professional-in-docker)
+- [Async programming (Threading, MultiThreading, Multiprocessing, GIL)](#async-programming-threading-multithreading-multiprocessing-gil)
+- [Resources to find job or internship](#resources-to-find-job-or-internship)
+- [Business 101](#business-101)
+- [Professional in Project Management](#professional-in-project-management)
+- [Professional resources](#professional-resources)
 
+
+<!--
 1) Believe in yourself
 2) Professional in Python programming language
 3) Professional in Data Structures and Algorithms
@@ -32,7 +48,7 @@ Your content here...
 19) Business 101
 20) Professional in Project Management
 21) Professional resources
-
+-->
 
 1) Believe in yourself
   - https://www.youtube.com/watch?v=Ym6ze7O_Vxc (Когда все пойдет не так)
