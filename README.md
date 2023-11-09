@@ -1,6 +1,31 @@
 # Professional
 This is the step by step (one by one) preparation for becoming professional programmer
 
+Contents:
+1) Believe in yourself
+2) Professional in Python programming language
+3) Professional in Data Structures and Algorithms
+4) Professional in Artificial Intelligence
+5) Professional in Databases
+6) Professional in Data Science
+7) Git and Github
+8) Google Analytics
+9) Django
+10) Flask
+11) Behavioral Interview
+12) Front end
+13) Amazon Web Services
+14) Back end + Object Oriented Programming
+15) Professional in Golang
+16) Professional in Docker
+17) Async programming (Threading, MultiThreading, Multiprocessing, GIL)
+18) Resources to find job or internship
+19) Business 101
+20) Professional in Project Management
+21) Professional resources
+22) 
+
+
 1) Believe in yourself
   - https://www.youtube.com/watch?v=Ym6ze7O_Vxc (Когда все пойдет не так)
   - https://github.com/aliktl/professional/blob/main/typingconfidence.md (learn to type confidently)
