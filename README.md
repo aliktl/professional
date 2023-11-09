@@ -23,7 +23,6 @@ Contents:
 19) Business 101
 20) Professional in Project Management
 21) Professional resources
-22) 
 
 
 1) Believe in yourself
