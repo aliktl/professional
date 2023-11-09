@@ -392,4 +392,6 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://interviewing.io/guides/hiring-process
  
 
-I am going to become very professional businessman
+I am going to become very professional businessman,
+
+next level = rentier -> a person living on income from property or investments.
