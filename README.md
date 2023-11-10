@@ -119,6 +119,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - some website
 
 ### 3) Django
+  #### For Learning:
   - https://data-flair.training/blogs/django-interview-questions/
   - https://www.javatpoint.com/django-tutorial
   - https://data-flair.training/blogs/django-project-ideas/
@@ -130,22 +131,30 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/watch?v=T0Xi8gWDrQ0&list=PLlWXhlUMyooaDkd39pknA1-Olj54HtpjX
   - https://www.youtube.com/watch?v=fBfzE0yk97k&list=PLOLrQ9Pn6caz-6WpcBYxV84g9gwptoN20&index=1
   - https://django.fun/docs/celery/ru/5.1/userguide/tasks/
+  #### For Interviews:
+  - some website
 
 
     
 ### 4) Back end + Object Oriented Programming
+  #### For Learning:
   - https://www.youtube.com/watch?v=1ndlRiaYiWQ
   - https://www.javatpoint.com/linux-interview-questions
   - https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
+  #### For Interviews:
 
 ### 5) Professional in Databases
+  #### For Learning:
   - https://www.tutorialspoint.com/sql/index.htm
   - https://www.mygreatlearning.com/blog/sql-interview-questions/
   - https://www.youtube.com/watch?v=-WEpWH1NHGU
   - https://www.youtube.com/watch?v=_vFiyFaQCPA&list=PLwyVx3OgslBUFSxcMbX7mGCTrDliUdypV&index=6
   - https://www.youtube.com/watch?v=M-55BmjOuXY
+  #### For Interviews:
+  - some website
 
 ### 6) Async programming (Threading, MultiThreading, Multiprocessing, GIL)
+  #### For Learning:
   - https://www.youtube.com/watch?v=nR8WhdcRJwM
   - https://www.youtube.com/watch?v=ZGfv_yRLBiY&list=PLlWXhlUMyooawilqK4lPXRvxtbYiw34S8
   - https://www.youtube.com/watch?v=mclfteWlT2Q&list=PLzMcBGfZo4-kwmIcMDdXSuy_wSqtU-xDP
@@ -175,21 +184,33 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/watch?v=Bpu3VxfBrqY
   - https://docs.python.org/3/library/asyncio-task.html
   - https://docs.python.org/3/library/asyncio-future.html#asyncio.Future
+  #### For Interviews:
+  - some website
 
 ### 7) Git and Github
+  #### For Learning:
   - [Traversy Media: Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo)
   - https://youtu.be/RGOj5yH7evk
   - https://youtu.be/zZBiln_2FhM
   - https://youtu.be/SWYqp7iY_Tc
   - https://youtu.be/MJUJ4wbFm_A
   - https://www.simplilearn.com/tutorials/git-tutorial/git-interview-questions
-
-### 8) Testing
+  #### For Interviews:
   - some website
 
-### 9) Professional in Docker
-  - https://youtu.be/fqMOX6JJhGo
+### 8) Testing
+  #### For Learning:
+  - some website
+  #### For Interviews:
+  - some website
 
+    
+### 9) Professional in Docker
+  #### For Learning:
+  - https://youtu.be/fqMOX6JJhGo
+  #### For Interviews:
+  - some website
+    
 ### 10) Professional in Data Structures and Algorithms
   - https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns
   - https://leetcode.com/list/xlern30i/
