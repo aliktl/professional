@@ -29,6 +29,7 @@ This is the step by step (one by one) preparation for becoming professional prog
 ### 1) Believe in yourself
   - Golden Rule: work in 4 hours and 30 minutes sessions (like [International Mathematical Olympiad](https://www.imo-official.org/organizers.aspx))
   - Golden Rule:  [learn to type confidently](https://github.com/aliktl/professional/blob/main/typingconfidence.md) (10 times in a row >=55 words per minute)
+  - [Первые шаги](https://jut.su/baby-steps/)
   - Youtube motivation:
     - [Когда все пойдет не так](https://www.youtube.com/watch?v=Ym6ze7O_Vxc)
     - [Эмоциональный разговор с тренером о драке с Райаном. Никогда не сдавайся](https://www.youtube.com/watch?v=NBSHaKDfSOk)
@@ -55,7 +56,6 @@ This is the step by step (one by one) preparation for becoming professional prog
     - [My 14 Coding Interview Experiences | 13 Rejections](https://leetcode.com/discuss/interview-experience/448190/my-14-coding-interview-experiences-13-rejections)
     - [How I prepared for Google — Solving 200 leetcode questions](https://medium.com/@siddhism/how-i-prepared-for-google-0-leetcode-questions-to-200-questions-e37690ebce85#:~:text=If%20you%20are%20starting%20from,the%20number%20for%20that%20topic.)
     - [How I cleared Google Interview (not working)](https://www.linkedin.com/pulse/how-i-cleared-google-interview-from-0-200-leetcode-questions/)
-  - [What is the best/worst case scenario in your life?](https://www.quora.com/What-is-the-best-worst-case-scenario-in-your-life)
   - [Top 25 Highest Paying Jobs in the World-2024](https://www.mygreatlearning.com/blog/top-highest-paying-jobs-in-the-world/#SeniorSoftwareEngineer)
   - [Levels.fyi (internships)](https://www.levels.fyi/internships/) 
   - [Developer Roadmaps](https://roadmap.sh/)
