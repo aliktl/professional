@@ -51,3 +51,5 @@ rest
   - https://www.artofmanliness.com/character/behavior/increase-your-manly-confidence-overnight/
   - http://themaneffect.com/thejourney/15-ways-you-can-become-more-confident-as-a-man
   - https://www.mensjournal.com/health-fitness/17-ways-feel-more-confident/
+  -     - https://profit.kz/tags/startup/ 
+    - https://ru.wikihow.com/%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D1%82%D0%B0%D1%82%D1%8C-%D0%B1%D1%8B%D1%82%D1%8C-%D0%B7%D0%B0%D0%BC%D0%BA%D0%BD%D1%83%D1%82%D1%8B%D0%BC
