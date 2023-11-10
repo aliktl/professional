@@ -28,7 +28,7 @@ This is the step by step (one by one) preparation for becoming professional prog
 
 ### 1) Believe in yourself
   - Golden Rule: work in 4 hours and 30 minutes sessions (like [International Mathematical Olympiad](https://www.imo-official.org/organizers.aspx))
-  - Golden Rule:  [learn to type confidently](https://github.com/aliktl/professional/blob/main/typingconfidence.md) (10 times in a row >=50 words per minute)
+  - Golden Rule:  [learn to type confidently](https://github.com/aliktl/professional/blob/main/typingconfidence.md) (10 times in a row >=55 words per minute)
   - Youtube motivation:
     - [Когда все пойдет не так](https://www.youtube.com/watch?v=Ym6ze7O_Vxc)
     - [Эмоциональный разговор с тренером о драке с Райаном. Никогда не сдавайся](https://www.youtube.com/watch?v=NBSHaKDfSOk)
