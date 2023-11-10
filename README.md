@@ -26,53 +26,29 @@ This is the step by step (one by one) preparation for becoming professional prog
 21. [Professional resources](#21-professional-resources)
 
 
-
-<!--
-1) Believe in yourself
-2) Professional in Python programming language
-3) Professional in Data Structures and Algorithms
-4) Professional in Artificial Intelligence
-5) Professional in Databases
-6) Professional in Data Science
-7) Git and Github
-8) Google Analytics
-9) Django
-10) Flask
-11) Behavioral Interview
-12) Front end
-13) Amazon Web Services
-14) Back end + Object Oriented Programming
-15) Professional in Golang
-16) Professional in Docker
-17) Async programming (Threading, MultiThreading, Multiprocessing, GIL)
-18) Resources to find job or internship
-19) Business 101
-20) Professional in Project Management
-21) Professional resources
--->
-
 ### 1) Believe in yourself
   - Golden Rule: work in 4 hours and 30 minutes sessions (like [International Mathematical Olympiad](https://www.imo-official.org/organizers.aspx))
-  - https://www.youtube.com/watch?v=Ym6ze7O_Vxc (Когда все пойдет не так)
   - https://github.com/aliktl/professional/blob/main/typingconfidence.md (learn to type confidently)
-  - https://www.youtube.com/watch?v=3aXkU4_EbVU (Когда все надоело просто забей)  
-  - https://www.youtube.com/watch?v=ImEnWAVRLU0 (Mike Ross' Interview with Harvey Specter | Suits)
-  - https://youtu.be/5pj5c8x8w6k (Suits 7x01 Harvey asks Dr. Paula out)
-  - https://www.youtube.com/watch?v=YJZCUhxNCv8 (How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee)
+  - Youtube motivation:
+    - https://www.youtube.com/watch?v=Ym6ze7O_Vxc (Когда все пойдет не так)
+    - https://www.youtube.com/watch?v=3aXkU4_EbVU (Когда все надоело просто забей)
+    - https://www.youtube.com/watch?v=ImEnWAVRLU0 (Mike Ross' Interview with Harvey Specter | Suits)
+    - https://youtu.be/5pj5c8x8w6k (Suits 7x01 Harvey asks Dr. Paula out)
+    - https://www.youtube.com/watch?v=YJZCUhxNCv8 (How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee)
+    - https://www.youtube.com/watch?v=XubJThYWdVc (why job is a scam)
+    - https://www.youtube.com/watch?v=Hd_ptbiPoXM (Steve Jobs' 2005 Stanford Commencement Address (with intro by President John Hennessy))
+    - https://www.youtube.com/watch?v=yX39J_YyKbs (I am a champion - the greatest speech ever)
+    - https://www.youtube.com/watch?v=NBSHaKDfSOk (Эмоциональный разговор с тренером о драке с Райаном. Никогда не сдавайся.)
+    - https://www.youtube.com/watch?v=m6rBFcf9W7E (Продолжение. Никогда не сдавайся.)
+    - https://www.youtube.com/watch?v=nhY4NNtcTeo (never back down. english version)
+    - https://www.youtube.com/watch?v=_70Q-Xj3rEo&t=75s&pp=ygUUbmV2ZXIgZ2l2ZSB1cCBuZWZmZXg%3D (never give up. neffex)
+    - https://youtu.be/VpoIrS6G_Ek (Мне 24 и Я просрал Свою Жизнь (Что Делать?))
+    - https://youtu.be/iWVx3GzRddY (10 000 часов)
+    - https://www.youtube.com/watch?v=2zALCV_neLs
+    - https://www.youtube.com/watch?v=WZo60yJLltI
   - https://www.instagram.com/p/CZRcEiolEUV/?hl=ru
-  - https://www.youtube.com/watch?v=XubJThYWdVc (why job is a scam)
-  - https://www.youtube.com/watch?v=Hd_ptbiPoXM (Steve Jobs' 2005 Stanford Commencement Address (with intro by President John Hennessy))
   - https://habr.com/ru/post/372801/ (Увеличение мышечной силы коррелирует с повышением умственных способностей)
   - https://www.levels.fyi/2020/
-  - https://www.youtube.com/watch?v=yX39J_YyKbs (I am a champion - the greatest speech ever)
-  - https://www.youtube.com/watch?v=NBSHaKDfSOk (Эмоциональный разговор с тренером о драке с Райаном. Никогда не сдавайся.)
-  - https://www.youtube.com/watch?v=m6rBFcf9W7E (Продолжение. Никогда не сдавайся.)
-  - https://www.youtube.com/watch?v=nhY4NNtcTeo (never back down. english version)
-  - https://www.youtube.com/watch?v=_70Q-Xj3rEo&t=75s&pp=ygUUbmV2ZXIgZ2l2ZSB1cCBuZWZmZXg%3D (never give up. neffex)
-  - https://youtu.be/VpoIrS6G_Ek (Мне 24 и Я просрал Свою Жизнь (Что Делать?))
-  - https://youtu.be/iWVx3GzRddY (10 000 часов)
-  - https://www.youtube.com/watch?v=2zALCV_neLs
-  - https://www.youtube.com/watch?v=WZo60yJLltI
   - https://www.artofmanliness.com/character/behavior/increase-your-manly-confidence-overnight/
   - http://themaneffect.com/thejourney/15-ways-you-can-become-more-confident-as-a-man
   - https://www.mensjournal.com/health-fitness/17-ways-feel-more-confident/
