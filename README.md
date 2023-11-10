@@ -131,54 +131,6 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/watch?v=fBfzE0yk97k&list=PLOLrQ9Pn6caz-6WpcBYxV84g9gwptoN20&index=1
   - https://django.fun/docs/celery/ru/5.1/userguide/tasks/
 
-### 3) Professional in Data Structures and Algorithms
-  - https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns
-  - https://leetcode.com/list/xlern30i/
-  - https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns
-  - https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions
-  - https://leetcode.com/tag/dynamic-programming/discuss/1000929/Solved-all-dynamic-programming-(dp)-problems-in-7-months.
-  - https://leetcode.com/discuss/general-discussion/662866/DP-for-Beginners-Problems-or-Patterns-or-Sample-Solutions
-  - https://www.youtube.com/watch?v=q6IEA26hvXc&list=PLot-Xpze53letfIu9dMzIIO7na_sqvl0w
-  - https://www.youtube.com/watch?v=OsMuAspJAkc&list=PLdrw9_aIADIP0sYoOt2mql4Hb06Y1D0z2
-  - https://www.youtube.com/playlist?list=PLP446CXRka0WK9Zo0jRDqsIpNPEVu1DrF
-  - https://www.youtube.com/watch?v=1QQwZ5ff78I&list=PLlb7e2G7aSpSvqoUtSFrhZ-wAyfrQ9lMd
-  - https://www.youtube.com/watch?v=k850DNwR9xw&list=PLlb7e2G7aSpTZN_zRrbpVJUvB-pTuM_VL
-  - https://www.youtube.com/watch?v=iyFxzc7AB80&list=PLlb7e2G7aSpRMDLGXOYutKAsDc6rrIrbl
-  - https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
-  - https://www.geeksforgeeks.org/system-design-tutorial/?ref=ghm
-  - https://www.geeksforgeeks.org/dynamic-programming/?ref=ghm
-  - https://www.youtube.com/user/tusharroy2525/playlists?view=1&sort=dd&shelf_id=0
-  - https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O
-  - https://www.youtube.com/playlist?list=PLEJXowNB4kPxBwaXtRO1qFLpCzF75DYrS
-  - https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
-  - https://www.programiz.com/dsa (DSA basics from Programiz)
-  - https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
-  - https://www.cseacademy.in/best-youtube-channels-for-data-structures-and-algorithms/
-  - https://leetcode.com/discuss/study-guide/1098600/TOPICS-WHICH-YOU-CAN'T-SKIP-INTERVIEW-PREPARATION-or-STUDY-PLAN-USING-LEETCODE
-  - https://leetcode.com/discuss/study-guide/1177039/%22Practice-More-Learn-More%22-greater-Study-Guide-and-Interview-Preparation-Using-LEETCODE
-  - https://leetcode.com/explore/interview/card/top-interview-questions-easy/
-  - https://leetcode.com/explore/interview/card/top-interview-questions-medium/
-  - https://leetcode.com/explore/interview/card/top-interview-questions-hard/
-  - https://leetcode.com/explore/learn/
-  - https://seanprashad.com/leetcode-patterns/
-  - https://leetcode.com/discuss/study-guide/623011/A-guide-for-dummies-(like-me)
-  - https://github.com/jwasham/coding-interview-university
-  - https://www.crackingthecodinginterview.com/contents.html
-  - https://leetcode.com/discuss/study-guide/1367727/Links-to-Some-Great-post-in-Study-Guide
-  - https://leetcode.com/discuss/study-guide/494279/Comprehensive-Data-Structure-and-Algorithm-Study-Guide
-  - https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
-  - https://www.tutorialspoint.com/python_data_structure/index.htm (Python data structures and algorithms on tutorials point)
-  - https://www.tutorialspoint.com/data_structures_algorithms/index.htm
-  - https://github.com/aliktl/professional/blob/main/CHAMPIONS_University.md (Full Data Structures and Algorithms Course by me from Champions University)
-  - https://www.w3schools.in/data-structures-tutorial/intro/
-  - Youtube english course of Data Structures and Algorithms [link to freecodecamp](https://youtu.be/8hly31xKli0)
-  - Youtube russian professor Data Structures and Algorithms  [link to МФТИ](https://youtu.be/KdZ4HF1SrFs?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0)
-  - https://www.javatpoint.com/data-structure-tutorial
-  - https://www.geeksforgeeks.org/data-structures/?ref=lbp
-  - https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=lbp
-  - https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O
-  - https://www.youtube.com/watch?v=XGClOyyliPs&list=PL7yh-TELLS1HgoWUfxGzoaa7PEJ2Q-RfC
-  - https://www.youtube.com/watch?v=XGClOyyliPs&list=PL7yh-TELLS1HgoWUfxGzoaa7PEJ2Q-RfC
 
     
 ### 4) Back end + Object Oriented Programming
@@ -238,7 +190,57 @@ This is the step by step (one by one) preparation for becoming professional prog
 ### 9) Professional in Docker
   - https://youtu.be/fqMOX6JJhGo
 
-### 4) Professional in Artificial Intelligence
+### 10) Professional in Data Structures and Algorithms
+  - https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns
+  - https://leetcode.com/list/xlern30i/
+  - https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns
+  - https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions
+  - https://leetcode.com/tag/dynamic-programming/discuss/1000929/Solved-all-dynamic-programming-(dp)-problems-in-7-months.
+  - https://leetcode.com/discuss/general-discussion/662866/DP-for-Beginners-Problems-or-Patterns-or-Sample-Solutions
+  - https://www.youtube.com/watch?v=q6IEA26hvXc&list=PLot-Xpze53letfIu9dMzIIO7na_sqvl0w
+  - https://www.youtube.com/watch?v=OsMuAspJAkc&list=PLdrw9_aIADIP0sYoOt2mql4Hb06Y1D0z2
+  - https://www.youtube.com/playlist?list=PLP446CXRka0WK9Zo0jRDqsIpNPEVu1DrF
+  - https://www.youtube.com/watch?v=1QQwZ5ff78I&list=PLlb7e2G7aSpSvqoUtSFrhZ-wAyfrQ9lMd
+  - https://www.youtube.com/watch?v=k850DNwR9xw&list=PLlb7e2G7aSpTZN_zRrbpVJUvB-pTuM_VL
+  - https://www.youtube.com/watch?v=iyFxzc7AB80&list=PLlb7e2G7aSpRMDLGXOYutKAsDc6rrIrbl
+  - https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+  - https://www.geeksforgeeks.org/system-design-tutorial/?ref=ghm
+  - https://www.geeksforgeeks.org/dynamic-programming/?ref=ghm
+  - https://www.youtube.com/user/tusharroy2525/playlists?view=1&sort=dd&shelf_id=0
+  - https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O
+  - https://www.youtube.com/playlist?list=PLEJXowNB4kPxBwaXtRO1qFLpCzF75DYrS
+  - https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
+  - https://www.programiz.com/dsa (DSA basics from Programiz)
+  - https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+  - https://www.cseacademy.in/best-youtube-channels-for-data-structures-and-algorithms/
+  - https://leetcode.com/discuss/study-guide/1098600/TOPICS-WHICH-YOU-CAN'T-SKIP-INTERVIEW-PREPARATION-or-STUDY-PLAN-USING-LEETCODE
+  - https://leetcode.com/discuss/study-guide/1177039/%22Practice-More-Learn-More%22-greater-Study-Guide-and-Interview-Preparation-Using-LEETCODE
+  - https://leetcode.com/explore/interview/card/top-interview-questions-easy/
+  - https://leetcode.com/explore/interview/card/top-interview-questions-medium/
+  - https://leetcode.com/explore/interview/card/top-interview-questions-hard/
+  - https://leetcode.com/explore/learn/
+  - https://seanprashad.com/leetcode-patterns/
+  - https://leetcode.com/discuss/study-guide/623011/A-guide-for-dummies-(like-me)
+  - https://github.com/jwasham/coding-interview-university
+  - https://www.crackingthecodinginterview.com/contents.html
+  - https://leetcode.com/discuss/study-guide/1367727/Links-to-Some-Great-post-in-Study-Guide
+  - https://leetcode.com/discuss/study-guide/494279/Comprehensive-Data-Structure-and-Algorithm-Study-Guide
+  - https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+  - https://www.tutorialspoint.com/python_data_structure/index.htm (Python data structures and algorithms on tutorials point)
+  - https://www.tutorialspoint.com/data_structures_algorithms/index.htm
+  - https://github.com/aliktl/professional/blob/main/CHAMPIONS_University.md (Full Data Structures and Algorithms Course by me from Champions University)
+  - https://www.w3schools.in/data-structures-tutorial/intro/
+  - Youtube english course of Data Structures and Algorithms [link to freecodecamp](https://youtu.be/8hly31xKli0)
+  - Youtube russian professor Data Structures and Algorithms  [link to МФТИ](https://youtu.be/KdZ4HF1SrFs?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0)
+  - https://www.javatpoint.com/data-structure-tutorial
+  - https://www.geeksforgeeks.org/data-structures/?ref=lbp
+  - https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=lbp
+  - https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O
+  - https://www.youtube.com/watch?v=XGClOyyliPs&list=PL7yh-TELLS1HgoWUfxGzoaa7PEJ2Q-RfC
+  - https://www.youtube.com/watch?v=XGClOyyliPs&list=PL7yh-TELLS1HgoWUfxGzoaa7PEJ2Q-RfC
+
+
+### 11) Professional in Artificial Intelligence
   - https://www.geeksforgeeks.org/machine-learning/?ref=shm
   - https://www.youtube.com/watch?v=qLBkB4sMztk&list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC
   - https://www.mygreatlearning.com/blog/nlp-interview-questions/
@@ -277,7 +279,7 @@ This is the step by step (one by one) preparation for becoming professional prog
 
 
 
-### 6) Professional in Data Science
+### 12) Professional in Data Science
   - https://www.youtube.com/watch?v=Uj3PpTH-dyg
   - https://www.tutorialspoint.com/python_data_science/index.htm
   - https://towardsdatascience.com/data-science-learning-roadmap-for-2021-84f2ba09a44f
@@ -290,25 +292,23 @@ This is the step by step (one by one) preparation for becoming professional prog
 
 
 
-### 8) Google Analytics
+### 13) Google Analytics
   - https://youtu.be/kKPTZNjaKcY?list=PLI5YfMzCfRtZU5Qwzx57HjmZyNE2o5YDN
   - https://analytics.google.com/analytics/academy/course/6/unit/1/lesson/1
 
-### Bonus: 
 
-
-### 10) Flask 
+### 14) Flask 
   - https://www.youtube.com/watch?v=zdgYw-3tzfI
 
 
-### 11) Behavioral Interview
+### 15) Behavioral Interview
   - https://www.pathrise.com/guides/45-behavioral-interview-questions/
   - https://www.springboard.com/blog/software-engineering/21-software-engineering-interview-questions/
   - https://careerkarma.com/blog/behavioral-interview-questions/
   - https://www.themuse.com/advice/30-behavioral-interview-questions-you-should-be-ready-to-answer
   
   
-### 12) Front end
+### 16) Front end
   Vue JS
   - https://www.youtube.com/watch?v=XzLuMtDelGk&t
   - https://www.youtube.com/watch?v=p059z-0JTFg
@@ -330,7 +330,7 @@ This is the step by step (one by one) preparation for becoming professional prog
    
 
 
-### 13) Amazon Web Services
+### 17) Amazon Web Services
   - https://www.youtube.com/watch?v=ulprqHHWlng
   - https://youtu.be/Ia-UEYYR44s
   - https://www.mygreatlearning.com/blog/aws-interview-questions/
@@ -339,7 +339,7 @@ This is the step by step (one by one) preparation for becoming professional prog
 
 
 
-### 15) Professional in Golang
+### 18) Professional in Golang
   - https://betterprogramming.pub/build-a-simple-todolist-app-in-golang-82297ec25c7d
   - 
 
@@ -347,7 +347,7 @@ This is the step by step (one by one) preparation for becoming professional prog
 
 
 
-### 18) Resources to find job or internship
+### 19) Resources to find job or internship
   - https://ocitizens.com/
   - https://docs.google.com/spreadsheets/d/1LHvMb8USHrwSKG6t5A4XIhkL_W3g7s-W83cwEtopCsc/edit#gid=0
   - https://github.com/danabeknar/kazakhstan-it-internships
@@ -378,7 +378,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.failory.com/startups/south-korea#toc-21-yanolja
   - https://triplebyte.com/jobs?communication_and_decisions%5B%5D=support&on_call_demands%5B%5D=never&qa_team%5B%5D=yes&size%5B%5D=251-500&size%5B%5D=501-plus&size%5B%5D=51-100&size%5B%5D=101-250&size%5B%5D=11-25&size%5B%5D=26-50&size%5B%5D=0-10&testing_practice%5B%5D=maximize_reliability&work_pace%5B%5D=slow_pace
 
-### 19) Business 101
+### 20) Business 101
   - https://businesstory.ru/10-glavnyh-strahov-predprinimatelej/
   - https://www.openbusiness.ru/html_sovet/jump.htm
   - https://dasreda.ru/learn/blog/article/769
@@ -386,10 +386,10 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://dasreda.ru/learn/blog/article/769#5
   - https://www.insales.ru/blogs/university/10-glavnyh-strahov-predprinimatelya
 
-### 20) Professional in Project Management 
+### 21) Professional in Project Management 
   - https://www.youtube.com/watch?v=uWPIsaYpY7U
     
-### 21) Professional resources
+### 22) Professional resources
   - https://www.youtube.com/c/%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D0%B0/playlists?view=50&sort=dd&shelf_id=3
   - https://www.kaggle.com/learn
   - https://www.geeksforgeeks.org/
