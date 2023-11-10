@@ -58,7 +58,8 @@ This is the step by step (one by one) preparation for becoming professional prog
   - [What is the best/worst case scenario in your life?](https://www.quora.com/What-is-the-best-worst-case-scenario-in-your-life)
   - [Top 25 Highest Paying Jobs in the World-2024](https://www.mygreatlearning.com/blog/top-highest-paying-jobs-in-the-world/#SeniorSoftwareEngineer)
   - [Levels.fyi (internships)](https://www.levels.fyi/internships/) 
-  - [Developer Roadmaps](https://roadmap.sh/) 
+  - [Developer Roadmaps](https://roadmap.sh/)
+  - [To be continued](https://github.com/aliktl/professional/blob/main/believe%20in%20yourself.md)
 
 ### 2) Professional in Python programming language
   - https://www.simplilearn.com/tutorials/python-tutorial/how-to-become-python-developer
