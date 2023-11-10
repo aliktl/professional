@@ -11,28 +11,20 @@ This is the step by step (one by one) preparation for becoming professional prog
 6. [Async programming (Threading, MultiThreading, Multiprocessing, GIL)](#6-async-programming-threading-multithreading-multiprocessing-gil)
 7. [Git and Github](#7-git-and-github)
 8. [Testing](#8-Testing)
-9. [Professional in Docker](#16-professional-in-docker)
-10. 
-11. [Professional in Data Structures and Algorithms](#bonus-professional-in-data-structures-and-algorithms)
-12. 
-13. [Professional in Artificial Intelligence](#4-professional-in-artificial-intelligence)
-14. 
-15. [Professional in Data Science](#6-professional-in-data-science)
-16. 
-17. [Google Analytics](#8-google-analytics)
-18. 
-19. [Flask](#10-flask)
-20. [Behavioral Interview](#11-behavioral-interview)
-21. [Front end](#12-front-end)
-22. [Amazon Web Services](#13-amazon-web-services)
-23. 
-24. [Professional in Golang](#15-professional-in-golang)
-25. 
-26. 
-27. [Resources to find job or internship](#18-resources-to-find-job-or-internship)
-28. [Business 101](#19-business-101)
-29. [Professional in Project Management](#20-professional-in-project-management)
-30. [Professional resources](#21-professional-resources)
+9. [Professional in Docker](#9-professional-in-docker)
+10. [Professional in Data Structures and Algorithms](#10-professional-in-data-structures-and-algorithms)
+11. [Professional in Artificial Intelligence](#11-professional-in-artificial-intelligence)
+12. [Professional in Data Science](#12-professional-in-data-science)
+13. [Google Analytics](#13-google-analytics)
+14. [Flask](#14-flask)
+15. [Behavioral Interview](#15-behavioral-interview)
+16. [Front end](#16-front-end)
+17. [Amazon Web Services](#17-amazon-web-services)
+18. [Professional in Golang](#18-professional-in-golang)
+19. [Resources to find job or internship](#19-resources-to-find-job-or-internship)
+20. [Business 101](#20-business-101)
+21. [Professional in Project Management](#21-professional-in-project-management)
+22. [Professional resources](#22-professional-resources)
 
 
 ### 1) Believe in yourself
@@ -72,59 +64,59 @@ This is the step by step (one by one) preparation for becoming professional prog
   - [To be continued](https://github.com/aliktl/professional/blob/main/believe%20in%20yourself.md)
 
 ### 2) Professional in Python programming language
-  - For Learning:
-    - https://www.simplilearn.com/tutorials/python-tutorial/how-to-become-python-developer
-    - https://www.programiz.com/python-programming
-    - https://www.youtube.com/watch?v=VP2wRhwlg6c&list=PLJOzdkh8T5kpIBTG9mM2wVBjh-5OpdwBl
-    - https://www.mygreatlearning.com/blog/python-interview-questions/
-    - https://www.youtube.com/watch?v=5V7XG1mGiHc&list=PLlb7e2G7aSpTTNp7HBYzCBByaE1h54ruW
-    - https://www.geeksforgeeks.org/top-40-python-interview-questions-answers/?ref=lbp
-    - https://everyday.codes/python/10-advanced-python-interview-questions/
-    - https://www.programiz.com/python-programming (Python Basics from Programiz)
-    - https://www.kaggle.com/learn/python (Kaggle Python Tutorial)
-    - https://www.youtube.com/watch?v=0VdzZQdaZ28&list=PLzMcBGfZo4-nhWva-6OVh1yKWHBs4o_tv
-    - https://everyday.codes/python/10-advanced-python-interview-questions/
-    - https://www.youtube.com/watch?v=QLTdOEn79Rc&list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2 (Python Engineer Advanced Python Tutorial)
-    - https://www.guru99.com/python-interview-questions-answers.html
-    - https://www.tutorialspoint.com/python3/index.htm (Python prerequisite for data structures and algorithms on tutorials point)
-    - https://www.javatpoint.com/python-tutorial
-    - https://www.geeksforgeeks.org/python-programming-language/ (Python Geeks for Geeks professional advanced level)
-    - https://youtu.be/WGJJIrtnfpk
-    - https://www.edureka.co/blog/interview-questions/python-interview-questions/
-    - https://docs.python.org/3/tutorial/index.html
-    - https://runestone.academy/runestone/books/published/pythonds/index.html
-    - https://github.com/s16h/py-must-watch
-    - https://www.w3schools.com/python/default.asp
-    - https://www.programiz.com/python-programming
-    - https://digitaldefynd.com/best-python-tutorial-class-certification-course-training-online/
-    - https://medium.com/analytics-vidhya/python-roadmap-to-follow-in-2021-1f49715468ca
-    - https://www.youtube.com/watch?v=tdn9_MZ0lN4
-    - https://www.youtube.com/watch?v=Qu3dThVy6KQ&t
-    - https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
-    - https://realpython.com/python-bitwise-operators/
-    - https://note.nkmk.me/en/python-bit-operation/
-    - https://medium.com/fintechexplained/advanced-python-itertools-library-the-gem-of-python-language-99da37dfcca2
-    - https://www.jcchouinard.com/python-for-seo/
-    - https://www.youtube.com/watch?v=KSiRzuSx120&list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc
-    - https://docs.python.org/3/library/asyncio.html (Async programming)
-    - https://www.youtube.com/watch?v=KSiRzuSx120&list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc
-    - https://www.youtube.com/watch?v=5x6iAKdJB6U&list=PL7yh-TELLS1EgOLIPo1sVuf_rDPEp33S8
-    - https://www.youtube.com/watch?v=Wz5oLT55_jY&list=PL7yh-TELLS1GNyuvPsFEqb7JVMEUTtuau
-    - https://www.youtube.com/watch?v=2S7Xxz9PhaU&list=PL7yh-TELLS1F3KytMVZRFO-xIo_S2_Jg1
-    - https://www.youtube.com/watch?v=-eaFKumWT1k&list=PL7yh-TELLS1E6dNCzfQl-NG-KJP3C-4mc
-    - https://www.youtube.com/watch?v=3UOyky9sEQY&list=PL7yh-TELLS1FwBSNR_tH7qVbNpYHL4IQs
-    - https://www.youtube.com/playlist?list=PL7yh-TELLS1HJzPsb6Xjdse2zbyQ-ocDH
-    - https://www.geeksforgeeks.org/what-is-the-python-global-interpreter-lock-gil/
-    - https://www.youtube.com/watch?v=Yrtm7d3TJbs
-    - https://www.youtube.com/watch?v=7v_TVJHodiI&t=26814s
-    - https://www.youtube.com/watch?v=HGOBQPFzWKo&t=13761s
-    - https://www.youtube.com/watch?v=HLwtZ-dQHhY&list=PLlb7e2G7aSpQmGnhrxlqI4iMXNv4R7khy
-    - https://www.pythoncheatsheet.org/#__main__-Top-level-script-environment
-    - https://www.javatpoint.com/python-pandas-interview-questions
-    - https://thecodingbot.com/time-complexity-of-built-in-len-function-in-python/
-    - https://www.tutorialspoint.com/pytest/index.htm
-  - For Interviews:
-    - some website
+  #### For Learning:
+  - https://www.simplilearn.com/tutorials/python-tutorial/how-to-become-python-developer
+  - https://www.programiz.com/python-programming
+  - https://www.youtube.com/watch?v=VP2wRhwlg6c&list=PLJOzdkh8T5kpIBTG9mM2wVBjh-5OpdwBl
+  - https://www.mygreatlearning.com/blog/python-interview-questions/
+  - https://www.youtube.com/watch?v=5V7XG1mGiHc&list=PLlb7e2G7aSpTTNp7HBYzCBByaE1h54ruW
+  - https://www.geeksforgeeks.org/top-40-python-interview-questions-answers/?ref=lbp
+  - https://everyday.codes/python/10-advanced-python-interview-questions/
+  - https://www.programiz.com/python-programming (Python Basics from Programiz)
+  - https://www.kaggle.com/learn/python (Kaggle Python Tutorial)
+  - https://www.youtube.com/watch?v=0VdzZQdaZ28&list=PLzMcBGfZo4-nhWva-6OVh1yKWHBs4o_tv
+  - https://everyday.codes/python/10-advanced-python-interview-questions/
+  - https://www.youtube.com/watch?v=QLTdOEn79Rc&list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2 (Python Engineer Advanced Python Tutorial)
+  - https://www.guru99.com/python-interview-questions-answers.html
+  - https://www.tutorialspoint.com/python3/index.htm (Python prerequisite for data structures and algorithms on tutorials point)
+  - https://www.javatpoint.com/python-tutorial
+  - https://www.geeksforgeeks.org/python-programming-language/ (Python Geeks for Geeks professional advanced level)
+  - https://youtu.be/WGJJIrtnfpk
+  - https://www.edureka.co/blog/interview-questions/python-interview-questions/
+  - https://docs.python.org/3/tutorial/index.html
+  - https://runestone.academy/runestone/books/published/pythonds/index.html
+  - https://github.com/s16h/py-must-watch
+  - https://www.w3schools.com/python/default.asp
+  - https://www.programiz.com/python-programming
+  - https://digitaldefynd.com/best-python-tutorial-class-certification-course-training-online/
+  - https://medium.com/analytics-vidhya/python-roadmap-to-follow-in-2021-1f49715468ca
+  - https://www.youtube.com/watch?v=tdn9_MZ0lN4
+  - https://www.youtube.com/watch?v=Qu3dThVy6KQ&t
+  - https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
+  - https://realpython.com/python-bitwise-operators/
+  - https://note.nkmk.me/en/python-bit-operation/
+  - https://medium.com/fintechexplained/advanced-python-itertools-library-the-gem-of-python-language-99da37dfcca2
+  - https://www.jcchouinard.com/python-for-seo/
+  - https://www.youtube.com/watch?v=KSiRzuSx120&list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc
+  - https://docs.python.org/3/library/asyncio.html (Async programming)
+  - https://www.youtube.com/watch?v=KSiRzuSx120&list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc
+  - https://www.youtube.com/watch?v=5x6iAKdJB6U&list=PL7yh-TELLS1EgOLIPo1sVuf_rDPEp33S8
+  - https://www.youtube.com/watch?v=Wz5oLT55_jY&list=PL7yh-TELLS1GNyuvPsFEqb7JVMEUTtuau
+  - https://www.youtube.com/watch?v=2S7Xxz9PhaU&list=PL7yh-TELLS1F3KytMVZRFO-xIo_S2_Jg1
+  - https://www.youtube.com/watch?v=-eaFKumWT1k&list=PL7yh-TELLS1E6dNCzfQl-NG-KJP3C-4mc
+  - https://www.youtube.com/watch?v=3UOyky9sEQY&list=PL7yh-TELLS1FwBSNR_tH7qVbNpYHL4IQs
+  - https://www.youtube.com/playlist?list=PL7yh-TELLS1HJzPsb6Xjdse2zbyQ-ocDH
+  - https://www.geeksforgeeks.org/what-is-the-python-global-interpreter-lock-gil/
+  - https://www.youtube.com/watch?v=Yrtm7d3TJbs
+  - https://www.youtube.com/watch?v=7v_TVJHodiI&t=26814s
+  - https://www.youtube.com/watch?v=HGOBQPFzWKo&t=13761s
+  - https://www.youtube.com/watch?v=HLwtZ-dQHhY&list=PLlb7e2G7aSpQmGnhrxlqI4iMXNv4R7khy
+  - https://www.pythoncheatsheet.org/#__main__-Top-level-script-environment
+  - https://www.javatpoint.com/python-pandas-interview-questions
+  - https://thecodingbot.com/time-complexity-of-built-in-len-function-in-python/
+  - https://www.tutorialspoint.com/pytest/index.htm
+  #### For Interviews:
+  - some website
 
 ### 3) Django
   - https://data-flair.training/blogs/django-interview-questions/
