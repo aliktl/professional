@@ -46,23 +46,18 @@ This is the step by step (one by one) preparation for becoming professional prog
     - https://leetcode.com/ars0/
     - https://leetcode.com/wjli/
     - https://leetcode.com/superluminal/
-
-  - Articles:
-    - https://leetcode-country-ranking.herokuapp.com/country/KZ
+    - https://leetcode-country-ranking.herokuapp.com/ (not working)
+    - https://leetcode-country-ranking.onrender.com/
     - https://www.quora.com/I-cant-even-solve-easy-problems-on-LeetCode-What-should-I-do
     - https://www.quora.com/How-do-I-become-an-expert-Python-programmer
-    - https://www.quora.com/What-is-the-best-worst-case-scenario-in-your-life
-    - https://www.linkedin.com/pulse/how-i-cleared-google-interview-from-0-200-leetcode-questions/
-    - https://www.mygreatlearning.com/blog/top-highest-paying-jobs-in-the-world/#SeniorSoftwareEngineer
-    - https://medium.com/@siddhism/how-i-prepared-for-google-0-leetcode-questions-to-200-questions-e37690ebce85#:~:text=If%20you%20are%20starting%20from,the%20number%20for%20that%20topic.
-    - https://profit.kz/tags/startup/
-    - https://leetcode.com/discuss/interview-experience/448190/my-14-coding-interview-experiences-13-rejections
-    - https://ru.wikihow.com/%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D1%82%D0%B0%D1%82%D1%8C-%D0%B1%D1%8B%D1%82%D1%8C-%D0%B7%D0%B0%D0%BC%D0%BA%D0%BD%D1%83%D1%82%D1%8B%D0%BC
-    - https://habr.com/ru/companies/geekfactor/articles/597035/
-    - https://www.levels.fyi/internships/
-    - https://clist.by/resource/leetcode.com/
-    - https://leetcode-country-ranking.onrender.com/
-    - https://roadmap.sh/
+  - [Я решил 500 задач на LeetCode — и они действительно меня чему-то научили](https://habr.com/ru/companies/geekfactor/articles/597035/)
+  - https://www.quora.com/What-is-the-best-worst-case-scenario-in-your-life
+  - https://www.linkedin.com/pulse/how-i-cleared-google-interview-from-0-200-leetcode-questions/
+  - https://www.mygreatlearning.com/blog/top-highest-paying-jobs-in-the-world/#SeniorSoftwareEngineer
+  - https://medium.com/@siddhism/how-i-prepared-for-google-0-leetcode-questions-to-200-questions-e37690ebce85#:~:text=If%20you%20are%20starting%20from,the%20number%20for%20that%20topic.
+  - https://leetcode.com/discuss/interview-experience/448190/my-14-coding-interview-experiences-13-rejections
+  - https://www.levels.fyi/internships/
+  - https://roadmap.sh/
 
 ### 2) Professional in Python programming language
   - https://www.simplilearn.com/tutorials/python-tutorial/how-to-become-python-developer
