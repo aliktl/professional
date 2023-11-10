@@ -46,3 +46,8 @@ rest
     - https://www.youtube.com/watch?v=WZo60yJLltI (СКОЛЬКО СТОИТ ВЫЖИТЬ В НЬЮ-ЙОРКЕ. ПОСЧИТАЛА РАСХОДЫ ЗА МЕСЯЦ В АМЕРИКЕ)
   - https://www.instagram.com/p/CZRcEiolEUV/?hl=ru
   - https://habr.com/ru/post/372801/ (Увеличение мышечной силы коррелирует с повышением умственных способностей)
+ rest 2
+  - https://www.levels.fyi/2020/
+  - https://www.artofmanliness.com/character/behavior/increase-your-manly-confidence-overnight/
+  - http://themaneffect.com/thejourney/15-ways-you-can-become-more-confident-as-a-man
+  - https://www.mensjournal.com/health-fitness/17-ways-feel-more-confident/
