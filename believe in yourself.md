@@ -30,3 +30,19 @@
   - https://youtu.be/CGXgINZpvME?t=38 (🇺🇸 Don Frye vs 🇯🇵 Yoshihiro Takayama - CRAZY MMA FIGHT)
   - https://www.youtube.com/watch?v=M5QY2_8704o (Music to work)
   - https://www.youtube.com/watch?v=rrXIHEeUk4Q
+
+
+
+
+rest
+ - https://youtu.be/5pj5c8x8w6k (Suits 7x01 Harvey asks Dr. Paula out)
+    - https://www.youtube.com/watch?v=XubJThYWdVc (why job is a scam)
+    - https://www.youtube.com/watch?v=Hd_ptbiPoXM (Steve Jobs' 2005 Stanford Commencement Address (with intro by President John Hennessy))
+    - https://www.youtube.com/watch?v=m6rBFcf9W7E (Продолжение. Никогда не сдавайся.)
+    - https://www.youtube.com/watch?v=nhY4NNtcTeo (never back down. english version)
+    - https://www.youtube.com/watch?v=_70Q-Xj3rEo&t=75s&pp=ygUUbmV2ZXIgZ2l2ZSB1cCBuZWZmZXg%3D (never give up. neffex)
+    - https://youtu.be/iWVx3GzRddY (10 000 часов)
+    - https://www.youtube.com/watch?v=2zALCV_neLs (Нью-Йорк - Город мечты? Почему все хотят посетить Нью-Йорк?)
+    - https://www.youtube.com/watch?v=WZo60yJLltI (СКОЛЬКО СТОИТ ВЫЖИТЬ В НЬЮ-ЙОРКЕ. ПОСЧИТАЛА РАСХОДЫ ЗА МЕСЯЦ В АМЕРИКЕ)
+  - https://www.instagram.com/p/CZRcEiolEUV/?hl=ru
+  - https://habr.com/ru/post/372801/ (Увеличение мышечной силы коррелирует с повышением умственных способностей)
