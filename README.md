@@ -5,25 +5,34 @@ This is the step by step (one by one) preparation for becoming professional prog
 
 1. [Believe in yourself](#1-believe-in-yourself)
 2. [Professional in Python programming language](#2-professional-in-python-programming-language)
-3. [Professional in Data Structures and Algorithms](#3-professional-in-data-structures-and-algorithms)
-4. [Professional in Artificial Intelligence](#4-professional-in-artificial-intelligence)
+3. [Django](#3-django)
+4. [Back end + Object Oriented Programming](#4-back-end--object-oriented-programming)
 5. [Professional in Databases](#5-professional-in-databases)
-6. [Professional in Data Science](#6-professional-in-data-science)
+6. [Async programming (Threading, MultiThreading, Multiprocessing, GIL)](#6-async-programming-threading-multithreading-multiprocessing-gil)
 7. [Git and Github](#7-git-and-github)
-8. [Google Analytics](#8-google-analytics)
-9. [Django](#9-django)
-10. [Flask](#10-flask)
-11. [Behavioral Interview](#11-behavioral-interview)
-12. [Front end](#12-front-end)
-13. [Amazon Web Services](#13-amazon-web-services)
-14. [Back end + Object Oriented Programming](#14-back-end--object-oriented-programming)
-15. [Professional in Golang](#15-professional-in-golang)
-16. [Professional in Docker](#16-professional-in-docker)
-17. [Async programming (Threading, MultiThreading, Multiprocessing, GIL)](#17-async-programming-threading-multithreading-multiprocessing-gil)
-18. [Resources to find job or internship](#18-resources-to-find-job-or-internship)
-19. [Business 101](#19-business-101)
-20. [Professional in Project Management](#20-professional-in-project-management)
-21. [Professional resources](#21-professional-resources)
+8. [Testing](#8-Testing)
+9. [Professional in Docker](#16-professional-in-docker)
+10. 
+11. [Professional in Data Structures and Algorithms](#bonus-professional-in-data-structures-and-algorithms)
+12. 
+13. [Professional in Artificial Intelligence](#4-professional-in-artificial-intelligence)
+14. 
+15. [Professional in Data Science](#6-professional-in-data-science)
+16. 
+17. [Google Analytics](#8-google-analytics)
+18. 
+19. [Flask](#10-flask)
+20. [Behavioral Interview](#11-behavioral-interview)
+21. [Front end](#12-front-end)
+22. [Amazon Web Services](#13-amazon-web-services)
+23. 
+24. [Professional in Golang](#15-professional-in-golang)
+25. 
+26. 
+27. [Resources to find job or internship](#18-resources-to-find-job-or-internship)
+28. [Business 101](#19-business-101)
+29. [Professional in Project Management](#20-professional-in-project-management)
+30. [Professional resources](#21-professional-resources)
 
 
 ### 1) Believe in yourself
@@ -63,56 +72,72 @@ This is the step by step (one by one) preparation for becoming professional prog
   - [To be continued](https://github.com/aliktl/professional/blob/main/believe%20in%20yourself.md)
 
 ### 2) Professional in Python programming language
-  - https://www.simplilearn.com/tutorials/python-tutorial/how-to-become-python-developer
-  - https://www.programiz.com/python-programming
-  - https://www.youtube.com/watch?v=VP2wRhwlg6c&list=PLJOzdkh8T5kpIBTG9mM2wVBjh-5OpdwBl
-  - https://www.mygreatlearning.com/blog/python-interview-questions/
-  - https://www.youtube.com/watch?v=5V7XG1mGiHc&list=PLlb7e2G7aSpTTNp7HBYzCBByaE1h54ruW
-  - https://www.geeksforgeeks.org/top-40-python-interview-questions-answers/?ref=lbp
-  - https://everyday.codes/python/10-advanced-python-interview-questions/
-  - https://www.programiz.com/python-programming (Python Basics from Programiz)
-  - https://www.kaggle.com/learn/python (Kaggle Python Tutorial)
-  - https://www.youtube.com/watch?v=0VdzZQdaZ28&list=PLzMcBGfZo4-nhWva-6OVh1yKWHBs4o_tv
-  - https://everyday.codes/python/10-advanced-python-interview-questions/
-  - https://www.youtube.com/watch?v=QLTdOEn79Rc&list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2 (Python Engineer Advanced Python Tutorial)
-  - https://www.guru99.com/python-interview-questions-answers.html
-  - https://www.tutorialspoint.com/python3/index.htm (Python prerequisite for data structures and algorithms on tutorials point)
-  - https://www.javatpoint.com/python-tutorial
-  - https://www.geeksforgeeks.org/python-programming-language/ (Python Geeks for Geeks professional advanced level)
-  - https://youtu.be/WGJJIrtnfpk
-  - https://www.edureka.co/blog/interview-questions/python-interview-questions/
-  - https://docs.python.org/3/tutorial/index.html
-  - https://runestone.academy/runestone/books/published/pythonds/index.html
-  - https://github.com/s16h/py-must-watch
-  - https://www.w3schools.com/python/default.asp
-  - https://www.programiz.com/python-programming
-  - https://digitaldefynd.com/best-python-tutorial-class-certification-course-training-online/
-  - https://medium.com/analytics-vidhya/python-roadmap-to-follow-in-2021-1f49715468ca
-  - https://www.youtube.com/watch?v=tdn9_MZ0lN4
-  - https://www.youtube.com/watch?v=Qu3dThVy6KQ&t
-  - https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
-  - https://realpython.com/python-bitwise-operators/
-  - https://note.nkmk.me/en/python-bit-operation/
-  - https://medium.com/fintechexplained/advanced-python-itertools-library-the-gem-of-python-language-99da37dfcca2
-  - https://www.jcchouinard.com/python-for-seo/
-  - https://www.youtube.com/watch?v=KSiRzuSx120&list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc
-  - https://docs.python.org/3/library/asyncio.html (Async programming)
-  - https://www.youtube.com/watch?v=KSiRzuSx120&list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc
-  - https://www.youtube.com/watch?v=5x6iAKdJB6U&list=PL7yh-TELLS1EgOLIPo1sVuf_rDPEp33S8
-  - https://www.youtube.com/watch?v=Wz5oLT55_jY&list=PL7yh-TELLS1GNyuvPsFEqb7JVMEUTtuau
-  - https://www.youtube.com/watch?v=2S7Xxz9PhaU&list=PL7yh-TELLS1F3KytMVZRFO-xIo_S2_Jg1
-  - https://www.youtube.com/watch?v=-eaFKumWT1k&list=PL7yh-TELLS1E6dNCzfQl-NG-KJP3C-4mc
-  - https://www.youtube.com/watch?v=3UOyky9sEQY&list=PL7yh-TELLS1FwBSNR_tH7qVbNpYHL4IQs
-  - https://www.youtube.com/playlist?list=PL7yh-TELLS1HJzPsb6Xjdse2zbyQ-ocDH
-  - https://www.geeksforgeeks.org/what-is-the-python-global-interpreter-lock-gil/
-  - https://www.youtube.com/watch?v=Yrtm7d3TJbs
-  - https://www.youtube.com/watch?v=7v_TVJHodiI&t=26814s
-  - https://www.youtube.com/watch?v=HGOBQPFzWKo&t=13761s
-  - https://www.youtube.com/watch?v=HLwtZ-dQHhY&list=PLlb7e2G7aSpQmGnhrxlqI4iMXNv4R7khy
-  - https://www.pythoncheatsheet.org/#__main__-Top-level-script-environment
-  - https://www.javatpoint.com/python-pandas-interview-questions
-  - https://thecodingbot.com/time-complexity-of-built-in-len-function-in-python/
-  - https://www.tutorialspoint.com/pytest/index.htm
+  - For Learning:
+    - https://www.simplilearn.com/tutorials/python-tutorial/how-to-become-python-developer
+    - https://www.programiz.com/python-programming
+    - https://www.youtube.com/watch?v=VP2wRhwlg6c&list=PLJOzdkh8T5kpIBTG9mM2wVBjh-5OpdwBl
+    - https://www.mygreatlearning.com/blog/python-interview-questions/
+    - https://www.youtube.com/watch?v=5V7XG1mGiHc&list=PLlb7e2G7aSpTTNp7HBYzCBByaE1h54ruW
+    - https://www.geeksforgeeks.org/top-40-python-interview-questions-answers/?ref=lbp
+    - https://everyday.codes/python/10-advanced-python-interview-questions/
+    - https://www.programiz.com/python-programming (Python Basics from Programiz)
+    - https://www.kaggle.com/learn/python (Kaggle Python Tutorial)
+    - https://www.youtube.com/watch?v=0VdzZQdaZ28&list=PLzMcBGfZo4-nhWva-6OVh1yKWHBs4o_tv
+    - https://everyday.codes/python/10-advanced-python-interview-questions/
+    - https://www.youtube.com/watch?v=QLTdOEn79Rc&list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2 (Python Engineer Advanced Python Tutorial)
+    - https://www.guru99.com/python-interview-questions-answers.html
+    - https://www.tutorialspoint.com/python3/index.htm (Python prerequisite for data structures and algorithms on tutorials point)
+    - https://www.javatpoint.com/python-tutorial
+    - https://www.geeksforgeeks.org/python-programming-language/ (Python Geeks for Geeks professional advanced level)
+    - https://youtu.be/WGJJIrtnfpk
+    - https://www.edureka.co/blog/interview-questions/python-interview-questions/
+    - https://docs.python.org/3/tutorial/index.html
+    - https://runestone.academy/runestone/books/published/pythonds/index.html
+    - https://github.com/s16h/py-must-watch
+    - https://www.w3schools.com/python/default.asp
+    - https://www.programiz.com/python-programming
+    - https://digitaldefynd.com/best-python-tutorial-class-certification-course-training-online/
+    - https://medium.com/analytics-vidhya/python-roadmap-to-follow-in-2021-1f49715468ca
+    - https://www.youtube.com/watch?v=tdn9_MZ0lN4
+    - https://www.youtube.com/watch?v=Qu3dThVy6KQ&t
+    - https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
+    - https://realpython.com/python-bitwise-operators/
+    - https://note.nkmk.me/en/python-bit-operation/
+    - https://medium.com/fintechexplained/advanced-python-itertools-library-the-gem-of-python-language-99da37dfcca2
+    - https://www.jcchouinard.com/python-for-seo/
+    - https://www.youtube.com/watch?v=KSiRzuSx120&list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc
+    - https://docs.python.org/3/library/asyncio.html (Async programming)
+    - https://www.youtube.com/watch?v=KSiRzuSx120&list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc
+    - https://www.youtube.com/watch?v=5x6iAKdJB6U&list=PL7yh-TELLS1EgOLIPo1sVuf_rDPEp33S8
+    - https://www.youtube.com/watch?v=Wz5oLT55_jY&list=PL7yh-TELLS1GNyuvPsFEqb7JVMEUTtuau
+    - https://www.youtube.com/watch?v=2S7Xxz9PhaU&list=PL7yh-TELLS1F3KytMVZRFO-xIo_S2_Jg1
+    - https://www.youtube.com/watch?v=-eaFKumWT1k&list=PL7yh-TELLS1E6dNCzfQl-NG-KJP3C-4mc
+    - https://www.youtube.com/watch?v=3UOyky9sEQY&list=PL7yh-TELLS1FwBSNR_tH7qVbNpYHL4IQs
+    - https://www.youtube.com/playlist?list=PL7yh-TELLS1HJzPsb6Xjdse2zbyQ-ocDH
+    - https://www.geeksforgeeks.org/what-is-the-python-global-interpreter-lock-gil/
+    - https://www.youtube.com/watch?v=Yrtm7d3TJbs
+    - https://www.youtube.com/watch?v=7v_TVJHodiI&t=26814s
+    - https://www.youtube.com/watch?v=HGOBQPFzWKo&t=13761s
+    - https://www.youtube.com/watch?v=HLwtZ-dQHhY&list=PLlb7e2G7aSpQmGnhrxlqI4iMXNv4R7khy
+    - https://www.pythoncheatsheet.org/#__main__-Top-level-script-environment
+    - https://www.javatpoint.com/python-pandas-interview-questions
+    - https://thecodingbot.com/time-complexity-of-built-in-len-function-in-python/
+    - https://www.tutorialspoint.com/pytest/index.htm
+  - For Interviews:
+    - some website
+
+### 3) Django
+  - https://data-flair.training/blogs/django-interview-questions/
+  - https://www.javatpoint.com/django-tutorial
+  - https://data-flair.training/blogs/django-project-ideas/
+  - https://www.upgrad.com/blog/django-project-ideas-topics-beginners/
+  - https://www.upgrad.com/blog/django-projects-on-github/
+  - https://dev.to/shivamrohilla/top-youtube-channels-to-learn-django-for-everyone-358l
+  - https://github.com/aliktl/Django-Projects
+  - https://www.youtube.com/watch?v=t7DrJqcUviA
+  - https://www.youtube.com/watch?v=T0Xi8gWDrQ0&list=PLlWXhlUMyooaDkd39pknA1-Olj54HtpjX
+  - https://www.youtube.com/watch?v=fBfzE0yk97k&list=PLOLrQ9Pn6caz-6WpcBYxV84g9gwptoN20&index=1
+  - https://django.fun/docs/celery/ru/5.1/userguide/tasks/
 
 ### 3) Professional in Data Structures and Algorithms
   - https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns
@@ -162,7 +187,64 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O
   - https://www.youtube.com/watch?v=XGClOyyliPs&list=PL7yh-TELLS1HgoWUfxGzoaa7PEJ2Q-RfC
   - https://www.youtube.com/watch?v=XGClOyyliPs&list=PL7yh-TELLS1HgoWUfxGzoaa7PEJ2Q-RfC
-  - 
+
+    
+### 4) Back end + Object Oriented Programming
+  - https://www.youtube.com/watch?v=1ndlRiaYiWQ
+  - https://www.javatpoint.com/linux-interview-questions
+  - https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
+
+### 5) Professional in Databases
+  - https://www.tutorialspoint.com/sql/index.htm
+  - https://www.mygreatlearning.com/blog/sql-interview-questions/
+  - https://www.youtube.com/watch?v=-WEpWH1NHGU
+  - https://www.youtube.com/watch?v=_vFiyFaQCPA&list=PLwyVx3OgslBUFSxcMbX7mGCTrDliUdypV&index=6
+  - https://www.youtube.com/watch?v=M-55BmjOuXY
+
+### 6) Async programming (Threading, MultiThreading, Multiprocessing, GIL)
+  - https://www.youtube.com/watch?v=nR8WhdcRJwM
+  - https://www.youtube.com/watch?v=ZGfv_yRLBiY&list=PLlWXhlUMyooawilqK4lPXRvxtbYiw34S8
+  - https://www.youtube.com/watch?v=mclfteWlT2Q&list=PLzMcBGfZo4-kwmIcMDdXSuy_wSqtU-xDP
+  - https://www.youtube.com/watch?v=UohnrnZZ0w0&list=PLvItDmb0sZw-j1dHo76Yhhb5aD48DmUZu
+  - https://www.youtube.com/watch?v=T0Xi8gWDrQ0&list=PLlWXhlUMyooaDkd39pknA1-Olj54HtpjX
+  - https://www.youtube.com/watch?v=JIp14T9bvvc
+  - https://www.youtube.com/watch?v=GT10PnUFLlE
+  - https://www.youtube.com/watch?v=VFHs3Ir0Hvs
+  - https://www.youtube.com/watch?v=Ad5fHlFHbOg
+  - https://habr.com/ru/company/ruvds/blog/475246/
+  - https://realpython.com/async-io-python/
+  - https://www.velotio.com/engineering-blog/async-features-in-python
+  - https://towardsdatascience.com/introduction-to-asynchronous-programming-in-python-3cd190748cd5
+  - https://www.youtube.com/watch?v=6RbJYN7SoRs
+  - https://habr.com/ru/post/337420/
+  - https://www.youtube.com/watch?v=t5Bo1Je9EmE
+  - https://www.youtube.com/watch?v=IEEhzQoKtQU
+  - https://www.youtube.com/watch?v=7LU1npoPmcg
+  - https://www.youtube.com/watch?v=GFfMuyNUnDs&list=PLzMcBGfZo4-mL_4mo5LbOIdPV8jQ-n4ib
+  - https://realpython.com/async-io-python/#a-full-program-asynchronous-requests
+  - https://realpython.com/python-concurrency/
+  - https://realpython.com/python-gil/
+  - https://realpython.com/intro-to-python-threading/
+  - interview questions, https://github.com/aliktl/professional/blob/main/async
+  - https://www.youtube.com/watch?v=x6JZmBK2I8Y
+  - https://webdevblog.ru/vvedenie-v-potoki-v-python/
+  - https://www.youtube.com/watch?v=Bpu3VxfBrqY
+  - https://docs.python.org/3/library/asyncio-task.html
+  - https://docs.python.org/3/library/asyncio-future.html#asyncio.Future
+
+### 7) Git and Github
+  - [Traversy Media: Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo)
+  - https://youtu.be/RGOj5yH7evk
+  - https://youtu.be/zZBiln_2FhM
+  - https://youtu.be/SWYqp7iY_Tc
+  - https://youtu.be/MJUJ4wbFm_A
+  - https://www.simplilearn.com/tutorials/git-tutorial/git-interview-questions
+
+### 8) Testing
+  - some website
+
+### 9) Professional in Docker
+  - https://youtu.be/fqMOX6JJhGo
 
 ### 4) Professional in Artificial Intelligence
   - https://www.geeksforgeeks.org/machine-learning/?ref=shm
@@ -200,12 +282,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/watch?v=jg5paDArl3E&list=PL7yh-TELLS1EZGz1-VDltwdwZvPV-jliQ
 
 
-### 5) Professional in Databases
-  - https://www.tutorialspoint.com/sql/index.htm
-  - https://www.mygreatlearning.com/blog/sql-interview-questions/
-  - https://www.youtube.com/watch?v=-WEpWH1NHGU
-  - https://www.youtube.com/watch?v=_vFiyFaQCPA&list=PLwyVx3OgslBUFSxcMbX7mGCTrDliUdypV&index=6
-  - https://www.youtube.com/watch?v=M-55BmjOuXY
+
 
 
 ### 6) Professional in Data Science
@@ -219,30 +296,13 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/watch?v=gE2UqbtZPAc&list=PLJOzdkh8T5ko3zzRRwhowooIqnp58jq1b
 
 
-### 7) Git and Github
-  - [Traversy Media: Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo)
-  - https://youtu.be/RGOj5yH7evk
-  - https://youtu.be/zZBiln_2FhM
-  - https://youtu.be/SWYqp7iY_Tc
-  - https://youtu.be/MJUJ4wbFm_A
-  - https://www.simplilearn.com/tutorials/git-tutorial/git-interview-questions
+
 
 ### 8) Google Analytics
   - https://youtu.be/kKPTZNjaKcY?list=PLI5YfMzCfRtZU5Qwzx57HjmZyNE2o5YDN
   - https://analytics.google.com/analytics/academy/course/6/unit/1/lesson/1
 
-### 9) Django
-  - https://data-flair.training/blogs/django-interview-questions/
-  - https://www.javatpoint.com/django-tutorial
-  - https://data-flair.training/blogs/django-project-ideas/
-  - https://www.upgrad.com/blog/django-project-ideas-topics-beginners/
-  - https://www.upgrad.com/blog/django-projects-on-github/
-  - https://dev.to/shivamrohilla/top-youtube-channels-to-learn-django-for-everyone-358l
-  - https://github.com/aliktl/Django-Projects
-  - https://www.youtube.com/watch?v=t7DrJqcUviA
-  - https://www.youtube.com/watch?v=T0Xi8gWDrQ0&list=PLlWXhlUMyooaDkd39pknA1-Olj54HtpjX
-  - https://www.youtube.com/watch?v=fBfzE0yk97k&list=PLOLrQ9Pn6caz-6WpcBYxV84g9gwptoN20&index=1
-  - https://django.fun/docs/celery/ru/5.1/userguide/tasks/
+### Bonus: 
 
 
 ### 10) Flask 
@@ -284,49 +344,16 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.mygreatlearning.com/blog/aws-interview-questions/
   - https://www.mygreatlearning.com/blog/cloud-computing-interview-questions/
   
-### 14) Back end + Object Oriented Programming
-  - https://www.youtube.com/watch?v=1ndlRiaYiWQ
-  - https://www.javatpoint.com/linux-interview-questions
-  - https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
+
 
 
 ### 15) Professional in Golang
   - https://betterprogramming.pub/build-a-simple-todolist-app-in-golang-82297ec25c7d
   - 
 
-### 16) Professional in Docker
-  - https://youtu.be/fqMOX6JJhGo
 
-### 17) Async programming (Threading, MultiThreading, Multiprocessing, GIL)
-  - https://www.youtube.com/watch?v=nR8WhdcRJwM
-  - https://www.youtube.com/watch?v=ZGfv_yRLBiY&list=PLlWXhlUMyooawilqK4lPXRvxtbYiw34S8
-  - https://www.youtube.com/watch?v=mclfteWlT2Q&list=PLzMcBGfZo4-kwmIcMDdXSuy_wSqtU-xDP
-  - https://www.youtube.com/watch?v=UohnrnZZ0w0&list=PLvItDmb0sZw-j1dHo76Yhhb5aD48DmUZu
-  - https://www.youtube.com/watch?v=T0Xi8gWDrQ0&list=PLlWXhlUMyooaDkd39pknA1-Olj54HtpjX
-  - https://www.youtube.com/watch?v=JIp14T9bvvc
-  - https://www.youtube.com/watch?v=GT10PnUFLlE
-  - https://www.youtube.com/watch?v=VFHs3Ir0Hvs
-  - https://www.youtube.com/watch?v=Ad5fHlFHbOg
-  - https://habr.com/ru/company/ruvds/blog/475246/
-  - https://realpython.com/async-io-python/
-  - https://www.velotio.com/engineering-blog/async-features-in-python
-  - https://towardsdatascience.com/introduction-to-asynchronous-programming-in-python-3cd190748cd5
-  - https://www.youtube.com/watch?v=6RbJYN7SoRs
-  - https://habr.com/ru/post/337420/
-  - https://www.youtube.com/watch?v=t5Bo1Je9EmE
-  - https://www.youtube.com/watch?v=IEEhzQoKtQU
-  - https://www.youtube.com/watch?v=7LU1npoPmcg
-  - https://www.youtube.com/watch?v=GFfMuyNUnDs&list=PLzMcBGfZo4-mL_4mo5LbOIdPV8jQ-n4ib
-  - https://realpython.com/async-io-python/#a-full-program-asynchronous-requests
-  - https://realpython.com/python-concurrency/
-  - https://realpython.com/python-gil/
-  - https://realpython.com/intro-to-python-threading/
-  - interview questions, https://github.com/aliktl/professional/blob/main/async
-  - https://www.youtube.com/watch?v=x6JZmBK2I8Y
-  - https://webdevblog.ru/vvedenie-v-potoki-v-python/
-  - https://www.youtube.com/watch?v=Bpu3VxfBrqY
-  - https://docs.python.org/3/library/asyncio-task.html
-  - https://docs.python.org/3/library/asyncio-future.html#asyncio.Future
+
+
 
 ### 18) Resources to find job or internship
   - https://ocitizens.com/
