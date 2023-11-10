@@ -50,14 +50,15 @@ This is the step by step (one by one) preparation for becoming professional prog
     - https://leetcode-country-ranking.onrender.com/
     - https://www.quora.com/I-cant-even-solve-easy-problems-on-LeetCode-What-should-I-do
     - https://www.quora.com/How-do-I-become-an-expert-Python-programmer
-  - [Я решил 500 задач на LeetCode — и они действительно меня чему-то научили](https://habr.com/ru/companies/geekfactor/articles/597035/)
-  - https://www.quora.com/What-is-the-best-worst-case-scenario-in-your-life
-  - https://www.linkedin.com/pulse/how-i-cleared-google-interview-from-0-200-leetcode-questions/
-  - https://www.mygreatlearning.com/blog/top-highest-paying-jobs-in-the-world/#SeniorSoftwareEngineer
-  - https://medium.com/@siddhism/how-i-prepared-for-google-0-leetcode-questions-to-200-questions-e37690ebce85#:~:text=If%20you%20are%20starting%20from,the%20number%20for%20that%20topic.
-  - https://leetcode.com/discuss/interview-experience/448190/my-14-coding-interview-experiences-13-rejections
-  - https://www.levels.fyi/internships/
-  - https://roadmap.sh/
+  - LeetCode Stories:
+    - [Я решил 500 задач на LeetCode — и они действительно меня чему-то научили](https://habr.com/ru/companies/geekfactor/articles/597035/)
+    - [My 14 Coding Interview Experiences | 13 Rejections](https://leetcode.com/discuss/interview-experience/448190/my-14-coding-interview-experiences-13-rejections)
+    - [How I prepared for Google — Solving 200 leetcode questions](https://medium.com/@siddhism/how-i-prepared-for-google-0-leetcode-questions-to-200-questions-e37690ebce85#:~:text=If%20you%20are%20starting%20from,the%20number%20for%20that%20topic.)
+    - [How I cleared Google Interview (not working)](https://www.linkedin.com/pulse/how-i-cleared-google-interview-from-0-200-leetcode-questions/)
+  - [What is the best/worst case scenario in your life?](https://www.quora.com/What-is-the-best-worst-case-scenario-in-your-life)
+  - [Top 25 Highest Paying Jobs in the World-2024](https://www.mygreatlearning.com/blog/top-highest-paying-jobs-in-the-world/#SeniorSoftwareEngineer)
+  - [Levels.fyi (internships)](https://www.levels.fyi/internships/) 
+  - [Developer Roadmaps](https://roadmap.sh/) 
 
 ### 2) Professional in Python programming language
   - https://www.simplilearn.com/tutorials/python-tutorial/how-to-become-python-developer
