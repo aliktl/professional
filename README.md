@@ -34,12 +34,12 @@ This is the step by step (one by one) preparation for becoming professional prog
   - [Первые шаги](https://jut.su/baby-steps/)
   - Youtube motivation:
     - [Когда все пойдет не так](https://www.youtube.com/watch?v=Ym6ze7O_Vxc)
-    - [Эмоциональный разговор с тренером о драке с Райаном. Никогда не сдавайся](https://www.youtube.com/watch?v=NBSHaKDfSOk)
-    - [Mike Ross' Interview with Harvey Specter | Suits](https://www.youtube.com/watch?v=ImEnWAVRLU0)
-    - [Когда все надоело просто забей](https://www.youtube.com/watch?v=3aXkU4_EbVU)
     - [The skill of self confidence | Dr. Ivan Joseph | TEDxRyersonU](https://www.youtube.com/watch?v=w-HYZv6HzAs&pp=ygUOdGVkIGNvbmZpZGVuY2U%3D)
     - [Мне 24 и Я просрал Свою Жизнь (Что Делать?)](https://youtu.be/VpoIrS6G_Ek)
     - [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee](https://www.youtube.com/watch?v=YJZCUhxNCv8)
+    - [Mike Ross' Interview with Harvey Specter | Suits](https://www.youtube.com/watch?v=ImEnWAVRLU0)
+    - [Эмоциональный разговор с тренером о драке с Райаном. Никогда не сдавайся](https://www.youtube.com/watch?v=NBSHaKDfSOk)
+    - [Когда все надоело просто забей](https://www.youtube.com/watch?v=3aXkU4_EbVU)
   - Top LeetCoders (in Python):
     - https://leetcode.com/DBabichev/
     - https://leetcode.com/brthyyjp/
