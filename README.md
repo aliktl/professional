@@ -118,6 +118,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://thecodingbot.com/time-complexity-of-built-in-len-function-in-python/
   - https://www.tutorialspoint.com/pytest/index.htm
   #### For Interviews:
+  - [Top 100+ Python Interview Questions You Must Prepare In 2024 | Edureka](https://www.edureka.co/blog/interview-questions/python-interview-questions/)
   - [Top 50+ Python Interview Questions & Answers | GeeksforGeeks](https://www.geeksforgeeks.org/python-interview-questions)
   - [Python Interview Questions And Answers for 2024](https://www.mygreatlearning.com/blog/python-interview-questions/)
 
