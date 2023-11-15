@@ -198,6 +198,9 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.simplilearn.com/tutorials/git-tutorial/git-interview-questions
   #### For Interviews:
   - some website
+  - create professional in devops
+  - create professional in vs code
+  - create professional in pycharm
 
 ### 8) Testing
   #### For Learning:
