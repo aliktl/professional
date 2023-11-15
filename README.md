@@ -120,7 +120,9 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.tutorialspoint.com/pytest/index.htm
   #### For Interviews:
   - some website
+  - [Top 50+ Python Interview Questions & Answers | GeeksforGeeks](https://www.geeksforgeeks.org/python-interview-questions)
   - [Python Interview Questions And Answers for 2024](https://www.mygreatlearning.com/blog/python-interview-questions/)
+  - 
 
 ### 3) Django
   #### For Learning:
