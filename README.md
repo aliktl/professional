@@ -71,7 +71,6 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.simplilearn.com/tutorials/python-tutorial/how-to-become-python-developer
   - https://www.programiz.com/python-programming
   - https://www.youtube.com/watch?v=VP2wRhwlg6c&list=PLJOzdkh8T5kpIBTG9mM2wVBjh-5OpdwBl
-  - 
   - https://www.youtube.com/watch?v=5V7XG1mGiHc&list=PLlb7e2G7aSpTTNp7HBYzCBByaE1h54ruW
   - https://www.geeksforgeeks.org/top-40-python-interview-questions-answers/?ref=lbp
   - https://everyday.codes/python/10-advanced-python-interview-questions/
@@ -119,10 +118,8 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://thecodingbot.com/time-complexity-of-built-in-len-function-in-python/
   - https://www.tutorialspoint.com/pytest/index.htm
   #### For Interviews:
-  - some website
   - [Top 50+ Python Interview Questions & Answers | GeeksforGeeks](https://www.geeksforgeeks.org/python-interview-questions)
   - [Python Interview Questions And Answers for 2024](https://www.mygreatlearning.com/blog/python-interview-questions/)
-  - 
 
 ### 3) Django
   #### For Learning:
