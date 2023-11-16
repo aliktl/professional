@@ -83,5 +83,3 @@
 20. **What is the purpose of the "if __name__ == '__main__':" statement in Python?**
    
     This statement allows you to write code that can be both used as a standalone script and imported as a module. The code under this statement only executes if the script is run directly.
-
-These questions cover a range of fundamental Python concepts that are commonly asked in interviews for junior positions. Make sure to practice coding examples and understand these concepts thoroughly to prepare effectively for your interview.
