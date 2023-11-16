@@ -1,12 +1,12 @@
 
-Table of contents:
-# python_junior
+##Table of contents:
+1. [All important python interview questions and answers for junior position](#1-python-junior)
 
 
 
 
-# python junior
-All important python interview questions and answers for junior position
+
+### 1) python junior
 
 Certainly! Here are some important Python interview questions and answers for a junior position:
 
