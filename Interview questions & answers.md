@@ -1,5 +1,6 @@
 ## Table of Contents:
 1. [Python Interview Questions for Junior Positions](#python-interview-questions-for-junior-positions)
+2. [Python Interview Questions for Middle Positions](#python-interview-questions-for-middle-positions)
 
 
 ### Python Interview Questions for Junior Positions
@@ -83,3 +84,79 @@
 20. **What is the purpose of the "if __name__ == '__main__':" statement in Python?**
    
     This statement allows you to write code that can be both used as a standalone script and imported as a module. The code under this statement only executes if the script is run directly.
+
+
+
+### Python Interview Questions for Middle Positions
+
+1. **What is Python, and what are its key features?**
+   - Python is a high-level, interpreted programming language.
+   - Key features include readability, simplicity, and a large standard library.
+
+2. **Explain the difference between Python 2 and Python 3.**
+   - Python 2 is an older version with backward compatibility issues.
+   - Python 3 is the latest version with improved syntax and a focus on fixing inconsistencies.
+
+3. **What is PEP 8, and why is it important?**
+   - PEP 8 is the Python Enhancement Proposal for style guide conventions.
+   - It's important for maintaining consistent and readable code across Python projects.
+
+4. **How do you comment out multiple lines in Python?**
+   - You can use triple-quotes (`'''` or `"""`) to comment out multiple lines of code.
+
+5. **Explain the difference between a list and a tuple in Python.**
+   - Lists are mutable (can be modified), while tuples are immutable (cannot be modified).
+
+6. **What is the purpose of a dictionary in Python?**
+   - A dictionary is used to store key-value pairs, making it suitable for data indexing and retrieval.
+
+7. **How do you create a class in Python?**
+   - You create a class using the `class` keyword followed by the class name and a colon.
+
+8. **What is inheritance in object-oriented programming, and how is it achieved in Python?**
+   - Inheritance is the process of creating a new class based on an existing class.
+   - In Python, you can achieve inheritance by placing the parent class in parentheses when defining a new class.
+
+9. **Explain the Global Interpreter Lock (GIL) in Python.**
+   - The GIL is a mutex that allows only one thread to execute in a Python process at a time.
+   - It can limit the performance of multi-threaded Python programs.
+
+10. **What are decorators in Python?**
+    - Decorators are functions that modify the behavior of other functions or methods.
+    - They are often used for tasks like logging, authentication, and memoization.
+
+11. **How do you handle exceptions in Python?**
+    - You can use `try`, `except`, `else`, and `finally` blocks to handle exceptions gracefully.
+
+12. **What is the purpose of the `__init__` method in Python classes?**
+    - The `__init__` method is a constructor used to initialize object attributes when an instance of a class is created.
+
+13. **Explain the use of the `with` statement in Python.**
+    - The `with` statement is used to simplify resource management, like file handling or database connections.
+    - It ensures that resources are properly acquired and released.
+
+14. **What is the difference between `deep copy` and `shallow copy` in Python?**
+    - A deep copy creates a new object with a completely independent copy of the original object's contents.
+    - A shallow copy creates a new object but references the same objects contained in the original.
+
+15. **What is the purpose of virtual environments in Python?**
+    - Virtual environments are used to create isolated environments for Python projects, with their own dependencies.
+
+16. **How do you install third-party packages in Python?**
+    - You can use tools like `pip` to install third-party packages, e.g., `pip install package-name`.
+
+17. **Explain the difference between `append()` and `extend()` methods in lists.**
+    - `append()` adds an element to the end of a list.
+    - `extend()` adds elements from an iterable to the end of a list.
+
+18. **What are Python generators, and how are they different from regular functions?**
+    - Generators are special functions that use the `yield` keyword to return values one at a time.
+    - They maintain their state between calls and are memory-efficient for iterating over large data sets.
+
+19. **How can you sort a list of objects in Python?**
+    - You can use the `sorted()` function with a custom key function or operator overloading by defining `__lt__()` in the class.
+
+20. **Explain the purpose of the `lambda` function in Python.**
+    - Lambda functions are small, anonymous functions used for simple operations and as arguments to higher-order functions like `map()`, `filter()`, and `sorted()`.
+
+
