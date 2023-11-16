@@ -1,12 +1,27 @@
 
+## Table of Contents:
+1. [Python Junior Level Interview Questions and Answers](#python-junior-level-interview-questions-answers)
+
+---
+
+### Python Junior Level Interview Questions & Answers
+
+1. **What is Python, and what are its key features?**
+   
+   Python is a high-level, interpreted programming language known for its simplicity and readability. Key features include dynamic typing, automatic memory management, and an extensive standard library.
+
+
+
+---
+
 ## Table of contents:
-1. [All important python interview questions and answers for junior position](#1-python-junior)
+1. [All important python interview questions and answers for junior position]()
 
 
 
 
 
-### 1) python junior
+### 1) Python junior level questions & answers
 
 Certainly! Here are some important Python interview questions and answers for a junior position:
 
