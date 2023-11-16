@@ -3,7 +3,6 @@ Certainly! Here's a nicely formatted version of your Python interview questions 
 ## Table of Contents:
 1. [Python Interview Questions for Junior Positions](#python-interview-questions-for-junior-positions)
 
----
 
 ### Python Interview Questions for Junior Positions
 
