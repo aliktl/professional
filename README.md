@@ -118,12 +118,17 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://thecodingbot.com/time-complexity-of-built-in-len-function-in-python/
   - https://www.tutorialspoint.com/pytest/index.htm
   #### For Interviews:
+  - [Top 10 Python Interview Questions and Answers for Programmers | AnalyticsInsight](https://www.analyticsinsight.net/top-10-python-interview-questions-and-answers-for-programmers/)
+  - [Top 10 Python Interview Questions And Answers 2023 | TheDataScientist](https://thedatascientist.com/top-10-python-interview-questions-and-answers-2023/)
   - [Top 10 Python Interview Questions and Answers | skill link ](https://skill-lync.com/blogs/top-10-python-interview-questions-and-answers)
   - [10 Python Questions & Answers you must read before your next interview | foundit](https://www.foundit.in/career-advice/10-python-questions-answers-you-must-read-before-your-next-interview/)
   - [14 advanced Python interview questions (and answers) | TestGorilla](https://www.testgorilla.com/blog/advanced-python-interview-questions/)
+  - [Top 20 Python Interview Questions and Answer | medium (Hub4Tech)](https://medium.com/@hub4tech/top-20-python-interview-questions-and-answer-ebac4aae7c69)
+  - [Top 44 Python Interview Questions & Answers: Ultimate Guide 2023 | upGrad](https://www.upgrad.com/blog/python-interview-questions-answers/)
   - [Top 50 Python Interview Questions With Answers For Freshers | OdinSchool](https://www.odinschool.com/blog/programming/top-python-interview-questions-with-answers-for-freshers)
   - [Top 50 Python Interview Questions With Example Answers | builtin](https://builtin.com/software-engineering-perspectives/python-interview-questions)
   - [Top 50+ Python Interview Questions & Answers | GeeksforGeeks](https://www.geeksforgeeks.org/python-interview-questions)
+  - [58 Python Interview Questions | javatpoint](https://www.javatpoint.com/python-interview-questions)
   - [100+ Python Interview Questions And Answers | iMocha](https://blog.imocha.io/python-interview-questions-and-answers)
   - [100+ Python Interview Questions (2023) | Techbeamers]( https://www.techbeamers.com/python-interview-questions-programmers/)
   - [Top 100+ Python Interview Questions You Must Prepare In 2024 | Edureka](https://www.edureka.co/blog/interview-questions/python-interview-questions/)
