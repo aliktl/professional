@@ -68,6 +68,7 @@ This is the step by step (one by one) preparation for becoming professional prog
 
 ### 2) Professional in Python programming language
   #### For Learning:
+  - [Python Notes for Professionals | goalkicker](https://books.goalkicker.com/PythonBook/)
   - [Python Tutorial | geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=dhm)
   - [The Python Tutorial | Official Documentation](https://docs.python.org/3/tutorial/index.html)
   - https://www.simplilearn.com/tutorials/python-tutorial/how-to-become-python-developer
