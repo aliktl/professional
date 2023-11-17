@@ -118,13 +118,18 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://thecodingbot.com/time-complexity-of-built-in-len-function-in-python/
   - https://www.tutorialspoint.com/pytest/index.htm
   #### For Interviews:
-  - 
+  - [Top 10 Python Interview Questions and Answers | skill link ](https://skill-lync.com/blogs/top-10-python-interview-questions-and-answers)
+  - [10 Python Questions & Answers you must read before your next interview | foundit](https://www.foundit.in/career-advice/10-python-questions-answers-you-must-read-before-your-next-interview/)
   - [14 advanced Python interview questions (and answers) | TestGorilla](https://www.testgorilla.com/blog/advanced-python-interview-questions/)
+  - [Top 50 Python Interview Questions With Answers For Freshers | OdinSchool](https://www.odinschool.com/blog/programming/top-python-interview-questions-with-answers-for-freshers)
+  - [Top 50 Python Interview Questions With Example Answers | builtin](https://builtin.com/software-engineering-perspectives/python-interview-questions)
   - [Top 50+ Python Interview Questions & Answers | GeeksforGeeks](https://www.geeksforgeeks.org/python-interview-questions)
+  - [100+ Python Interview Questions And Answers | iMocha](https://blog.imocha.io/python-interview-questions-and-answers)
   - [100+ Python Interview Questions (2023) | Techbeamers]( https://www.techbeamers.com/python-interview-questions-programmers/)
   - [Top 100+ Python Interview Questions You Must Prepare In 2024 | Edureka](https://www.edureka.co/blog/interview-questions/python-interview-questions/)
   - [Top 145 Python Interview Questions And Answers for 2024 | mygreatlearning](https://www.mygreatlearning.com/blog/python-interview-questions/)
   - [150+ Python Interview Questions and Answers for Freshers | Data Flair](https://data-flair.training/blogs/top-python-interview-questions-answer/)
+  - [Top Python Interview Questions And Answers (2023 Updated) | koenig](https://www.koenig-solutions.com/blog/top-python-interview-questions-and-answers)
   - [Top Python interview questions and answers | Code Institute](https://codeinstitute.net/global/blog/top-python-interview-questions-answers/)
   - Youtube videos:
     - [TOP 21 Python Interview Questions & Answers | Freshers & Experienced Candidates](https://www.youtube.com/watch?v=IT9A6ZtR_9s)
