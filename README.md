@@ -68,6 +68,8 @@ This is the step by step (one by one) preparation for becoming professional prog
 
 ### 2) Professional in Python programming language
   #### For Learning:
+  - [Python Tutorial | geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=dhm)
+  - [The Python Tutorial | Official Documentation](https://docs.python.org/3/tutorial/index.html)
   - https://www.simplilearn.com/tutorials/python-tutorial/how-to-become-python-developer
   - https://www.programiz.com/python-programming
   - https://www.youtube.com/watch?v=VP2wRhwlg6c&list=PLJOzdkh8T5kpIBTG9mM2wVBjh-5OpdwBl
@@ -132,10 +134,13 @@ This is the step by step (one by one) preparation for becoming professional prog
   - [The Ultimate Guide to 15 Python Interview Questions and Answers | BoardInfinity](https://www.boardinfinity.com/blog/python-interview-questions-and-answers/)
   - [Top 15 Python Interview Questions and Answers | hipeople](https://www.hipeople.io/interview-questions/python-interview-questions)
   - [15 Best Python Interview Questions and Answers (2023) | codesubmit](https://codesubmit.io/interview/python-interview-questions)
+  - [Top 20 Python Interview Questions and Answers for 1 to 2 Years Experienced | java67](https://www.java67.com/2022/06/python-interview-questions-with-answers.html)
   - [20 Most Helpful Python Interview Questions and Answers | go skills](https://www.goskills.com/Development/Resources/Python-interview-questions-answers)
   - [Top 20 Python Interview Questions Every Developer Should Know in 2023 - 2024 | Novelvista](https://www.novelvista.com/blogs/interview-questions/for-python-in-2020)
   - [Top 20 Python Interview Questions and Answer | medium (Hub4Tech)](https://medium.com/@hub4tech/top-20-python-interview-questions-and-answer-ebac4aae7c69)
   - [The 23 Top Python Interview Questions & Answers | DataCamp](https://www.datacamp.com/blog/top-python-interview-questions-and-answers)
+  - [Top 25 Python Interview Questions And Answers | educba](https://www.educba.com/python-interview-questions/)
+  - [30 Python Interview Questions and Answers Programming | knowledgehut](https://www.knowledgehut.com/interview-questions/python)
   - [41 Python Interview Questions [+ Answer Guide] | Springboard](https://www.springboard.com/blog/data-science/python-interview-questions/)
   - [Top 44 Python Interview Questions & Answers: Ultimate Guide 2023 | upGrad](https://www.upgrad.com/blog/python-interview-questions-answers/)
   - [Top 50 Python Interview Questions of 2023 (with Answers) | codingem](https://www.codingem.com/python-interview-questions/)
@@ -145,6 +150,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - [53 Python Interview Questions and Answers](https://www.bestinterviewquestion.com/python-interview-questions)
   - [58 Python Interview Questions | javatpoint](https://www.javatpoint.com/python-interview-questions)
   - [Top 61 Python Interview Questions And Answers | softwaretestinghelp](https://www.softwaretestinghelp.com/python/python-interview-questions/)
+  - [62 Python Interview Questions and Answers to Get Your Desire Job | logicraysacademy](https://www.logicraysacademy.com/blog/python-interview-questions/)
   - [Top 64 Python Interview Questions and Answers from Beginners to Advanced | csestack](https://www.csestack.org/python-interview-questions-answers/)
   - [Top 65 Python Interview Questions in 2023 | Beginner to Pro |hackr.io](https://hackr.io/blog/python-interview-questions)
   - [Top 80 Python Interview Questions & Answers | CareerEra](https://www.careerera.com/blog/top-80-python-interview-questions-answers)
