@@ -127,19 +127,25 @@ This is the step by step (one by one) preparation for becoming professional prog
   - [11 Essential Python Interview Questions | Toptal](https://www.toptal.com/python/interview-questions)
   - [Top 13 Python Interview Questions and Answers to Crack Your Next Python Job | Emeritus](https://emeritus.org/in/learn/data-science-python-interview-questions-and-answers/)
   - [14 advanced Python interview questions (and answers) | TestGorilla](https://www.testgorilla.com/blog/advanced-python-interview-questions/)
+  - [The Ultimate Guide to 15 Python Interview Questions and Answers | BoardInfinity](https://www.boardinfinity.com/blog/python-interview-questions-and-answers/)
+  - [Top 15 Python Interview Questions and Answers | hipeople](https://www.hipeople.io/interview-questions/python-interview-questions)
   - [15 Best Python Interview Questions and Answers (2023) | codesubmit](https://codesubmit.io/interview/python-interview-questions)
+  - [Top 20 Python Interview Questions Every Developer Should Know in 2023 - 2024 | Novelvista](https://www.novelvista.com/blogs/interview-questions/for-python-in-2020)
   - [Top 20 Python Interview Questions and Answer | medium (Hub4Tech)](https://medium.com/@hub4tech/top-20-python-interview-questions-and-answer-ebac4aae7c69)
   - [The 23 Top Python Interview Questions & Answers | DataCamp](https://www.datacamp.com/blog/top-python-interview-questions-and-answers)
   - [Top 44 Python Interview Questions & Answers: Ultimate Guide 2023 | upGrad](https://www.upgrad.com/blog/python-interview-questions-answers/)
   - [Top 50 Python Interview Questions With Answers For Freshers | OdinSchool](https://www.odinschool.com/blog/programming/top-python-interview-questions-with-answers-for-freshers)
   - [Top 50 Python Interview Questions With Example Answers | builtin](https://builtin.com/software-engineering-perspectives/python-interview-questions)
   - [Top 50+ Python Interview Questions & Answers | GeeksforGeeks](https://www.geeksforgeeks.org/python-interview-questions)
+  - [53 Python Interview Questions and Answers](https://www.bestinterviewquestion.com/python-interview-questions)
   - [58 Python Interview Questions | javatpoint](https://www.javatpoint.com/python-interview-questions)
   - [Top 65 Python Interview Questions in 2023 | Beginner to Pro |hackr.io](https://hackr.io/blog/python-interview-questions)
+  - [Top 80 Python Interview Questions & Answers | CareerEra](https://www.careerera.com/blog/top-80-python-interview-questions-answers)
   - [TOP 100 Python Interview Questions and Answers | Linkedin](https://www.linkedin.com/pulse/top-100-python-interview-questions-answers-1f/)
   - [100+ Python Interview Questions And Answers | iMocha](https://blog.imocha.io/python-interview-questions-and-answers)
   - [100+ Python Interview Questions (2023) | Techbeamers]( https://www.techbeamers.com/python-interview-questions-programmers/)
   - [Top 100+ Python Interview Questions You Must Prepare In 2024 | Edureka](https://www.edureka.co/blog/interview-questions/python-interview-questions/)
+  - [141 Python Coding Interview Questions And Answers | codingcompiler](https://codingcompiler.com/python-coding-interview-questions-answers/)
   - [Top 145 Python Interview Questions And Answers for 2024 | mygreatlearning](https://www.mygreatlearning.com/blog/python-interview-questions/)
   - [150+ Python Interview Questions and Answers for Freshers | Data Flair](https://data-flair.training/blogs/top-python-interview-questions-answer/)
   - [Top Python Interview Questions And Answers (2023 Updated) | koenig](https://www.koenig-solutions.com/blog/top-python-interview-questions-and-answers)
@@ -163,6 +169,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://django.fun/docs/celery/ru/5.1/userguide/tasks/
   #### For Interviews:
   - some website
+  - [27 Django Interview questions and Answers](https://www.bestinterviewquestion.com/django-interview-questions)
 
 
     
@@ -243,6 +250,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://youtu.be/fqMOX6JJhGo
   #### For Interviews:
   - some website
+  - [22 Docker Interview Questions and Answers](https://www.bestinterviewquestion.com/docker-interview-questions)
     
 ### 10) Professional in Data Structures and Algorithms
   - https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns
