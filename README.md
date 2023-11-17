@@ -30,7 +30,7 @@ This is the step by step (one by one) preparation for becoming professional prog
 ### 1) Believe in yourself
   - Golden Rule: главное попробовать
   - Golden Rule: work 24/7 until you reach your goal
-  - Golden Rule:  [learn to type confidently, do not stop until you make](https://github.com/aliktl/professional/blob/main/typingconfidence.md) (10 times in a row >=56 words per minute)
+  - Golden Rule:  [learn to type confidently, do not stop until you make](https://github.com/aliktl/professional/blob/main/typingconfidence.md) (10 times in a row >=55 words per minute)
   - Golden Rule:  [learn to compete, do not stop until you make](https://leetcode.com/contest/) (leetcode >=1550 rating)
   - [Первые шаги](https://jut.su/baby-steps/)
   - Youtube motivation:
@@ -118,9 +118,14 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://thecodingbot.com/time-complexity-of-built-in-len-function-in-python/
   - https://www.tutorialspoint.com/pytest/index.htm
   #### For Interviews:
-  - [Top 100+ Python Interview Questions You Must Prepare In 2024 | Edureka](https://www.edureka.co/blog/interview-questions/python-interview-questions/)
+  - 
+  - [14 advanced Python interview questions (and answers) | TestGorilla](https://www.testgorilla.com/blog/advanced-python-interview-questions/)
   - [Top 50+ Python Interview Questions & Answers | GeeksforGeeks](https://www.geeksforgeeks.org/python-interview-questions)
-  - [Python Interview Questions And Answers for 2024](https://www.mygreatlearning.com/blog/python-interview-questions/)
+  - [100+ Python Interview Questions (2023) | Techbeamers]( https://www.techbeamers.com/python-interview-questions-programmers/)
+  - [Top 100+ Python Interview Questions You Must Prepare In 2024 | Edureka](https://www.edureka.co/blog/interview-questions/python-interview-questions/)
+  - [Top 145 Python Interview Questions And Answers for 2024 | mygreatlearning](https://www.mygreatlearning.com/blog/python-interview-questions/)
+  - [150+ Python Interview Questions and Answers for Freshers | Data Flair](https://data-flair.training/blogs/top-python-interview-questions-answer/)
+  - [Top Python interview questions and answers | Code Institute](https://codeinstitute.net/global/blog/top-python-interview-questions-answers/)
   - Youtube videos:
     - [TOP 21 Python Interview Questions & Answers | Freshers & Experienced Candidates](https://www.youtube.com/watch?v=IT9A6ZtR_9s)
     - 
