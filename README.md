@@ -117,6 +117,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.javatpoint.com/python-pandas-interview-questions
   - https://thecodingbot.com/time-complexity-of-built-in-len-function-in-python/
   - https://www.tutorialspoint.com/pytest/index.htm
+  - https://www.techgeekbuzz.com/blog/python-projects/
   #### For Interviews:
   - [10 Python Interview Questions With Example Answers | indeed](https://in.indeed.com/career-advice/interviewing/python-interview-questions)
   - [10 senior Python developer interview questions and answers | epam anywhere](https://anywhere.epam.com/en/blog/senior-python-developer-interview-questions)
@@ -134,13 +135,16 @@ This is the step by step (one by one) preparation for becoming professional prog
   - [Top 20 Python Interview Questions and Answer | medium (Hub4Tech)](https://medium.com/@hub4tech/top-20-python-interview-questions-and-answer-ebac4aae7c69)
   - [The 23 Top Python Interview Questions & Answers | DataCamp](https://www.datacamp.com/blog/top-python-interview-questions-and-answers)
   - [Top 44 Python Interview Questions & Answers: Ultimate Guide 2023 | upGrad](https://www.upgrad.com/blog/python-interview-questions-answers/)
+  - [Top 50 Python Interview Questions of 2023 (with Answers) | codingem](https://www.codingem.com/python-interview-questions/)
   - [Top 50 Python Interview Questions With Answers For Freshers | OdinSchool](https://www.odinschool.com/blog/programming/top-python-interview-questions-with-answers-for-freshers)
   - [Top 50 Python Interview Questions With Example Answers | builtin](https://builtin.com/software-engineering-perspectives/python-interview-questions)
   - [Top 50+ Python Interview Questions & Answers | GeeksforGeeks](https://www.geeksforgeeks.org/python-interview-questions)
   - [53 Python Interview Questions and Answers](https://www.bestinterviewquestion.com/python-interview-questions)
   - [58 Python Interview Questions | javatpoint](https://www.javatpoint.com/python-interview-questions)
+  - [Top 64 Python Interview Questions and Answers from Beginners to Advanced | csestack](https://www.csestack.org/python-interview-questions-answers/)
   - [Top 65 Python Interview Questions in 2023 | Beginner to Pro |hackr.io](https://hackr.io/blog/python-interview-questions)
   - [Top 80 Python Interview Questions & Answers | CareerEra](https://www.careerera.com/blog/top-80-python-interview-questions-answers)
+  - [90+ Python Interview Questions to Ace Your Next Job Interview in 2023 | Analytics Vidhya](https://www.analyticsvidhya.com/blog/2022/07/python-coding-interview-questions-for-freshers/)
   - [TOP 100 Python Interview Questions and Answers | Linkedin](https://www.linkedin.com/pulse/top-100-python-interview-questions-answers-1f/)
   - [100+ Python Interview Questions And Answers | iMocha](https://blog.imocha.io/python-interview-questions-and-answers)
   - [100+ Python Interview Questions (2023) | Techbeamers]( https://www.techbeamers.com/python-interview-questions-programmers/)
@@ -148,6 +152,8 @@ This is the step by step (one by one) preparation for becoming professional prog
   - [141 Python Coding Interview Questions And Answers | codingcompiler](https://codingcompiler.com/python-coding-interview-questions-answers/)
   - [Top 145 Python Interview Questions And Answers for 2024 | mygreatlearning](https://www.mygreatlearning.com/blog/python-interview-questions/)
   - [150+ Python Interview Questions and Answers for Freshers | Data Flair](https://data-flair.training/blogs/top-python-interview-questions-answer/)
+  - [Top 154+ Python Interview Questions and Answers in 2023 | TechGeekBuzz](https://www.techgeekbuzz.com/blog/python-interview-questions/)
+  - [Top Advanced Python Interview Questions and Answers | Interview Kickstart](https://www.interviewkickstart.com/interview-questions/advanced-python-interview-questions)
   - [Top Python Interview Questions And Answers (2023 Updated) | koenig](https://www.koenig-solutions.com/blog/top-python-interview-questions-and-answers)
   - [Top Python interview questions and answers | Code Institute](https://codeinstitute.net/global/blog/top-python-interview-questions-answers/)
   - Youtube videos:
@@ -247,6 +253,7 @@ This is the step by step (one by one) preparation for becoming professional prog
     
 ### 9) Professional in Docker
   #### For Learning:
+  - https://www.techgeekbuzz.com/tutorial/docker/what-is-docker/
   - https://youtu.be/fqMOX6JJhGo
   #### For Interviews:
   - some website
