@@ -10,7 +10,7 @@ This is the step by step (one by one) preparation for becoming professional prog
 5. [Professional in Databases](#5-professional-in-databases)
 6. [Async programming (Threading, MultiThreading, Multiprocessing, GIL)](#6-async-programming-threading-multithreading-multiprocessing-gil)
 7. [Git and Github](#7-git-and-github)
-8. [Testing](#8-Testing)
+8. [Testing](#8-testing)
 9. [Professional in Docker](#9-professional-in-docker)
 10. [Professional in Data Structures and Algorithms](#10-professional-in-data-structures-and-algorithms)
 11. [Professional in Artificial Intelligence](#11-professional-in-artificial-intelligence)
@@ -28,11 +28,13 @@ This is the step by step (one by one) preparation for becoming professional prog
 
 
 ### 1) Believe in yourself
-  - Golden Rule:  Главное попробовать
+  - Golden Rule: Главное попробовать
+  - Golden Rule: Be first or die trying
+  - Golden Rule: Try until it is enough to achieve your goal
   - Golden Rule: If you are tired, drink hot tea, walk 5k meters
-  - Golden Rule: If you can't do it, it can't be done
-  - Golden Rule:  [Learn to type confidently, do not stop until you make](https://github.com/aliktl/professional/blob/main/typingconfidence.md) (10 times in a row >=55 words per minute)
-  - Golden Rule:  [Learn to compete, do not stop until you make](https://leetcode.com/contest/) (leetcode >=1550 rating)
+  - Golden Rule: [If you can't do it, it can't be done](https://www.youtube.com/watch?v=W6QmEl9JyuU&pp=ygUbaWYgeW91IGNhbiBudCBkbyBpdCBpdCBjYW50)
+  - Golden Rule: [Learn to type confidently, do not stop until you make](https://github.com/aliktl/professional/blob/main/typingconfidence.md) (10 times in a row >=55 words per minute)
+  - Golden Rule: [Learn to compete, do not stop until you make](https://leetcode.com/contest/) (leetcode >=1550 rating)
   - [Первые шаги](https://jut.su/baby-steps/)
   - Youtube motivation:
     - [Когда все пойдет не так](https://www.youtube.com/watch?v=Ym6ze7O_Vxc)
