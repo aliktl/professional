@@ -124,6 +124,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://thecodingbot.com/time-complexity-of-built-in-len-function-in-python/
   - https://www.tutorialspoint.com/pytest/index.htm
   - https://www.techgeekbuzz.com/blog/python-projects/
+  - https://www.youtube.com/watch?v=5V7XG1mGiHc&list=PLlb7e2G7aSpTTNp7HBYzCBByaE1h54ruW
   #### For Interviews:
   - [Top 10 Most Asked Python Interview Questions With Answers Part 01| medium (faun)](https://faun.pub/top-10-most-asked-python-interview-questions-with-answers-part-01-by-muhammad-umair-547ff49a5673)
   - [10 Python Interview Questions With Example Answers | indeed](https://in.indeed.com/career-advice/interviewing/python-interview-questions)
@@ -144,9 +145,12 @@ This is the step by step (one by one) preparation for becoming professional prog
   - [Top 20 Python Interview Questions and Answer | medium (Hub4Tech)](https://medium.com/@hub4tech/top-20-python-interview-questions-and-answer-ebac4aae7c69)
   - [The 23 Top Python Interview Questions & Answers | DataCamp](https://www.datacamp.com/blog/top-python-interview-questions-and-answers)
   - [Top 25 Python Interview Questions And Answers | educba](https://www.educba.com/python-interview-questions/)
+  - [25 Python Interview Questions to Hire the Best Developers for Your Team | Bridge](https://bridgeteams.com/blog/25-python-developer-interview-questions-to-ask-junior-middle-and-senior-programmers/)
   - [30 Python Interview Questions and Answers Programming | knowledgehut](https://www.knowledgehut.com/interview-questions/python)
   - [41 Python Interview Questions [+ Answer Guide] | Springboard](https://www.springboard.com/blog/data-science/python-interview-questions/)
   - [Top 44 Python Interview Questions & Answers: Ultimate Guide 2023 | upGrad](https://www.upgrad.com/blog/python-interview-questions-answers/)
+  - [45 Python Interview Questions and Answers for 2023 | devteam](https://www.devteam.space/hiring-interview-tips/python-interview-questions-and-answers/)
+  - [49 Python Interview Questions To Prepare for in 2023 | indeed](https://www.indeed.com/career-advice/interviewing/python-interview-questions)
   - [Top 50 Python Interview Questions of 2023 (with Answers) | codingem](https://www.codingem.com/python-interview-questions/)
   - [Top 50 Python Interview Questions With Answers For Freshers | OdinSchool](https://www.odinschool.com/blog/programming/top-python-interview-questions-with-answers-for-freshers)
   - [Top 50 Python Interview Questions With Example Answers | builtin](https://builtin.com/software-engineering-perspectives/python-interview-questions)
@@ -163,17 +167,24 @@ This is the step by step (one by one) preparation for becoming professional prog
   - [100+ Python interview questions and answers for 2023 | Turing](https://www.turing.com/interview-questions/python)
   - [TOP 100 Python Interview Questions and Answers | Linkedin](https://www.linkedin.com/pulse/top-100-python-interview-questions-answers-1f/)
   - [100+ Python Interview Questions And Answers | iMocha](https://blog.imocha.io/python-interview-questions-and-answers)
+  - [Top 100+ Python Interview Questions and Answers (2023) | intellipaat](https://intellipaat.com/blog/interview-question/python-interview-questions/)
   - [100+ Python Interview Questions (2023) | Techbeamers]( https://www.techbeamers.com/python-interview-questions-programmers/)
   - [Top 100+ Python Interview Questions You Must Prepare In 2024 | Edureka](https://www.edureka.co/blog/interview-questions/python-interview-questions/)
   - [122 Python Interview Questions | codingninjas](https://www.codingninjas.com/studio/library/interview-questions-for-python)
   - [141 Python Coding Interview Questions And Answers | codingcompiler](https://codingcompiler.com/python-coding-interview-questions-answers/)
   - [Top 145 Python Interview Questions And Answers for 2024 | mygreatlearning](https://www.mygreatlearning.com/blog/python-interview-questions/)
   - [150+ Python Interview Questions and Answers for Freshers | Data Flair](https://data-flair.training/blogs/top-python-interview-questions-answer/)
+  - [Top 150 Python Interview Questions and Answers for 2023 | simplilearn](https://www.simplilearn.com/tutorials/python-tutorial/python-interview-questions)
   - [Top 154+ Python Interview Questions and Answers in 2023 | TechGeekBuzz](https://www.techgeekbuzz.com/blog/python-interview-questions/)
   - [Python Interview Questions and Answers | crampete](https://www.crampete.com/blogs/python-interview-questions-answers/)
   - [Top Advanced Python Interview Questions and Answers | Interview Kickstart](https://www.interviewkickstart.com/interview-questions/advanced-python-interview-questions)
   - [Top Python Interview Questions And Answers (2023 Updated) | koenig](https://www.koenig-solutions.com/blog/top-python-interview-questions-and-answers)
   - [Top Python interview questions and answers | Code Institute](https://codeinstitute.net/global/blog/top-python-interview-questions-answers/)
+  - [Interview Questions for Junior Python Developer | LinkedIn](https://www.linkedin.com/pulse/interview-questions-junior-python-developer-konstiantyn-drozdov/)
+  - [Best Python Interview Questions And Answers | ideamotive](https://www.ideamotive.co/python/interview)
+  - [Python Interview Questions | interviewbit](https://www.interviewbit.com/python-interview-questions/)
+  - [Junior Python Developer Interview Questions | resumeworded](https://resumeworded.com/interview-questions/junior-python-developer#anchor_for_nav_1)
+  - [Most Popular Python Interview Questions | interviewkickstart](https://www.interviewkickstart.com/interview-questions/python-interview-questions)
   - Youtube videos:
     - [TOP 21 Python Interview Questions & Answers | Freshers & Experienced Candidates](https://www.youtube.com/watch?v=IT9A6ZtR_9s)
     - 
@@ -203,6 +214,9 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.javatpoint.com/linux-interview-questions
   - https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
   #### For Interviews:
+  - [Top 70 OOPs Interview Questions and Answers 2024 | mygreatlearning](https://www.mygreatlearning.com/blog/oops-interview-questions/)
+  - [REST API Interview Questions & Answers](https://www.mygreatlearning.com/blog/rest-api-interview-questions/)
+  - [Top 20 Linux Interview Questions and Answers 2023](https://www.mygreatlearning.com/blog/linux-interview-questions/)
 
 ### 5) Professional in Databases
   #### For Learning:
@@ -212,7 +226,8 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/watch?v=_vFiyFaQCPA&list=PLwyVx3OgslBUFSxcMbX7mGCTrDliUdypV&index=6
   - https://www.youtube.com/watch?v=M-55BmjOuXY
   #### For Interviews:
-  - some website
+  - [180+ SQL Interview Questions and Answers in 2023](https://www.mygreatlearning.com/blog/sql-interview-questions/)
+  - [Top 50 DBMS Interview Questions](https://www.mygreatlearning.com/blog/dbms-interview-questions/)
 
 ### 6) Async programming (Threading, MultiThreading, Multiprocessing, GIL)
   #### For Learning:
@@ -266,7 +281,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   #### For Learning:
   - some website
   #### For Interviews:
-  - some website
+  - [Top 50+ Cybersecurity Interview Questions and Answers 2023](https://www.mygreatlearning.com/blog/cybersecurity-interview-questions/)
 
     
 ### 9) Professional in Docker
@@ -276,6 +291,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   #### For Interviews:
   - some website
   - [22 Docker Interview Questions and Answers](https://www.bestinterviewquestion.com/docker-interview-questions)
+  - [Top DevOps Interview Questions and Answers 2022](https://www.mygreatlearning.com/blog/devops-interview-questions/)
     
 ### 10) Professional in Data Structures and Algorithms
   - https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns
@@ -325,6 +341,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O
   - https://www.youtube.com/watch?v=XGClOyyliPs&list=PL7yh-TELLS1HgoWUfxGzoaa7PEJ2Q-RfC
   - https://www.youtube.com/watch?v=XGClOyyliPs&list=PL7yh-TELLS1HgoWUfxGzoaa7PEJ2Q-RfC
+  #### For Interviews:
 
 
 ### 11) Professional in Artificial Intelligence
@@ -361,8 +378,10 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/watch?v=1lwddP0KUEg
   - https://www.youtube.com/watch?v=QM5XDc4NQJo&list=PL7yh-TELLS1G9mmnBN3ZSY8hYgJ5kBOg-
   - https://www.youtube.com/watch?v=jg5paDArl3E&list=PL7yh-TELLS1EZGz1-VDltwdwZvPV-jliQ
-
-
+  #### For Interviews:
+  - [Deep Learning Interview Questions in 2023](https://www.mygreatlearning.com/blog/deep-learning-interview-questions/)
+  - [Artificial Intelligence Interview Questions and Answers in 2023](https://www.mygreatlearning.com/blog/artificial-intelligence-interview-questions/)
+  - [Top 170 Machine Learning Interview Questions and Answers (2024)](https://www.mygreatlearning.com/blog/machine-learning-interview-questions/)
 
 
 
@@ -375,8 +394,9 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://github.com/ossu/data-science/blob/master/README.md#about
   - https://www.youtube.com/watch?v=hVcEv7rEN24&list=PL7yh-TELLS1FfO5Q8KHK31VgsrcnWcTAk
   - https://www.youtube.com/watch?v=gE2UqbtZPAc&list=PLJOzdkh8T5ko3zzRRwhowooIqnp58jq1b
-
-
+  #### For Interviews:  
+  - [Data Engineer Interview Questions](https://www.mygreatlearning.com/blog/data-engineer-interview-questions/)
+  - [100+ Data Science Interview Questions in 2023](https://www.mygreatlearning.com/blog/data-science-interview-questions/)
 
 
 ### 13) Google Analytics
@@ -393,7 +413,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.springboard.com/blog/software-engineering/21-software-engineering-interview-questions/
   - https://careerkarma.com/blog/behavioral-interview-questions/
   - https://www.themuse.com/advice/30-behavioral-interview-questions-you-should-be-ready-to-answer
-  
+  - [25 Common Job Interview Questions and Answers](https://www.mygreatlearning.com/blog/common-interview-questions/)
   
 ### 16) Front end
   Vue JS
@@ -423,6 +443,8 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.mygreatlearning.com/blog/aws-interview-questions/
   - https://www.mygreatlearning.com/blog/cloud-computing-interview-questions/
   
+  #### For Interviews:
+  - [AWS Interview Questions and Answers in 2022](https://www.mygreatlearning.com/blog/aws-interview-questions/)
 
 
 
