@@ -10,3 +10,11 @@
     This is important for various reasons, including simplifying memory management across multiple threads. It also prevents multiple threads from accessing shared data at the same time, which can cause data corruption. 
 
     Finally, the GIL ensures compatibility with C extension models that aren’t designed to handle multi-threading.
+
+    **Answer №3:** Python is not thread-safe when it comes to memory management. So, if you're running multiple threads, the GIL is a bottleneck; it only allows one thread to access memory at a time. If everything is happening in one thread, then you're fine. But if multi-threading then, when one thread accesses memory, the GIL blocks all the other threads.
+
+   This is a problem for multi-threaded python programs. It is not a problem for multi-processing python since each process has its own memory.
+   
+   See if your candidate mentions "bottleneck", "multi-threading" and "memory management".
+   
+   Solutions are to use multi-processing, use extensions written in C, or use other Python implementations like IronPython, or Cython.
