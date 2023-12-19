@@ -220,6 +220,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
   #### For Interviews:
   - [15 Python OOPs interview questions and answers | testgorilla](https://www.testgorilla.com/blog/python-oops-interview-questions/)
+  - [Python OOPs Interview Questions (With Answers And Tips) | indeed](https://in.indeed.com/career-advice/interviewing/python-oops-interview-questions)
   - [Top 70 OOPs Interview Questions and Answers 2024 | mygreatlearning](https://www.mygreatlearning.com/blog/oops-interview-questions/)
   - [REST API Interview Questions & Answers](https://www.mygreatlearning.com/blog/rest-api-interview-questions/)
   - [Top 20 Linux Interview Questions and Answers 2023](https://www.mygreatlearning.com/blog/linux-interview-questions/)
