@@ -215,12 +215,16 @@ This is the step by step (one by one) preparation for becoming professional prog
     
 ### 4) Back end + Object Oriented Programming
   #### For Learning:
+  - https://www.geeksforgeeks.org/python-oops-concepts/
+  - https://realpython.com/python3-object-oriented-programming/
   - https://www.youtube.com/watch?v=1ndlRiaYiWQ
   - https://www.javatpoint.com/linux-interview-questions
   - https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
   #### For Interviews:
   - [15 Python OOPs interview questions and answers | testgorilla](https://www.testgorilla.com/blog/python-oops-interview-questions/)
-  - [Python OOPs Interview Questions (With Answers And Tips) | indeed](https://in.indeed.com/career-advice/interviewing/python-oops-interview-questions)
+  - [30 OOPs Interview Questions and Answers (2023) | geeksforgeeks](https://www.geeksforgeeks.org/oops-interview-questions/)
+  - [Top 15 Python OOPS Interview Questions and Answers | hipeople](https://www.hipeople.io/interview-questions/python-oops-interview-questions)
+  - [Python OOPS Interview Questions (30- 35 Questions) | safalta](https://www.safalta.com/careers/python-oops-interview-questions-30-35-questions)
   - [Top 70 OOPs Interview Questions and Answers 2024 | mygreatlearning](https://www.mygreatlearning.com/blog/oops-interview-questions/)
   - [REST API Interview Questions & Answers](https://www.mygreatlearning.com/blog/rest-api-interview-questions/)
   - [Top 20 Linux Interview Questions and Answers 2023](https://www.mygreatlearning.com/blog/linux-interview-questions/)
