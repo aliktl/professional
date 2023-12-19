@@ -205,6 +205,11 @@ This is the step by step (one by one) preparation for becoming professional prog
   #### For Interviews:
   - some website
   - [27 Django Interview questions and Answers](https://www.bestinterviewquestion.com/django-interview-questions)
+  - [Django Interview Questions 30 | interviewbit](https://www.interviewbit.com/django-interview-questions/)
+  - [Top 50 Django Interview Questions and Answers | simplilearn](https://www.simplilearn.com/django-interview-questions-article)
+  - [Top 50 Django Interview Questions and Answers You Need to Know in 2024 | edureka](https://www.edureka.co/blog/interview-questions/django-interview-questions/)
+  - [Django Interview Questions | javatpoint](https://www.javatpoint.com/django-interview-questions-and-answers)
+  - [Top 50 Django Interview Questions and Answers | geeksforgeeks](https://www.geeksforgeeks.org/django-interview-questions/)
 
 
     
