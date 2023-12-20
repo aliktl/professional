@@ -255,6 +255,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - [Full pytest documentation | Official Documentation](https://docs.pytest.org/en/7.1.x/contents.html)
   - [unittest — Unit testing framework | Official Documentation](https://docs.python.org/3/library/unittest.html#basic-example)
   - [Types of Software Testing | geeksforgeeks](https://www.geeksforgeeks.org/types-software-testing/)
+  - [Effective Python Testing With Pytest | realpython](https://realpython.com/pytest-python-testing/)
   #### For Interviews:
   - [Top 80+ Software Testing Interview Questions To Know In 2024 | edureka](https://www.edureka.co/blog/interview-questions/software-testing-interview-questions/)
   - [85+ Software Testing Interview Questions and Answers | guru99](https://www.guru99.com/testing-interview-questions.html)
