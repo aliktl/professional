@@ -250,8 +250,25 @@ This is the step by step (one by one) preparation for becoming professional prog
 
 ### 6) Testing
   #### For Learning:
-  - some website
+  - [Pytest Tutorial – How to Test Python Code | freeCodeCamp](https://www.youtube.com/watch?v=cHYq1MRoyI0)
+  - [Getting Started With Testing in Python | realpython](https://realpython.com/python-testing/)
+  - [Full pytest documentation | Official Documentation](https://docs.pytest.org/en/7.1.x/contents.html)
+  - [unittest — Unit testing framework | Official Documentation](https://docs.python.org/3/library/unittest.html#basic-example)
+  - [Types of Software Testing | geeksforgeeks](https://www.geeksforgeeks.org/types-software-testing/)
   #### For Interviews:
+  - [Top 80+ Software Testing Interview Questions To Know In 2024 | edureka](https://www.edureka.co/blog/interview-questions/software-testing-interview-questions/)
+  - [85+ Software Testing Interview Questions and Answers | guru99](https://www.guru99.com/testing-interview-questions.html)
+  - [Software Testing Interview Questions | interviewbit](https://www.interviewbit.com/software-testing-interview-questions/)
+  - [Top 75 Manual Testing Interview Questions and Answers for 2023 | simplilearn](https://www.simplilearn.com/manual-testing-interview-questions-and-answers-article)
+  - [Software Testing Interview Questions | geeksforgeeks](https://www.geeksforgeeks.org/software-testing-interview-questions/)
+  - [35 Pytest Interview Questions To Prepare | lambdatest](https://www.lambdatest.com/learning-hub/pytest-interview-questions)
+  - [Most frequently Asked Pytest Interview Questions | javainuse](https://www.javainuse.com/interview/pytest)
+  - [20 Pytest Interview Questions and Answers | climbtheladder](https://climbtheladder.com/pytest-interview-questions/)
+  - [Top 20 PyTest Interview Questions and Answers | ittamil](https://ittamil.in/blogs/top-20-pytest-interview-questions-and-answers)
+  - [7 PyTest Interview Questions and Answers | csestack](https://www.csestack.org/pytest-interview-questions-answers-python-framework-testing/)
+  - [20 Python unittest Interview Questions and Answers | climbtheladder](https://climbtheladder.com/python-unittest-interview-questions/)
+  - [Python interview questions and answers: Unit tests and TDD | w3resource](https://www.w3resource.com/python-interview/testing.php)
+  - [50 Unit Testing Interview Questions That Will Get You Hired | methodpoet](https://methodpoet.com/unit-testing-interview-questions/)
   - [Top 50+ Cybersecurity Interview Questions and Answers 2023](https://www.mygreatlearning.com/blog/cybersecurity-interview-questions/)
 
 ### 7) Git and Github
