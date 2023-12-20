@@ -238,6 +238,14 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.youtube.com/watch?v=M-55BmjOuXY
   #### For Interviews:
   - [180+ SQL Interview Questions and Answers in 2023](https://www.mygreatlearning.com/blog/sql-interview-questions/)
+  - [Top 50+ Database Interview Questions And Answers | softwaretestinghelp](https://www.softwaretestinghelp.com/database-interview-questions/)
+  - [DBMS Interview Questions | interviewbit](https://www.interviewbit.com/dbms-interview-questions/)
+  - [Top 50 Database Interview Questions and Answers (2023) | guru99](https://www.guru99.com/database-interview-questions.html)
+  - [DBMS Interview Questions | javatpoint](https://www.javatpoint.com/dbms-interview-questions)
+  - [Top 50 DBMS Interview Questions You Need to know in 2024 | edureka](https://www.edureka.co/blog/interview-questions/dbms-interview-questions)
+  - [29 Most Common DBMS Interview Questions to Expect for Your Next Interview in 2024 | simplilearn](https://www.simplilearn.com/dbms-interview-questions-and-answers-article)
+  - [Top 115 SQL Interview Questions You Must Prepare In 2024 | edureka](https://www.edureka.co/blog/interview-questions/sql-interview-questions)
+  - []()
   - [Top 50 DBMS Interview Questions](https://www.mygreatlearning.com/blog/dbms-interview-questions/)
 
 ### 6) Async programming (Threading, MultiThreading, Multiprocessing, GIL)
