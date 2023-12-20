@@ -8,7 +8,7 @@ This is the step by step (one by one) preparation for becoming professional prog
 3. [Django](#3-django)
 4. [Back end + Object Oriented Programming](#4-back-end--object-oriented-programming)
 5. [Professional in Databases](#5-professional-in-databases)
-6. [Testing](#6-testing)
+6. [Professional in Testing](#6-professional-in-testing)
 7. [Git and Github](#7-git-and-github)
 8. [Professional in Docker](#8-professional-in-docker)
 9. [Async programming (Threading, MultiThreading, Multiprocessing, GIL)](#9-async-programming-threading-multithreading-multiprocessing-gil)
@@ -248,7 +248,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - []()
   - [Top 50 DBMS Interview Questions](https://www.mygreatlearning.com/blog/dbms-interview-questions/)
 
-### 6) Testing
+### 6) Professional in Testing
   #### For Learning:
   - [Pytest Tutorial – How to Test Python Code | freeCodeCamp](https://www.youtube.com/watch?v=cHYq1MRoyI0)
   - [Getting Started With Testing in Python | realpython](https://realpython.com/python-testing/)
