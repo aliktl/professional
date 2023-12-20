@@ -8,10 +8,10 @@ This is the step by step (one by one) preparation for becoming professional prog
 3. [Django](#3-django)
 4. [Back end + Object Oriented Programming](#4-back-end--object-oriented-programming)
 5. [Professional in Databases](#5-professional-in-databases)
-6. [Async programming (Threading, MultiThreading, Multiprocessing, GIL)](#6-async-programming-threading-multithreading-multiprocessing-gil)
+6. [Testing](#6-testing)
 7. [Git and Github](#7-git-and-github)
-8. [Testing](#8-testing)
-9. [Professional in Docker](#9-professional-in-docker)
+8. [Professional in Docker](#8-professional-in-docker)
+9. [Async programming (Threading, MultiThreading, Multiprocessing, GIL)](#9-async-programming-threading-multithreading-multiprocessing-gil)
 10. [Professional in Data Structures and Algorithms](#10-professional-in-data-structures-and-algorithms)
 11. [Professional in Artificial Intelligence](#11-professional-in-artificial-intelligence)
 12. [Professional in Data Science](#12-professional-in-data-science)
@@ -24,7 +24,7 @@ This is the step by step (one by one) preparation for becoming professional prog
 19. [Resources to find job or internship](#19-resources-to-find-job-or-internship)
 20. [Business 101](#20-business-101)
 21. [Professional in Project Management](#21-professional-in-project-management)
-22. [Professional resources](#22-professional-resources)
+22. [Professional resources](#22-professional-resources) 
 
 
 ### 1) Believe in yourself
@@ -248,7 +248,39 @@ This is the step by step (one by one) preparation for becoming professional prog
   - []()
   - [Top 50 DBMS Interview Questions](https://www.mygreatlearning.com/blog/dbms-interview-questions/)
 
-### 6) Async programming (Threading, MultiThreading, Multiprocessing, GIL)
+### 6) Testing
+  #### For Learning:
+  - some website
+  #### For Interviews:
+  - [Top 50+ Cybersecurity Interview Questions and Answers 2023](https://www.mygreatlearning.com/blog/cybersecurity-interview-questions/)
+
+### 7) Git and Github
+  #### For Learning:
+  - [Traversy Media: Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo)
+  - https://youtu.be/RGOj5yH7evk
+  - https://youtu.be/zZBiln_2FhM
+  - https://youtu.be/SWYqp7iY_Tc
+  - https://youtu.be/MJUJ4wbFm_A
+  - https://www.simplilearn.com/tutorials/git-tutorial/git-interview-questions
+  #### For Interviews:
+  - some website
+  - create professional in devops
+  - create professional in vs code
+  - create professional in pycharm
+
+
+    
+### 8) Professional in Docker
+  #### For Learning:
+  - https://www.techgeekbuzz.com/tutorial/docker/what-is-docker/
+  - https://youtu.be/fqMOX6JJhGo
+  #### For Interviews:
+  - some website
+  - [22 Docker Interview Questions and Answers](https://www.bestinterviewquestion.com/docker-interview-questions)
+  - [Top DevOps Interview Questions and Answers 2022](https://www.mygreatlearning.com/blog/devops-interview-questions/)
+    
+
+### 9) Async programming (Threading, MultiThreading, Multiprocessing, GIL)
   #### For Learning:
   - https://www.youtube.com/watch?v=nR8WhdcRJwM
   - https://www.youtube.com/watch?v=ZGfv_yRLBiY&list=PLlWXhlUMyooawilqK4lPXRvxtbYiw34S8
@@ -282,36 +314,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   #### For Interviews:
   - some website
 
-### 7) Git and Github
-  #### For Learning:
-  - [Traversy Media: Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo)
-  - https://youtu.be/RGOj5yH7evk
-  - https://youtu.be/zZBiln_2FhM
-  - https://youtu.be/SWYqp7iY_Tc
-  - https://youtu.be/MJUJ4wbFm_A
-  - https://www.simplilearn.com/tutorials/git-tutorial/git-interview-questions
-  #### For Interviews:
-  - some website
-  - create professional in devops
-  - create professional in vs code
-  - create professional in pycharm
 
-### 8) Testing
-  #### For Learning:
-  - some website
-  #### For Interviews:
-  - [Top 50+ Cybersecurity Interview Questions and Answers 2023](https://www.mygreatlearning.com/blog/cybersecurity-interview-questions/)
-
-    
-### 9) Professional in Docker
-  #### For Learning:
-  - https://www.techgeekbuzz.com/tutorial/docker/what-is-docker/
-  - https://youtu.be/fqMOX6JJhGo
-  #### For Interviews:
-  - some website
-  - [22 Docker Interview Questions and Answers](https://www.bestinterviewquestion.com/docker-interview-questions)
-  - [Top DevOps Interview Questions and Answers 2022](https://www.mygreatlearning.com/blog/devops-interview-questions/)
-    
 ### 10) Professional in Data Structures and Algorithms
   - https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns
   - https://leetcode.com/list/xlern30i/
