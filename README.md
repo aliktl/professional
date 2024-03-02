@@ -230,6 +230,7 @@ This is the step by step (one by one) preparation for becoming professional prog
 
 ### 5) Professional in Databases
   #### For Learning:
+  - https://www.youtube.com/watch?v=HXV3zeQKqGY&list=PLwyVx3OgslBUFSxcMbX7mGCTrDliUdypV&index=4
   - https://www.tutorialspoint.com/sql/index.htm
   - https://www.mygreatlearning.com/blog/sql-interview-questions/
   - https://www.youtube.com/watch?v=-WEpWH1NHGU
