@@ -184,6 +184,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - [Python Interview Questions | interviewbit](https://www.interviewbit.com/python-interview-questions/)
   - [Junior Python Developer Interview Questions | resumeworded](https://resumeworded.com/interview-questions/junior-python-developer#anchor_for_nav_1)
   - [Most Popular Python Interview Questions | interviewkickstart](https://www.interviewkickstart.com/interview-questions/python-interview-questions)
+  - https://medium.com/@prateekbansalind/python-topics-for-beginners-from-basic-to-advanced-312cbedf8d0e
   - Youtube videos:
     - [TOP 21 Python Interview Questions & Answers | Freshers & Experienced Candidates](https://www.youtube.com/watch?v=IT9A6ZtR_9s)
     - 
