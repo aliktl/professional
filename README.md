@@ -124,7 +124,11 @@ This is the step by step (one by one) preparation for becoming professional prog
   - https://www.tutorialspoint.com/pytest/index.htm
   - https://www.techgeekbuzz.com/blog/python-projects/
   - https://www.youtube.com/watch?v=5V7XG1mGiHc&list=PLlb7e2G7aSpTTNp7HBYzCBByaE1h54ruW
+  - http://prog.tversu.ru/library/Python.pdf
+
+    
   #### For Interviews:
+  - https://github.com/yakimka/python_interview_questions?tab=readme-ov-file
   - [Top 10 Most Asked Python Interview Questions With Answers Part 01| medium (faun)](https://faun.pub/top-10-most-asked-python-interview-questions-with-answers-part-01-by-muhammad-umair-547ff49a5673)
   - [10 Python Interview Questions With Example Answers | indeed](https://in.indeed.com/career-advice/interviewing/python-interview-questions)
   - [10 senior Python developer interview questions and answers | epam anywhere](https://anywhere.epam.com/en/blog/senior-python-developer-interview-questions)
