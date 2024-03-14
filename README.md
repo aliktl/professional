@@ -73,6 +73,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - [Python Notes for Professionals | goalkicker](https://books.goalkicker.com/PythonBook/)
   - [Python Tutorial | geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=dhm)
   - [The Python Tutorial | Official Documentation](https://docs.python.org/3/tutorial/index.html)
+  - https://docs.python.org/3/faq/programming.html#programming-faq
   - https://www.youtube.com/@selfedu_rus/playlists
   - https://www.simplilearn.com/tutorials/python-tutorial/how-to-become-python-developer
   - https://www.programiz.com/python-programming
