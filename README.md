@@ -72,6 +72,8 @@ This is the step by step (one by one) preparation for becoming professional prog
 
 ### 2) Professional in Python programming language
   #### For Learning:
+  1. 
+  2. 
   - [Python Notes for Professionals | goalkicker](https://books.goalkicker.com/PythonBook/)
   - [Python Tutorial | geeksforgeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=dhm)
   - [The Python Tutorial | Official Documentation](https://docs.python.org/3/tutorial/index.html)
@@ -132,6 +134,12 @@ This is the step by step (one by one) preparation for becoming professional prog
 
     
   #### For Interviews:
+  1. [100 вопросов с собеседований Python. Полный разбор реальных вопросов.](https://www.youtube.com/watch?v=zKkuWq0vIPE&t)
+  2. [100 вопросов с собеседований Python. Повышаем уровень.](https://www.youtube.com/watch?v=ojtQ9GsJPbQ&t)
+  3. [100 вопросов для подготовки к собесу Python](https://habr.com/ru/articles/782266/)
+  4.  
+  5. 
+  6.
   - [Вопросы для подготовки к Python Developer интервью](https://github.com/yakimka/python_interview_questions?tab=readme-ov-file)
   - [100+ ВОПРОСОВ ПО PYTHON ДЛЯ JUNIOR, MIDDLE И SENIOR](https://itvdn.com/ru/blog/article/interview-questions-python-developer)
   - [Top 10 Most Asked Python Interview Questions With Answers Part 01| medium (faun)](https://faun.pub/top-10-most-asked-python-interview-questions-with-answers-part-01-by-muhammad-umair-547ff49a5673)
