@@ -28,7 +28,7 @@ This is the step by step (one by one) preparation for becoming professional prog
 
 
 ### 1) Believe in yourself
-  - Golden Rule: Довольство Аллаха
+  - Golden Rule: [Довольство Аллаха](https://islam-today.ru/veroucenie/poklonenie/kak-obresti-dovolstvo-allaha/)
   - Golden Rule: Всегда сразу доводи все дела до конца не торопясь
   - Golden Rule: Главное попробовать
   - Golden Rule: Be first or die trying
