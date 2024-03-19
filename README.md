@@ -135,11 +135,11 @@ This is the step by step (one by one) preparation for becoming professional prog
     
   #### For Interviews:
   1. [100 вопросов с собеседований Python. Полный разбор реальных вопросов.](https://www.youtube.com/watch?v=zKkuWq0vIPE&t)
-  2. [100 вопросов с собеседований Python. Повышаем уровень.](https://www.youtube.com/watch?v=ojtQ9GsJPbQ&t)
-  3. [100 вопросов для подготовки к собесу Python](https://habr.com/ru/articles/782266/)
-  4.  
-  5. 
-  6.
+  2. 
+  - [100 вопросов с собеседований Python. Повышаем уровень.](https://www.youtube.com/watch?v=ojtQ9GsJPbQ&t)
+  - [100 вопросов для подготовки к собесу Python](https://habr.com/ru/articles/782266/)
+
+    
   - [Вопросы для подготовки к Python Developer интервью](https://github.com/yakimka/python_interview_questions?tab=readme-ov-file)
   - [100+ ВОПРОСОВ ПО PYTHON ДЛЯ JUNIOR, MIDDLE И SENIOR](https://itvdn.com/ru/blog/article/interview-questions-python-developer)
   - [Top 10 Most Asked Python Interview Questions With Answers Part 01| medium (faun)](https://faun.pub/top-10-most-asked-python-interview-questions-with-answers-part-01-by-muhammad-umair-547ff49a5673)
