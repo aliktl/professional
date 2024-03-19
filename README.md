@@ -28,6 +28,8 @@ This is the step by step (one by one) preparation for becoming professional prog
 
 
 ### 1) Believe in yourself
+  - Golden Rule: Довольство Аллаха
+  - Golden Rule: Всегда сразу доводи все дела до конца не торопясь
   - Golden Rule: Главное попробовать
   - Golden Rule: Be first or die trying
   - Golden Rule: If you are tired, drink hot tea, walk 5k steps
