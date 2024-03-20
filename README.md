@@ -134,11 +134,16 @@ This is the step by step (one by one) preparation for becoming professional prog
 
     
   #### For Interviews:
-  1. [100 вопросов с собеседований Python. Полный разбор реальных вопросов.](https://www.youtube.com/watch?v=zKkuWq0vIPE&t)
-  2. 
-  - [100 вопросов с собеседований Python. Повышаем уровень.](https://www.youtube.com/watch?v=ojtQ9GsJPbQ&t)
+  1. [Top 50+ Python Interview Questions & Answers | GeeksforGeeks](https://www.geeksforgeeks.org/python-interview-questions)
+  2. [100 вопросов с собеседований Python. Полный разбор реальных вопросов.](https://www.youtube.com/watch?v=zKkuWq0vIPE&t)
+  3. [100 вопросов с собеседований Python. Повышаем уровень.](https://www.youtube.com/watch?v=ojtQ9GsJPbQ&t)
   - [100 вопросов для подготовки к собесу Python](https://habr.com/ru/articles/782266/)
 
+
+  - [Top 154+ Python Interview Questions and Answers in 2023 | TechGeekBuzz](https://www.techgeekbuzz.com/blog/python-interview-questions/)
+  - [Top 150 Python Interview Questions and Answers for 2023 | simplilearn](https://www.simplilearn.com/tutorials/python-tutorial/python-interview-questions)
+  - [150+ Python Interview Questions and Answers for Freshers | Data Flair](https://data-flair.training/blogs/top-python-interview-questions-answer/)
+  
     
   - [Вопросы для подготовки к Python Developer интервью](https://github.com/yakimka/python_interview_questions?tab=readme-ov-file)
   - [100+ ВОПРОСОВ ПО PYTHON ДЛЯ JUNIOR, MIDDLE И SENIOR](https://itvdn.com/ru/blog/article/interview-questions-python-developer)
@@ -170,7 +175,6 @@ This is the step by step (one by one) preparation for becoming professional prog
   - [Top 50 Python Interview Questions of 2023 (with Answers) | codingem](https://www.codingem.com/python-interview-questions/)
   - [Top 50 Python Interview Questions With Answers For Freshers | OdinSchool](https://www.odinschool.com/blog/programming/top-python-interview-questions-with-answers-for-freshers)
   - [Top 50 Python Interview Questions With Example Answers | builtin](https://builtin.com/software-engineering-perspectives/python-interview-questions)
-  - [Top 50+ Python Interview Questions & Answers | GeeksforGeeks](https://www.geeksforgeeks.org/python-interview-questions)
   - [53 Python Interview Questions and Answers](https://www.bestinterviewquestion.com/python-interview-questions)
   - [58 Python Interview Questions | javatpoint](https://www.javatpoint.com/python-interview-questions)
   - [Top 61 Python Interview Questions And Answers | softwaretestinghelp](https://www.softwaretestinghelp.com/python/python-interview-questions/)
@@ -189,9 +193,7 @@ This is the step by step (one by one) preparation for becoming professional prog
   - [122 Python Interview Questions | codingninjas](https://www.codingninjas.com/studio/library/interview-questions-for-python)
   - [141 Python Coding Interview Questions And Answers | codingcompiler](https://codingcompiler.com/python-coding-interview-questions-answers/)
   - [Top 145 Python Interview Questions And Answers for 2024 | mygreatlearning](https://www.mygreatlearning.com/blog/python-interview-questions/)
-  - [150+ Python Interview Questions and Answers for Freshers | Data Flair](https://data-flair.training/blogs/top-python-interview-questions-answer/)
-  - [Top 150 Python Interview Questions and Answers for 2023 | simplilearn](https://www.simplilearn.com/tutorials/python-tutorial/python-interview-questions)
-  - [Top 154+ Python Interview Questions and Answers in 2023 | TechGeekBuzz](https://www.techgeekbuzz.com/blog/python-interview-questions/)
+  
   - [Python Interview Questions and Answers | crampete](https://www.crampete.com/blogs/python-interview-questions-answers/)
   - [Top Advanced Python Interview Questions and Answers | Interview Kickstart](https://www.interviewkickstart.com/interview-questions/advanced-python-interview-questions)
   - [Top Python Interview Questions And Answers (2023 Updated) | koenig](https://www.koenig-solutions.com/blog/top-python-interview-questions-and-answers)
