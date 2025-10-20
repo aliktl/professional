@@ -48,6 +48,7 @@ This is the step by step (one by one) preparation for becoming professional prog
     - [Эмоциональный разговор с тренером о драке с Райаном. Никогда не сдавайся](https://www.youtube.com/watch?v=NBSHaKDfSOk)
     - [Когда все надоело просто забей](https://www.youtube.com/watch?v=3aXkU4_EbVU)
   - Top LeetCoders (in Python):
+    - https://leetcode.com/u/AKKI0511/ (top 179 in weekly 470 365/365 activity; top 100-200: 50 leetcoins)
     - https://leetcode.com/u/rakhmedovrs/
     - https://leetcode.com/DBabichev/
     - https://leetcode.com/brthyyjp/
