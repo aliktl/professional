@@ -39,6 +39,8 @@ This is the step by step (one by one) preparation for becoming professional prog
   - Golden Rule: [Learn to type confidently, do not stop until you make](https://github.com/aliktl/professional/blob/main/typingconfidence.md) (10 times in a row >=55 words per minute)
   - Golden Rule: [Learn to compete, do not stop until you make](https://leetcode.com/contest/) (leetcode >=1550 rating)
   - [Первые шаги](https://jut.su/baby-steps/)
+  - https://site.yummyani.me/catalog/item/pervye-shagi-1
+  - https://site.yummyani.me/catalog/item/pervye-shagi-2-2025-11-28
   - Youtube motivation:
     - [Когда все пойдет не так](https://www.youtube.com/watch?v=Ym6ze7O_Vxc)
     - [The skill of self confidence | Dr. Ivan Joseph | TEDxRyersonU](https://www.youtube.com/watch?v=w-HYZv6HzAs&pp=ygUOdGVkIGNvbmZpZGVuY2U%3D)
