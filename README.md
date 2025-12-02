@@ -47,6 +47,7 @@ This is the step by step (one by one) preparation for becoming professional prog
     - [Mike Ross' Interview with Harvey Specter | Suits](https://www.youtube.com/watch?v=ImEnWAVRLU0)
     - [Эмоциональный разговор с тренером о драке с Райаном. Никогда не сдавайся](https://www.youtube.com/watch?v=NBSHaKDfSOk)
     - [Джейк отправляется на турнир. Начало турнира. HD](https://www.youtube.com/watch?v=m6rBFcf9W7E)
+    - [Слежка за тренером в попытке вернуться в секцию. Никогда не сдавайся.](https://www.youtube.com/watch?v=pQWgfBewAYE)
     - [Когда все надоело просто забей](https://www.youtube.com/watch?v=3aXkU4_EbVU)
     - [Стал Senior Разработчиком за 2 года. Главные выводы](https://www.youtube.com/watch?v=M-a-02y9HlI&list=PLeLN0qH0-mCWp-hVvclMqgP2sluUaZtUe)
   - Top LeetCoders (in Python):
